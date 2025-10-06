@@ -1,0 +1,307 @@
+secret,question,ig
+helmet,What is the function of the object?,0.00039431128661249204
+helmet,Is it a helmet?,0.007656594399790606
+microcomputer,What is the function of the object?,0.0007342570342920851
+microcomputer,"What method does it use to process information, electronic, analog, biological, etc..",0.01948464721523635
+microcomputer,Is it a computer?,0.002192578947195045
+microcomputer,What kind of information does this computer typically process?,0.0007981282808557921
+microcomputer,Does it have a more specific purpose than general information processing?,0.00620082646365816
+microcomputer,What type of computer is it?,0.012042345309094316
+microcomputer,Is it a calculator?,0.0028133764601534494
+microcomputer,"Does it typically process images, numbers, words, geospatial, or another type of information?",0.004266185949809653
+microcomputer,"Which type of information does it process, images, numbers, words, geospatial, or another type of information?",0.007319755501203673
+microcomputer,Is it a smartphone?,0.00620082646365816
+microcomputer,Is it a personal device?,0.004266185949809653
+microcomputer,Where is this object typically located?,0.00017713517657824696
+microcomputer,Is it a tablet?,0.00620082646365816
+microcomputer,Is this object smaller or larger than a laptop?,0.022819506408257695
+microcomputer,Is this object smaller or larger than a phone?,0.022819506408257695
+microcomputer,Is this object a phone?,0.00620082646365816
+microcomputer,Is this object smaller or larger than headphones?,0.022819506408257695
+microcomputer,Who typically uses this device?,0.0018891233547222441
+microcomputer,Describe the physical attributes of this device,0.0005061722701711346
+microcomputer,What material is it made of?,0.008830438934356977
+microcomputer,Does it have a screen?,0.00620082646365816
+microcomputer,What year was it invented?,0.007934841005726057
+microcomputer,Is it a screen?,0.00620082646365816
+microcomputer,Is it primarily a communication device?,0.00620082646365816
+microcomputer,Is this a general-purpose technology?,0.004266185949809653
+microcomputer,Is it a television?,0.0028133764601534494
+microcomputer,Is it a transponder,0.00620082646365816
+microcomputer,a,0.007656594399790606
+sweatshirt,What is the function of the object?,0.0012584930263415117
+sweatshirt,"Where is it typically worn? (hand, boby, legs, head, other, not worn)",0.04214675275165547
+sweatshirt,Is it a coat?,0.00620082646365816
+sweatshirt,Is it a sweatshirt?,0.007656594399790606
+curtain,What is the function of the object?,0.00349100427833271
+curtain,Is it blinds?,0.0028133764601534494
+curtain,Is it curtains?,0.007656594399790606
+underwear,What is the function of the object?,0.0006264682479759642
+underwear,"Where is it typically worn? (head, hands, body, legs, other, not worn)",0.04214675275165547
+underwear,Is it a shirt?,0.0028133764601534494
+underwear,What material is the object typically made of?,0.007998519107829338
+underwear,Who typically wears this object?,0.011827004878142588
+underwear,Is it a type of shirt?,0.0028133764601534494
+underwear,Is it a jacket?,0.00620082646365816
+underwear,Does it cover the full torso?,0.00620082646365816
+underwear,What parts of the body does it cover?,0.0005429807935968256
+underwear,Is it pants?,0.0028133764601534494
+underwear,Is it underwear?,0.007656594399790606
+pill,What is the function of the object?,0.002153768190218841
+pill,Is it used for diagnostic or treatment purposes?,0.004266185949809653
+pill,Is it used for diagnoses?,0.0028133764601534494
+pill,Is it a type of treatment?,0.004266185949809653
+pill,Is it a type of medicine?,0.002192578947195045
+pill,Is it fever medicine?,0.00620082646365816
+pill,Is it a pill?,0.007656594399790606
+computer,What is the function of the object?,0.0007342570342920851
+computer,"What type of information does it process? visual, audio, word, geospatial, text, communication, other",0.006226513454947735
+computer,"What size is it? (less than 1 ft cubed, about 1 foot cubed, about 2 foot cubed, greater than 2 foot cubed)",0.00047727257628693565
+computer,Is it a computer?,0.007656594399790606
+container,What is the function of the object?,0.0012788287424356781
+container,What type of objects does it typically hold?,0.008117567244543267
+container,Where is it typically located?,0.003232127970564491
+container,Is it a backpack?,0.00620082646365816
+container,"What size is it? (less than 1 ft cubed, about 1 foot cubed, about 2 foot cubed, greater than 2 foot cubed)",0.000466840116050804
+container,Where is it typically located?,0.003232127970564491
+container,Who typically owns it?,0.0008443131761133316
+container,What physical material is it typically made of?,0.007998519107829338
+container,Is it a basket?,0.00620082646365816
+container,Is it a bowl?,0.00620082646365816
+container,What is typically put in the object?,0.0011509760733297014
+container,Is it a drawer,0.00620082646365816
+container,Is it typically found indoors?,0.004266185949809653
+container,Is it a type of furniture?,0.0028133764601534494
+container,Does it typically belong to an individual or shared between a housefold?,0.004277479328781197
+container,How common is this object?,0.006162643447069627
+container,"Is it typically used for papers, liquids, foods, people, clothes, other, all of the above?",0.0001940695731477149
+container,Is it a purse?,0.0028133764601534494
+container,Is it a suitcase?,0.00620082646365816
+bedpost,What is the primary function of the object?,0.006303882331657462
+bedpost,"What kind of support? emotional, bodily, construction, etc..",0.020430921110353495
+bedpost,Is it a pillar?,0.0028133764601534494
+bedpost,Where is this typically located?,0.005886771937550606
+bedpost,Is it a mattress?,0.0028133764601534494
+bedpost,Is it part of a room or an object in the bedroom?,0.004266185949809653
+bedpost,Is it a part of the construction of a room?,0.004266185949809653
+bedpost,Is it a wall?,0.0028133764601534494
+bedpost,Is it a wallboard,0.00620082646365816
+bedpost,"How large is it? (less than 1 ft cubed, about 1 foot cubed, about 2 foot cubed, about 3 ft, about 4 ft, about 5 ft, about 6 ft, greater than 6ft)",0.00047798068958826434
+bedpost,Is it only found in a bedroom?,0.004266185949809653
+bedpost,Is it a footboard,0.00620082646365816
+bedpost,Is it part of a bed,0.004266185949809653
+bedpost,Is it a bedframe?,0.00620082646365816
+bedpost,Is it part of the construction of the bed?,0.004266185949809653
+bedpost,Is it a bedpost,0.007656594399790606
+xylophone,What is the function of the object?,0.0272857760616958
+xylophone,Is it an instrument?,0.002192578947195045
+xylophone,"What type of instrument? (woodwind, brass, strings, electronic, percussion, other)",0.019557033366258025
+xylophone,"What type of percussion is it? (mallet, drum, other traditional, other nontraditional)",0.004292508577634635
+xylophone,Is it a xylophone?,0.007656594399790606
+mound,What is the function of the object?,3.699176193450171e-05
+mound,List a few of the functions of the object,0.03699692532893639
+mound,What is the object made of?,0.01146787840768404
+mound,What is the color of the object,0.007934841005726057
+mound,Where is the object typically located?,0.00017713517657824696
+mound,"How large is it? (less than 1 ft cubed, about 1 foot cubed, about 2 foot cubed, about 3 ft, about 4 ft, about 5 ft, about 6 ft, greater than 6ft)",0.00013304148874127009
+mound,Is it typically greater than 6ft?,0.00620082646365816
+mound,How large is it typically?,0.00010240538994210624
+mound,Is it typically found indoors or outdoors or both?,0.006816988219828346
+mound,"Is it found in nature, man-made, or both?",0.0012312006324748381
+mound,Can this form naturally?,0.002192578947195045
+mound,Is it a landform?,0.004266185949809653
+mound,Is it a waterfall?,0.0028133764601534494
+mound,Is it mostly made of rocks?,0.0028133764601534494
+mound,Is it mostly made of water?,0.0028133764601534494
+mound,Is it a type of natural material?,0.004266185949809653
+mound,Is it a mineral?,0.00620082646365816
+mound,"What type of material is it? (animal product, mineral, plant product, other)",0.006226513454947735
+mound,Is it primarily composed of soil or sand?,0.004266185949809653
+mound,Is it formed primarily by wind or water erosion?,0.00620082646365816
+mound,Is it a sand dune?,0.0028133764601534494
+mound,Is it a hill?,0.0028133764601534494
+mound,Is it a material used in other things?,0.00620082646365816
+mound,Is it a mound,0.007656594399790606
+housecoat,What is the function of the object?,0.004756705812603457
+housecoat,"Where is it typically worn? (feet, legs, torso, hands, head)",0.013771843022173158
+housecoat,Is it a shirt?,0.00620082646365816
+housecoat,Is it a jacket?,0.00620082646365816
+housecoat,What is it typically made of?,0.007153462623350038
+housecoat,Is it a backpack?,0.00620082646365816
+housecoat,Is it an undergarment?,0.00620082646365816
+housecoat,Is it ethnic clothing?,0.00620082646365816
+housecoat,Is it an apron?,0.00620082646365816
+housecoat,Is it a dress?,0.0028133764601534494
+housecoat,Who typically wears it?,0.0018891233547222441
+housecoat,Does it have sleeves?,0.004266185949809653
+housecoat,Is it a robe?,0.004266185949809653
+housecoat,Is it a bathrobe?,0.00620082646365816
+housecoat,Is it used for ceremonial purposes?,0.0028133764601534494
+housecoat,Is it a type of robe?,0.004266185949809653
+housecoat,Is it an academic robe?,0.0028133764601534494
+housecoat,Is it a hospital gown?,0.00620082646365816
+housecoat,Is it a housecoat,0.008813049675680418
+noose,What is the function of the object?,0.0026550753183123277
+noose,"Is it typically found indoors, outdoors, or both?",0.0012312006324748381
+noose,"What does it typically hang? (clothes, flag, other)",0.006226513454947735
+noose,"Is what it hangs typically decorative, functional, or both?",0.012729610357599341
+noose,Is what it hangs typically heavy?,0.004266185949809653
+noose,What is the typical weight of something that it would hang?,0.00010240538994210624
+noose,"Where is it mounted? (ceiling, wall, or ground)",3.699176193450171e-05
+noose,Is it a pulley?,0.0028133764601534494
+noose,"What industry typically uses it? (e.g. construction, home, gym)",0.0028133764601534494
+noose,Is it the ceiling?,0.0028133764601534494
+noose,Is it a crossbeam,0.00620082646365816
+noose,What is it typically made of?,0.004680095334826717
+noose,Is it rope?,0.004266185949809653
+noose,Is it a net?,0.0028133764601534494
+noose,Is it a noose?,0.007656594399790606
+housetop,What is the function of the object?,0.00312327642081911
+housetop,Where is it typically found?,0.00216223568993712
+housetop,Is it a roof?,0.002192578947195045
+housetop,Is it a sunroof?,0.0028133764601534494
+housetop,Is it a shingle?,0.00620082646365816
+housetop,Is it a rafter,0.00620082646365816
+housetop,What is it made of?,0.007998519107829338
+housetop,Is it a housetop?,0.007656594399790606
+workstation,What is the function of the object?,0.001495073992654028
+workstation,What type of work is it used for?,0.0012367375054047614
+workstation,Where is it typically found?,0.006384009983150918
+workstation,Who typically uses it?,0.0073614915618414045
+workstation,Is it a type of electronic?,0.004266185949809653
+workstation,"What is it used for? (calculcation, word processing, information processing)",0.03818094863781951
+workstation,Is it a computer?,0.004266185949809653
+workstation,Is it portable?,0.0028133764601534494
+workstation,Is it primarily used for communication?,0.00620082646365816
+workstation,Is it a modern computer?,0.004266185949809653
+workstation,What type of professional uses this?,0.004266185949809653
+workstation,"Does it have a monitor, tower, and keyboard?",0.004266185949809653
+bathtub,What is the function of thre object?,0.016527906314660612
+bathtub,Is it a cup?,0.0028133764601534494
+bathtub,What is it typically made of?,0.007998519107829338
+bathtub,Is it a bucket?,0.0028133764601534494
+bathtub,Is it a bath?,0.004266185949809653
+bathtub,is it a bathtub?,0.007656594399790606
+goalpost,what is the function of the object?,0.0006372061207216007
+goalpost,Is it a goalpost?,0.007656594399790606
+jumpsuit,What is the function of the object?,0.004756705812603457
+jumpsuit,"Where is it typically worn? (feet, legs, torso, hands, head)",0.016133553875341988
+jumpsuit,Is it a jumpsuit?,0.007656594399790606
+umbrella,What is the function of the object?,0.0003040678476331493
+umbrella,Is it an umbrella?,0.007656594399790606
+drum,What is the function of the object?,0.009171717037030902
+drum,Is it an instrument?,0.002192578947195045
+drum,"WHat type of instrument? (woodwind, percussion,brass, string, electronic, other traditional, other non-traditional)",0.019557033366258025
+drum,"What type of percussion? (mallet,drum,traditional other, non-traditional other)",0.007656594399790606
+bandage,What is the function of the object?,0.0033835180861778724
+bandage,Is it a bandage?,0.007656594399790606
+radar,What is the function of the object?,0.0014890535234535207
+radar,What is the object typically made of?,0.0264800890210104
+radar,Where is this typically found?,0.00026704018854672995
+radar,Is it radar?,0.007656594399790606
+broom,What is the function of the object?,0.0018720254339044118
+broom,Is it a broom?,0.007656594399790606
+pool,What is the function of the object?,0.016527906314660612
+pool,What is it typically made out of?,0.003201641514671394
+pool,Where is this object typically located?,0.006615546285033247
+pool,Is it a birdbath?,0.0028133764601534494
+pool,Is it a basin?,0.004266185949809653
+pool,"What is it used for? (decoration, washing, water retention, other)",0.0006943430638770565
+pool,Is it a moat?,0.00620082646365816
+pool,Is it a pool?,0.007656594399790606
+blowtorch,What is the function of the object?,0.0013490763604302458
+blowtorch,Is it an oven?,0.0028133764601534494
+blowtorch,Is it a stove?,0.00620082646365816
+blowtorch,Is it used for cooking?,0.00620082646365816
+blowtorch,"What is it used for? (industry, decoration, beauty, utility, other)",0.001794730878206252
+blowtorch,Is it a heater?,0.00620082646365816
+blowtorch,Is it a boiler?,0.0028133764601534494
+blowtorch,Is it handheld?,0.004266185949809653
+blowtorch,Is it a dryer?,0.00620082646365816
+blowtorch,Is it a blowtorch?,0.007656594399790606
+condom,What is the function of the object?,0.0002488173962333917
+condom,Is it a condom?,0.007656594399790606
+pin,What is the function of the object?,3.699176193450171e-05
+pin,Where is the object typically located?,0.003232127970564491
+pin,Who typically owns this object?,0.0008443131761133316
+pin,What is this object made of?,0.03213568300188996
+pin,Is it a computer?,0.00620082646365816
+pin,Is it electronic?,0.00620082646365816
+pin,Is it a type of tool?,0.002192578947195045
+pin,Is it a pocketknife?,0.0028133764601534494
+pin,Is it a toolbox?,0.0028133764601534494
+pin,Who typically owns this?,0.0018891233547222441
+pin,Where would you find this tool used?,0.0004553467059729144
+pin,Is it pliers?,0.00620082646365816
+pin,Would it be found in a toolbox?,0.00620082646365816
+pin,Is it a scalpel,0.00620082646365816
+pin,Is it a multi-tool?,0.00620082646365816
+pin,Can it be found in a car?,0.00620082646365816
+pin,Is it large or fixed in place?,0.00620082646365816
+pin,c,0.007656594399790606
+inkwell,what it is the function of the object?,0.0023276124715323476
+inkwell,Is it an inkwell?,0.007656594399790606
+dagger,what it is the function of the object?,0.0012404392383480456
+dagger,Is it a knife?,0.004266185949809653
+dagger,Is it a cleaver,0.00620082646365816
+dagger,Is it a pocketknife,0.00620082646365816
+dagger,Is it used in the kitchen?,0.0028133764601534494
+dagger,Is it a bayonet,0.00620082646365816
+dagger,Is it a dagger,0.007656594399790606
+lotion,what is the function of the object?,0.002263055721122953
+lotion,Is it lotion,0.007656594399790606
+bib,what is the function of the object?,0.0013229685531968016
+bib,is it an apron?,0.0028133764601534494
+bib,Where is this typically used?,0.004058524731128443
+bib,Is it a bib?,0.007656594399790606
+necktie,what is the function of the object?,0.004756705812603457
+necktie,"Where is this worn? (feet, legs, torso, hands, neck, head)",0.01810181397306465
+necktie,Is this decorative?,0.004266185949809653
+necktie,Is it a necklace?,0.0028133764601534494
+necktie,Is it a necktie?,0.007656594399790606
+teapot,what is the function of the object?,0.0004795173000751163
+teapot,Is it a beaker?,0.0028133764601534494
+teapot,Where is it typically found?,0.006003801116943208
+teapot,Is it a cup?,0.0028133764601534494
+teapot,Does it have a handle and spout?,0.004266185949809653
+teapot,Is it a teapot,0.008813049675680418
+towel,what is the function of the object?,0.002683595443937037
+towel,Is it a sponge?,0.0028133764601534494
+towel,Is it a cloth?,0.004266185949809653
+towel,Is it a washcloth?,0.00620082646365816
+towel,Is it terrycloth,0.004266185949809653
+towel,Is it a towel?,0.007656594399790606
+canvas,what is the function of the object?,0.0025803522003116086
+canvas,Is it a paintbrush?,0.00620082646365816
+canvas,What is it typically made of?,0.004266185949809653
+canvas,Where is it typically found?,0.0006148405731778439
+canvas,Is it a canvas,0.007656594399790606
+barbell,what is the function of the object?,0.0016012456159408828
+barbell,Is it electronic?,0.00620082646365816
+barbell,Is it a simple machine?,0.00620082646365816
+barbell,What is it typically made of?,0.046299583846725056
+barbell,Is it a dumbbell?,0.00620082646365816
+barbell,Is it a Barbell?,0.007656594399790606
+spatula,what is the function of the object?,0.005666202682988342
+spatula,What is it typically made of?,0.007998519107829338
+spatula,Is it a handheld object?,0.002192578947195045
+spatula,Is it used to stir or flip food,0.004266185949809653
+spatula,Is it a spatula?,0.007656594399790606
+timer,what is the function of the object?,0.0006511985667216891
+timer,Is it a clock?,0.0028133764601534494
+timer,Is it a stopwatch,0.00620082646365816
+timer,Is it a wristwatch,0.00620082646365816
+timer,Is it a timer,0.007656594399790606
+wardrobe,what is the function of the object?,0.003954367891264354
+wardrobe,What is it typically made out of?,0.025262356761636795
+wardrobe,Is it a crate?,0.0028133764601534494
+wardrobe,Where is it typically found?,0.005886771937550606
+wardrobe,Does it have drawers?,0.00620082646365816
+wardrobe,Is it a wardrobe,0.007656594399790606
+guitar,what is the function of the object?,0.0272857760616958
+guitar,Is it an instrument?,0.002192578947195045
+guitar,"What type of instrument? (percussion, woodwind, brass, traditional other, non-traditional other)",0.005814467548319158
+guitar,Is it an accordian?,0.00620082646365816
+guitar,Is it a string instrument?,0.002192578947195045
+guitar,Is it a Banjo,0.00620082646365816
+guitar,Is it a guitar?,0.007656594399790606

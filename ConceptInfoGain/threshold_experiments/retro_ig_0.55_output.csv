@@ -1,0 +1,526 @@
+secret,question,ig
+abacus,Guesser said: What is the general size of the object that you are thinking of?,0.00116535538734297
+abacus,Guesser said: What is the purpose or function of the object that you are thinking of?,0.00040760028626607436
+abacus,Guesser said: What material is the object made of?,0.03706914603928624
+abacus,Guesser said: How does the object help with counting and basic arithmetic operations?,0.00023150395032445203
+abacus,Guesser said: I believe the object you are thinking of is an abacus.?,0.007656594399790606
+accordion,Guesser said: What does the object look like?,0.0001981230639138687
+accordion,Guesser said: What is the primary function of the object?,0.001463585715310245
+accordion,Guesser said: What kind of sound does the object produce?,0.04509912447232978
+accordion,Guesser said: How does the user control the sound that the object produces?,0.0006823801575706057
+accordion,Guesser said: What is the texture of the surface of the object?,0.0038933491225030536
+accordion,Guesser said: I'm going to take a guess that the object is an accordion. ?,5.296363719153874e-05
+album,Guesser said: What is the general shape of the object?,0.002939650978220243
+album,Guesser said: What is the object used for?,0.038243463930342614
+album,Guesser said: What is the typical size of the object?,0.00024399350164117095
+album,Guesser said: How does the object make the music?,0.03039727194124353
+album,Guesser said: What is the object made of?,0.004875031756984782
+album,Guesser said: What is the music stored on?,0.007787010605817102
+album,Guesser said: I guess the object is a CD case. ?,5.296363719153874e-05
+album,uesser said: How is the object different from a CD case?,0.0001592328171113877
+album,uesser said: What does the object look like on the outside?,0.005828953303080198
+album,esser said: How does the object relate to the user of the object?,0.0003103894880176483
+album,esser said: I guess the object is a CD player. ?,5.296363719153874e-05
+album,sser said: How does the object hold the CDs?,0.0003226026416207617
+album,ser said: How does the user select which CD to listen to?,0.0003309168453036193
+album,ser said: What is on the outside of the sleeve?,0.0012758372727752487
+album,ser said: I guess the object is a CD album.?,0.007656594399790606
+altar,Guesser said: What is the general size of the object you are thinking of?,0.00016177248061666205
+altar,Guesser said: How is the object used by people?,0.0026100309703913638
+altar,Guesser said: What material is the object made of?,0.023720911994921323
+altar,Guesser said: How does the object relate to the people who use it?,0.009065639383301516
+altar,Guesser said: What is the shape of the object?,0.014564402308415936
+altar,Guesser said: How does the object relate to the people who use it in their daily lives?,0.00403018962740731
+altar,Guesser said: What is the object's significance in the culture of the people who use it?,0.006951743336326643
+altar,Guesser said: I'm going to take a guess that the object is an altar. ?,5.296363719153874e-05
+anchor,Guesser said: What is the object's size?,0.0012542259401158162
+anchor,Guesser said: How is the object used?,0.00013202668543854656
+anchor,Guesser said: What is the object's shape?,0.008958489562477467
+anchor,Guesser said: What is the object's purpose in the context of the ship or boat?,3.699176193450171e-05
+anchor,Guesser said: What is the object made of?,0.02189902413401157
+anchor,Guesser said: How does the object relate to the people who use it?,0.008651140464358775
+anchor,Guesser said: What is the environment in which the object is typically used?,0.05668066201809552
+anchor,"Guesser said: What are the object's physical characteristics, such as its weight, texture, and color?",0.013005631526379346
+anchor,Guesser said: I think the object is an anchor. ?,5.296363719153874e-05
+anklet,Guesser said: What is the general shape of the object?,0.012718287926869465
+anklet,Guesser said: How does the object relate to people's daily lives?,0.0017213554252570873
+anklet,Guesser said: What is the object made of?,0.07099210568909342
+anklet,Guesser said: Is the object a watch?,0.005494798072874119
+anklet,Guesser said: What is the size of the object?,0.008155161625136742
+anklet,Guesser said: What is the object's function?,0.012943161965395689
+anklet,Guesser said: What is the color of the object?,0.007082819242800298
+anklet,Guesser said: Is the object an earring?,0.005494798072874119
+anklet,Guesser said: What is the weight of the object?,0.0012179863879104857
+anklet,Guesser said: Is the object a ring?,0.005494798072874119
+anklet,Guesser said: How does the object stay on the person?,0.0018876395153952785
+anklet,Guesser said: Is the object an anklet?,0.007656594399790606
+anvil,Guesser said: What is the general shape of the object you are thinking of?,0.0033168354889632212
+anvil,Guesser said: What is the object used for?,0.014309040535689377
+anvil,Guesser said: What is the material the object is made of?,0.07099210568909342
+anvil,Guesser said: How does the object shape the metal?,0.0022106399662256138
+anvil,Guesser said: What is the size of the object?,0.00010578535800220834
+anvil,Guesser said: What is my object?,0.0026531450962199443
+anvil,Guesser said: What are some common locations where the object can be found?,0.0010757605999778264
+anvil,Guesser said: How is the object typically used in the context of shaping metal?,0.003654677274703033
+anvil,Guesser said: What is my object?,0.006234368965555959
+anvil,Guesser said: What is the object's purpose in relation to the metal being shaped?,0.003251588240441805
+anvil,Guesser said: What are the object's physical characteristics?,0.011120914608088839
+anvil,Guesser said: My object is an anvil.?,0.007656594399790606
+apron,Guesser said: What is the general size of the object you are thinking of?,0.000982650422734821
+apron,Guesser said: What is the main purpose of the object you are thinking of?,0.0003540841791966898
+apron,Guesser said: What is the material the object is made of?,0.01957055321153689
+apron,Guesser said: How is the object used in relation to the user's body?,0.001188575503039857
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What is the typical color of the object you are thinking of?,0.006810993255299991
+apron,Guesser said: How does the object you are thinking of differ from other objects that serve the same purpose?,0.0010791689783147262
+apron,Guesser said: What is the object you are thinking of?,0.0008982940850081889
+apron,Guesser said: What is the object you are thinking of?,0.006234368965555959
+apron,Guesser said: What are some common situations where the object is used?,0.048014492995150704
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are some of the object's distinctive features?,0.0002532357527371687
+apron,Guesser said: What is the object you are thinking of?,0.0008982940850081889
+apron,Guesser said: What is the object's texture?,0.02007706362212147
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: How does the object you are thinking of relate to other objects that are used for the same purpose?,0.007930656095034294
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What is the object's shape when it is being used?,0.0012226561171964079
+apron,Guesser said: What is the object you are thinking of?,0.0006787613549761318
+apron,Guesser said: What is the object you are thinking of?,0.006234368965555959
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are some common places where the object is found?,0.048146883472021784
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What is the object you are thinking of?,0.0008982940850081889
+apron,Guesser said: What are the object's notable features that distinguish it from other objects?,0.0035350386114814114
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: How does the object you are thinking of vary in terms of design?,0.0012474448614021583
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are some common tasks that the object helps with?,0.005504675549488525
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What are some common features that the object has?,0.001981013956299904
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What is the object made of?,0.01957055321153689
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are some of the object's uses in different settings?,0.0023317873803101463
+apron,Guesser said: What is the object's composition?,0.01957055321153689
+apron,Guesser said: What is the object you are thinking of?,0.0008982940850081889
+apron,Guesser said: What is the object's size when it is not being used?,3.699176193450171e-05
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are the object's key characteristics?,0.005726154017033025
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What is the object's weight?,0.005719095461664381
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What is the object you are thinking of?,0.0035616670948819262
+apron,Guesser said: What are some of the object's uses in a professional setting?,0.014564536854088317
+apron,Guesser said: What is the object you are thinking of?,0.000710616200255032
+apron,Guesser said: What are some of the object's common colors?,0.043015715597817916
+armchair,Guesser said: What does the object look like?,0.0021253992450347425
+armchair,Guesser said: What is the typical use of the object?,0.0021452749515695757
+armchair,Guesser said: What is the material the object is made of?,0.023992281101410384
+armchair,Guesser said: How does a person typically interact with the object?,0.007854738317082166
+armchair,Guesser said: What is the size of the object?,0.00759154565851361
+armchair,Guesser said: I think the object is a chair.?,0.007656594399790606
+armoire,Guesser said: What is the object's size relative to a human hand?,0.0011670118833073673
+armoire,Guesser said: How does the object interact with its environment?,0.0001772116292251269
+armoire,Guesser said: What is the object's shape?,0.014897625067565201
+armoire,Guesser said: What is the object's primary function?,0.01089910702680541
+armoire,Guesser said: What material is the object made of?,0.020830393894431865
+armoire,Guesser said: I'm going to guess that the object is a dresser.?,0.005494798072874119
+armoire,Guesser said: What is the object's style or aesthetic?,0.008637826808033822
+armoire,Guesser said: How does the object make people feel when they are around it?,0.0010254847840620585
+armoire,Guesser said: What is the object's color?,0.00441068569246994
+armoire,Guesser said: I'm going to guess that the object is a wardrobe.?,0.007656594399790606
+armor,Guesser said: What does the object look like?,0.00949477987650127
+armor,Guesser said: What is the object used for?,0.010189963373107958
+armor,Guesser said: What is the texture of the object?,0.01423514402131687
+armor,Guesser said: What is the object's purpose in relation to the user?,0.0002893124306346806
+armor,Guesser said: What is the shape of the object?,0.0069771454177889325
+armor,Guesser said: What size is the object?,0.0005028680068548397
+armor,Guesser said: How is the object typically used by a person?,0.007901324925647657
+armor,Guesser said: What is the composition of the object?,0.07099210568909342
+armor,Guesser said: I'm going to take a guess that the object is a suit of armor. ?,5.296363719153874e-05
+arms,Guesser said: What is the size of the object?,0.0017717093492635172
+arms,Guesser said: What is the typical use of the object?,0.008711112283386058
+arms,Guesser said: What is the material the object is made of?,0.07099210568909342
+arms,Guesser said: How many objects are typically used at one time?,0.01968752328897594
+arms,Guesser said: What is the shape of the object?,0.005946502417472743
+arms,Guesser said: My guess is that the object is a handle.?,0.005494798072874119
+arms,Guesser said: How does the object attach to the thing it is carrying?,0.007388807343300385
+arms,Guesser said: What is the texture of the object?,0.009909439620397364
+arms,Guesser said: My guess is that the object is a wheelbarrow handle.?,0.005494798072874119
+arms,Guesser said: What is the cultural significance of the object?,0.0065162040905129
+arms,Guesser said: What is the color of the object?,0.014474620791144588
+arms,Guesser said: My guess is that the object is a crutch.?,0.005494798072874119
+arms,Guesser said: How does the object move when it is being used?,0.0028743724467581444
+arms,Guesser said: My guess is that the object is a suitcase handle.?,0.005494798072874119
+arms,Guesser said: What is the weight of the object?,0.0058227458336581606
+arms,Guesser said: My guess is that the object is a dumbbell.?,0.005494798072874119
+arms,Guesser said: What is the object used for in a competitive setting?,0.00935231428951866
+arms,Guesser said: My guess is that the object is a sword.?,0.005494798072874119
+arms,Guesser said: What is the composition of the metal the object is made of?,0.011398978378078795
+arms,Guesser said: How does the object relate to other objects in the competitive setting?,0.0009625455030040087
+arms,Guesser said: My guess is that the object is a boxing glove.?,0.005494798072874119
+arms,Guesser said: What is the object's relationship to the human body?,0.024799297809494192
+arms,Guesser said: My guess is that the object is an arm.?,0.007656594399790606
+artifact,Guesser said: What is the general shape of the object that you are thinking of?,0.01075091255878391
+artifact,Guesser said: What is the purpose of the object that you are thinking of?,0.0068574263679970215
+artifact,Guesser said: What is the size of the object that you are thinking of?,0.0008142228464969037
+artifact,Guesser said: How does the object relate to other objects?,0.006676680752079278
+artifact,Guesser said: What is the surface texture of the object that you are thinking of?,0.0037915545188837996
+artifact,Guesser said: What is the object that you are thinking of?,0.006003839430910318
+artifact,Guesser said: How does the artifact interact with its environment?,0.007656594399790606
+ashcan,Guesser said: What is the general shape of the object?,0.0042157249508321115
+ashcan,Guesser said: What is the object used for?,0.00034576773017747087
+ashcan,Guesser said: What is the material the object is made of?,0.07099210568909342
+ashcan,Guesser said: What is the environment the object is typically found in?,0.008073706401276581
+ashcan,Guesser said: What is the size of the object?,0.000418826314366072
+ashcan,Guesser said: I'm going to take a guess that the object is an ashtray.?,0.005494798072874119
+ashcan,Guesser said: How does the object hold the ashes?,3.699176193450171e-05
+ashcan,Guesser said: What is the color of the object?,0.0007926198479886182
+ashcan,Guesser said: I'm going to take a guess that the object is a metal urn.?,0.005494798072874119
+ashcan,Guesser said: What is the weight of the object?,0.00562062971060584
+ashcan,Guesser said: How does the object keep the ashes from spilling out?,0.0011621009147049222
+ashcan,Guesser said: I'm going to take a guess that the object is a metal cremation urn.?,0.005494798072874119
+ashcan,Guesser said: What is the size of the object in inches?,0.00015414290015414167
+ashcan,Guesser said: I'm going to take a guess that the object is a metal funeral urn.?,0.005494798072874119
+ashcan,Guesser said: What is the texture of the object's surface?,0.012252601993715473
+ashcan,Guesser said: I'm going to take a guess that the object is a metal vase urn.?,0.005494798072874119
+ashcan,Guesser said: What is the style of the object?,0.025527611253853166
+ashcan,Guesser said: I'm going to take a guess that the object is a metal container for holding ashes.?,0.007656594399790606
+ashtray,Guesser said: What is the object's general shape?,0.01817330125166805
+ashtray,Guesser said: How is the object typically used?,0.0004635567244655192
+ashtray,Guesser said: What material is the object made of?,0.014860524554134003
+ashtray,Guesser said: I guess the object is an ashtray.?,0.007656594399790606
+asphalt,Guesser said: What does the object look like?,0.01707024200538143
+asphalt,Guesser said: What is the object used for?,0.0012241304504208017
+asphalt,Guesser said: What is the object made of?,0.0036303774884025586
+asphalt,Guesser said: What is the texture of the object?,0.0051715572341599625
+asphalt,Guesser said: How does the texture of the object change when it is exposed to heat?,0.007600770311523064
+asphalt,Guesser said: How is the object typically applied to a surface?,0.0007756696751215486
+asphalt,Guesser said: What is the approximate weight of the object?,0.00033166147457919237
+asphalt,Guesser said: I guess the object is asphalt. ?,5.296363719153874e-05
+awning,Guesser said: What is the object's general shape?,0.0035373289238300742
+awning,Guesser said: How is the object typically used?,0.001981513117961242
+awning,Guesser said: What is the object's size?,0.0012542259401158162
+awning,Guesser said: What is the object's typical environment?,0.02239791342901043
+awning,Guesser said: What is the object made of?,0.01957055321153689
+awning,Guesser said: How does the object relate to other objects?,0.0004576516628560512
+awning,Guesser said: What is the object's primary function in relation to the building or window it is attached to?,0.000132891215514519
+awning,Guesser said: What are the object's common colors?,0.013076429111546162
+awning,Guesser said: I believe the object is an awning.?,0.007656594399790606
+axe,Guesser said: What is the object's primary function?,0.000510260536270124
+axe,Guesser said: What does the object look like?,0.0003100452640687479
+axe,Guesser said: What is the metal head made of?,0.044988929286947865
+axe,Guesser said: How is the metal head attached to the handle?,0.00033058907879279786
+axe,Guesser said: What is the object used to chop?,0.004218940068735577
+axe,Guesser said: What is the object's size?,5.583110738882624e-05
+axe,Guesser said: I'm going to take a guess that the object is an axe. ?,5.296363719153874e-05
+backboard,Guesser said: What is the general shape of the object?,0.010903532020815732
+backboard,Guesser said: What is the object used for?,0.026446314352163824
+backboard,Guesser said: What is the size of the object?,0.000930695029204287
+backboard,Guesser said: What material is the object made of?,0.006721085326788057
+backboard,Guesser said: What sport is the object used for?,0.04429419300907966
+backboard,Guesser said: What is the weight of the object?,0.005678715408613755
+backboard,Guesser said: I'm going to take a guess that the object is a basketball backboard.?,0.007656594399790606
+backpack,Guesser said: What does the object look like?,0.0024588478102458566
+backpack,Guesser said: What is the object used for?,0.010554883530584647
+backpack,Guesser said: What material is the object made of?,0.020727930694995678
+backpack,Guesser said: What kind of things does the object typically carry?,0.0021372422317575968
+backpack,Guesser said: What does the object smell like?,0.0035318650304390076
+backpack,Guesser said: I think the object is a backpack.?,0.007656594399790606
+bag,Guesser said: What is the general shape of the object?,0.0030500392413053135
+bag,Guesser said: What is the object used for?,0.010554883530584647
+bag,Guesser said: How big is the object?,0.004538143860813193
+bag,Guesser said: How does the object relate to other objects?,0.0017792892147134864
+bag,Guesser said: What material is the object made of?,0.01957055321153689
+bag,Guesser said: I'm going to guess that the object is a bag.?,0.007656594399790606
+bagpipe,Guesser said: What is the general shape of the object?,0.0029075714288175902
+bagpipe,Guesser said: What is the purpose of the object?,0.03779350677281457
+bagpipe,Guesser said: What material is the object made of?,0.015781077313640424
+bagpipe,Guesser said: How is the music produced?,0.002020501991154333
+bagpipe,Guesser said: I think the object is a clarinet. ?,5.296363719153874e-05
+bagpipe,uesser said: What is the typical size of the object?,0.00397752177405053
+bagpipe,uesser said: How does the object relate to other objects that produce music?,0.04677532777395754
+bagpipe,esser said: How does the musician interact with the object to produce music?,0.004108532203240145
+bagpipe,uesser said: What is the color of the object?,0.0004690890289431593
+bagpipe,esser said: I think the object is a saxophone.?,0.005494798072874119
+bagpipe,sser said: How does the object differ from other objects that are similar in shape and purpose?,0.011440181072011057
+bagpipe,esser said: I think the object is a bagpipe. ?,5.296363719153874e-05
+ball,Guesser said: What is the general size of the object?,0.0027415740687501966
+ball,Guesser said: What is the primary function of the object?,0.0009568666759953715
+ball,Guesser said: What is the shape of the object?,0.015369856166589813
+ball,Guesser said: How is the object used?,0.0043747740815121006
+ball,Guesser said: What is the texture of the object?,0.009909439620397364
+ball,Guesser said: How does the object relate to other objects?,0.004190544115029837
+ball,Guesser said: What is the color of the object?,0.011932005464320383
+ball,Guesser said: How does the object relate to a person?,0.008884103444870561
+ball,Guesser said: What is the weight of the object?,0.005774423916719229
+ball,Guesser said: I think the object is a baseball.?,0.007656594399790606
+balloon,Guesser said: What is the general shape of the object?,0.010795801831292806
+balloon,Guesser said: What is the purpose of the object?,0.010687170050349692
+balloon,Guesser said: What size is the object?,0.002331158079282858
+balloon,Guesser said: How is the object typically used?,0.0053030645285048195
+balloon,Guesser said: What is the object made of?,0.011498513672368205
+balloon,Guesser said: I think the object is a rubber ball.?,0.005494798072874119
+balloon,Guesser said: What is the object's surface like?,0.012197353512021891
+balloon,Guesser said: How is the object used for entertainment?,0.008295269744650113
+balloon,Guesser said: What is the object's color?,0.01759016520154333
+balloon,Guesser said: How does the object make people feel?,0.00430179090817262
+balloon,Guesser said: I think the object is a red rubber balloon.?,0.007656594399790606
+bandage,Guesser said: What is the general shape of the object you are thinking of?,0.007634268144624201
+bandage,Guesser said: What is the object used for?,0.002598811589038519
+bandage,Guesser said: What material is the object made of?,0.020596573354588088
+bandage,Guesser said: How is the object applied to the wound?,0.003763902957182097
+bandage,Guesser said: I'm going to take a guess that the object is a band-aid. ?,5.296363719153874e-05
+bandanna,Guesser said: What is the size of the object you are thinking of?,0.0009688782957759656
+bandanna,Guesser said: How does the object you are thinking of relate to people?,0.003984233418865557
+bandanna,Guesser said: What is the object's purpose?,0.0006510244092226003
+bandanna,Guesser said: What material is the object made of?,0.02007706362212147
+bandanna,Guesser said: I'm going to guess that the object you are thinking of is a scarf.?,0.007656594399790606
+banjo,Guesser said: What does the object look like?,0.016741108886439093
+banjo,Guesser said: How is the object typically used?,0.04027256831577475
+banjo,Guesser said: What material is the object made of?,0.03706914603928624
+banjo,Guesser said: What is the cultural significance of the object?,0.003906879889868264
+banjo,Guesser said: What does the object's surface look like?,0.012413463744451292
+banjo,Guesser said: How is the object typically obtained?,0.0017007112094677979
+banjo,Guesser said: What is the object's size?,0.0039818862995524285
+banjo,Guesser said: My guess is that the object is a guitar. ?,5.296363719153874e-05
+banjo,uesser said: What is the object's shape like from the side?,0.009149370469465623
+banjo,uesser said: What is the object's purpose in a social setting?,0.003266411659382129
+banjo,esser said: What is the object's weight?,0.00571586625424203
+banjo,uesser said: How does the object relate to other objects in its category?,0.022261025940991885
+banjo,esser said: What is the object's age?,0.00019594968850711325
+banjo,sser said: My guess is that the object is a banjo. ?,5.296363719153874e-05
+banner,Guesser said: What is the size of the object you are thinking of?,0.0009688782957759656
+banner,Guesser said: How does the object relate to people?,0.009853247440744894
+banner,Guesser said: What is the texture of the object you are thinking of?,0.012417127934231331
+banner,Guesser said: What is the function of the object?,0.009492705843740623
+banner,Guesser said: What is the shape of the object you are thinking of?,0.003547830800016527
+banner,Guesser said: I'm going to take a guess that the object is a flag.?,0.007656594399790606
+barbell,Guesser said: What is the general shape of the object?,0.0008809555324056362
+barbell,Guesser said: What is the purpose of the object?,0.003304282233337119
+barbell,Guesser said: What are the weights on the end of the object made of?,0.07099210568909342
+barbell,Guesser said: How does one use the object?,0.008750258396975852
+barbell,Guesser said: What are the typical environments in which the object is used?,0.0005287299306964144
+barbell,Guesser said: What is the texture of the object?,0.014089525774341638
+barbell,Guesser said: I am going to guess that the object is a barbell. ?,5.296363719153874e-05
+barbwire,Guesser said: What does the object look like?,0.009773378851033243
+barbwire,Guesser said: What is the object used for?,0.001907111927270222
+barbwire,Guesser said: What material is the object made of?,0.07099210568909342
+barbwire,Guesser said: How is the object typically deployed?,0.0005671206936810336
+barbwire,Guesser said: What is the texture of the object?,0.00271883719599586
+barbwire,Guesser said: I'm going to take a guess that the object is a razor wire. ?,5.296363719153874e-05
+barbwire,uesser said: How does the object prevent access to certain areas?,0.0009621762510754195
+barbwire,uesser said: What is the object's typical environment?,0.0058533840997370135
+barbwire,esser said: How does weather affect the object?,0.0016951686011204004
+barbwire,uesser said: I'm going to take a guess that the object is a barbed wire.?,0.007656594399790606
+baseboard,Guesser said: What is the general shape of the object?,0.005859157592730924
+baseboard,Guesser said: What is the object used for?,0.0005063514113423651
+baseboard,Guesser said: What material is the object made of?,0.03706914603928624
+baseboard,Guesser said: How is the object made?,0.012243201279968474
+baseboard,Guesser said: What is the typical length of the object?,0.0036394739839451518
+baseboard,Guesser said: How does the object relate to other objects in the same environment?,0.0007105043276176559
+baseboard,Guesser said: What are some other objects that the object interacts with?,0.005746304397231228
+baseboard,Guesser said: I'm going to take a guess that the object is a baseboard. ?,5.296363719153874e-05
+basin,Guesser said: What is the general size of the object?,0.00033704011204349626
+basin,Guesser said: How is the object typically used?,0.001345654214045311
+basin,Guesser said: What is the shape of the object?,0.01817330125166805
+basin,Guesser said: What is the object used for in a typical day?,0.002015510922237951
+basin,Guesser said: What is the object made of?,0.005807218598445019
+basin,Guesser said: What is the object's primary function?,0.0005754932047636885
+basin,Guesser said: I think the object is a sink.?,0.005494798072874119
+basin,Guesser said: How does the object dispense the water it holds?,0.00025075259877027634
+basin,Guesser said: What is the typical location of the object?,0.006394363239063949
+basin,Guesser said: Is that a sufficient answer to the question?,0.005494798072874119
+basin,Guesser said: What is the typical location of the object in a house?,0.0009573607480497515
+basin,Guesser said: How is water typically put into the object?,0.0005156480166768063
+basin,Guesser said: I think the object is a bathtub.?,0.005494798072874119
+basin,Guesser said: What is the object's depth?,0.001681737776657144
+basin,Guesser said: I think the object is a bowl.?,0.005494798072874119
+basin,Guesser said: What is the object's width?,0.0008341763480430586
+basin,Guesser said: I think the object is a large ceramic planter.?,0.005494798072874119
+basin,Guesser said: What is the object's height?,0.0016128255683014459
+basin,Guesser said: I think the object is a ceramic sink.?,0.005494798072874119
+basin,Guesser said: What is the object's color?,0.007693303764472859
+basin,Guesser said: How does the object relate to washing?,0.003479910651876139
+basin,Guesser said: What is the object's texture?,0.005117973711925572
+basin,Guesser said: I think the object is a toilet.?,0.005494798072874119
+basin,Guesser said: What is the object's volume?,0.004477872471042588
+basin,Guesser said: I think the object is a large ceramic vase.?,0.005494798072874119
+basin,Guesser said: How does the object get emptied?,0.0033078279227982677
+basin,Guesser said: What is the object's weight?,0.00556356925431345
+basin,Guesser said: I think the object is a large ceramic basin.?,0.007656594399790606
+basket,Guesser said: What is the general shape of the object?,0.009466632858622148
+basket,Guesser said: What is the object used for?,0.010100722426152231
+basket,Guesser said: What size is the object?,0.0014678861680152977
+basket,Guesser said: How does the object relate to other objects?,0.011832379007493898
+basket,Guesser said: What is the object made of?,0.0009361154902549629
+basket,Guesser said: I'm going to take a guess that the object is a picnic basket.?,0.007656594399790606
+bassinet,Guesser said: What is the size of the object?,0.0008913504188683419
+bassinet,Guesser said: How is the object used?,0.002219585027884108
+bassinet,Guesser said: What is the object made of?,0.023883407053471473
+bassinet,Guesser said: What is the object's purpose in the context of a baby?,0.00019560266320794994
+bassinet,Guesser said: What is the shape of the object?,0.008728485130614416
+bassinet,Guesser said: How does the object support the baby's head and neck?,0.00032649754356839367
+bassinet,Guesser said: What is the color of the object?,0.007693303764472859
+bassinet,Guesser said: I guess the object is a crib. ?,5.296363719153874e-05
+bassinet,uesser said: What is the texture of the fabric of the object?,0.01007625306829496
+bassinet,uesser said: How does the object allow the baby to be transported?,0.0001014852029683766
+bassinet,esser said: I guess the object is a stroller. ?,5.296363719153874e-05
+bassinet,sser said: What is the style of the fabric of the object?,0.009090064959043076
+bassinet,esser said: What is the object's relationship to the baby's daily routine?,0.001737121922761986
+bassinet,ser said: I guess the object is a baby carriage.?,0.005494798072874119
+bassinet,ser said: What is the object's relationship to the baby's bedroom?,0.0019231352211939168
+bassinet,r said: I guess the object is a bassinet.?,0.007656594399790606
+bath,Guesser said: What is the general shape of the object that you are thinking of?,0.003487257628368212
+bath,Guesser said: How is the object typically used?,0.0016954154812296451
+bath,Guesser said: What is the size of the object that you are thinking of?,0.00036559654849455114
+bath,Guesser said: What is the social context in which the object is typically found?,3.699176193450171e-05
+bath,Guesser said: What material is the object made of?,0.002683859574695191
+bath,Guesser said: I think the object you are thinking of is a bathtub. ?,5.296363719153874e-05
+bathrobe,Guesser said: What is the general shape of the object that you are thinking of?,0.0011049158281437599
+bathrobe,Guesser said: How is the object you are thinking of typically used?,0.006154528846114005
+bathrobe,Guesser said: What is the object made of?,0.007556189820942194
+bathrobe,Guesser said: I'm going to take a guess that the object you are thinking of is a bathrobe.?,0.007656594399790606
+bathtub,Guesser said: What is the general shape of the object?,0.0028107983806151537
+bathtub,Guesser said: What is the object's primary function?,0.0007579400556707583
+bathtub,Guesser said: What is the object made of?,0.007604139662515053
+bathtub,Guesser said: I'm going to take a guess that the object is a bathtub.?,0.007656594399790606
+baton,Guesser said: What is the general size of the object that you are thinking of?,0.00281140141697378
+baton,Guesser said: How is the object typically used by people?,0.007235744784093612
+baton,Guesser said: What kind of material is the object made of?,0.020830393894431865
+baton,Guesser said: How does the object relate to other objects in its environment?,0.007225235906137328
+baton,Guesser said: What is the shape of the object?,0.005881103394141718
+baton,Guesser said: I'm going to take a guess that the object you are thinking of is a baton. ?,5.296363719153874e-05
+bayonet,Guesser said: What is the general shape of the object?,0.001124412878855452
+bayonet,Guesser said: What is the object typically used for?,0.007435659120634597
+bayonet,Guesser said: What material is the handle of the object made of?,0.01207228932154436
+bayonet,Guesser said: How is the object typically stored when not in use?,0.006394363239063949
+bayonet,Guesser said: What is the typical length of the object?,0.003643619796285691
+bayonet,Guesser said: What is the color of the object?,0.013974168230920014
+bayonet,Guesser said: What is the environment in which the object is typically used?,0.046759984632366525
+bayonet,Guesser said: What is my first guess of the object?,0.001355485176336657
+bayonet,Guesser said: How does the sharp point of the object function in its use for combat?,0.0002225646675846349
+bayonet,Guesser said: I guess the object is a bayonet.?,0.007656594399790606
+bead,Guesser said: What is the general size of the object you are thinking of?,0.00772319640969954
+bead,Guesser said: What is the object used for?,0.012943161965395689
+bead,Guesser said: What is the object made of?,0.01316951104116626
+bead,Guesser said: I think the object you are thinking of is a small plastic flower.?,0.005494798072874119
+bead,Guesser said: What is the typical color of the object?,0.010626435658572575
+bead,Guesser said: How is the object used for decoration?,0.0025820776230922604
+bead,Guesser said: I think the object you are thinking of is a small blue plastic bead. ?,0.007656594399790606
+beaker,Guesser said: What is the general shape of the object?,0.011846058024179484
+beaker,Guesser said: What is the object used for?,0.009514103593851075
+beaker,Guesser said: What size is the object?,6.97990696281181e-05
+beaker,Guesser said: How does the object relate to people's daily lives?,0.0021342936554233916
+beaker,Guesser said: What is the object made of?,0.025819157152064065
+beaker,Guesser said: How does the object make people's lives easier?,0.0008698742213084643
+beaker,Guesser said: I'm going to take a guess that the object is a measuring cup.?,0.005494798072874119
+beaker,Guesser said: What are some common features of the object?,0.005550691162778065
+beaker,Guesser said: What is the history of the object?,0.00022386231078641572
+beaker,Guesser said: How is the object used in laboratories?,0.009418319615139836
+beaker,Guesser said: What is the typical color of the object?,0.008487284104109705
+beaker,Guesser said: How does the object help with experiments?,0.002585284985102021
+beaker,Guesser said: I'm going to take a guess that the object is a beaker.?,0.007656594399790606
+beanie,Guesser said: What is the general shape of the object you are thinking of?,0.003666421145812393
+beanie,Guesser said: How is the object you are thinking of used by people?,0.0005298517148162318
+beanie,Guesser said: What material is the object made of?,0.01957055321153689
+beanie,Guesser said: What is the object you are thinking of?,0.0023073003768878664
+beanie,Guesser said: How does the object you are thinking of differ from a beanie?,0.007656594399790606
+bed,Guesser said: What is the general shape of the object?,0.0035823807227508553
+bed,Guesser said: What is the object's primary function?,7.03788569040853e-05
+bed,Guesser said: What material is the object made of?,0.020830393894431865
+bed,Guesser said: How is the object typically used in everyday life?,0.0009131586152157922
+bed,Guesser said: What is the typical size of the object?,0.0006614027407252365
+bed,Guesser said: I'm going to take a guess that the object is a bed.?,0.007656594399790606
+bedding,Guesser said: What is the general shape of the object?,0.010903532020815732
+bedding,Guesser said: What is the object used for?,0.001720736061969319
+bedding,Guesser said: What material is the object made of?,0.010914228302109308
+bedding,Guesser said: I am going to take a guess that the object is a bed sheet.?,0.007656594399790606
+bedpan,Guesser said: What does the object look like?,0.003896555021121628
+bedpan,Guesser said: What is the object used for?,0.0014437006177416833
+bedpan,Guesser said: What is the material the object is made of?,0.03441684742652029
+bedpan,Guesser said: I am going to take a guess that the object is a toilet.?,0.005494798072874119
+bedpan,Guesser said: What is the size of the object?,0.0039818862995524285
+bedpan,Guesser said: How does the object relate to other objects?,0.0022263113514782162
+bedpan,Guesser said: I am going to take a guess that the object is a bedpan.?,0.007656594399790606
+bedpost,Guesser said: What is the general size of the object you are thinking of?,0.0002465588152880116
+bedpost,Guesser said: What is the purpose or function of the object you are thinking of?,0.001288763418930472
+bedpost,Guesser said: What material is the object made of?,0.03706914603928624
+bedpost,Guesser said: How is the object typically used in relation to the piece of furniture it supports?,0.0003532482975820983
+bedpost,Guesser said: What shape is the object?,0.0098683603805938
+bedpost,Guesser said: I am going to guess that the object you are thinking of is a bedpost. ?,5.296363719153874e-05
+bell,Guesser said: What is the general shape of the object that you are thinking of?,0.001072738442267962
+bell,Guesser said: What is the object used for?,0.02081988270540336
+bell,Guesser said: What is the size of the object?,0.0027415740687501966
+bell,Guesser said: How does one use the object to make a sound?,0.0015410591508562277
+bell,Guesser said: What is the material the object is made of?,0.07099210568909342
+bell,Guesser said: I think the object is a bell.?,0.007656594399790606
+bench,Guesser said: What does the object look like?,0.0002581095699945024
+bench,Guesser said: What is the object used for?,0.00832537644561171
+bench,Guesser said: What material is the object made of?,0.020830393894431865
+bench,Guesser said: How is the object used in a typical day?,0.0077871508211586615
+bench,Guesser said: What is the object's environment like?,0.011469636669513505
+bench,Guesser said: What does the object's surface look like?,0.014821616984200148
+bench,Guesser said: I'm going to take a guess that the object is a bench.?,0.007656594399790606
+beret,Guesser said: What does the object look like?,0.009774583288965744
+beret,Guesser said: How is the object used?,0.012890775316460434
+beret,Guesser said: What material is the object made of?,0.01957055321153689
+beret,Guesser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,Guesser said: I'm glad I was able to guess the object. Can we play again?,0.005494798072874119
+beret,Guesser said: Why not?,0.0013609328816492905
+beret,uesser said: What is the purpose of the object?,0.012890775316460434
+beret,uesser said: What is the object made of?,0.01957055321153689
+beret,uesser said: How is the object used in relation to other objects?,0.01269889255274137
+beret,esser said: What is the object's shape?,0.015369856166589813
+beret,sser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,uesser said: How does the object relate to other objects?,0.010924692162031846
+beret,sser said: What is the object's size?,0.008759485379503218
+beret,sser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,er said: What is the object's texture?,0.020651726894609368
+beret,er said: What is the object's purpose?,0.012890775316460434
+beret,said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,aid: How does the object interact with the environment?,0.000811541999823362
+beret,esser said: What is the object's color?,0.01759016520154333
+beret,esser said: How does the object relate to other objects when it is being worn?,0.013364966400406075
+beret,ser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,ser said: What is the object's pattern?,0.0045524235073450825
+beret,r said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,aid: What is the object's smell?,0.005494798072874119
+beret,said: How is the object used?,0.0012751962898569502
+beret,ser said: What is the object's shape when it is not being worn?,0.010896614442710728
+beret,ser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,r said: What is the object's size when it is not being worn?,0.0015956947578317227
+beret,esser said: How is the object used in relation to other objects when it is being worn?,0.013213010960534177
+beret,ser said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,er said: What is the object's history?,0.0001018926195399672
+beret,er said: How does the object relate to other objects in its environment?,0.0019236046618900104
+beret,said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,er said: What is the object's cultural significance?,0.00017526382998767076
+beret,er said: What is the object's functional significance?,0.00131128595407759
+beret,said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,said: What is the object's relation to other objects in its environment when it is being worn?,0.01176706586332088
+beret,said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,sser said: How is the object used in relation to other objects?,0.01269889255274137
+beret,r said: What is the object's shape when it is being worn?,0.0004857921994485537
+beret,sser said: How is the object used in relation to other objects when it is being worn?,0.01176706586332088
+beret,er said: What is the object's size when it is being worn?,0.00010561710000800417
+beret,aid: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,r said: What is the object's shape?,0.015369856166589813
+beret,ser said: How is the object used?,0.012775455556081283
+beret,said: What is the object's material composition?,0.013494635658918952
+beret,r said: I'm going to take a guess that the object is a hat.?,0.004218940068735577
+beret,r said: What is the object's significance in different cultures?,3.699176193450171e-05
+beret,r said: What is the object's relation to other objects in its environment?,0.0019236046618900104
+beret,r said: What is the object's texture when it is being worn?,0.00028669468093411865
+bib,Guesser said: What is the general size of the object?,0.0015902482402090357
+bib,Guesser said: What is the primary function of the object?,0.008379714758763868
+bib,Guesser said: What material is the object made of?,0.01957055321153689
+bib,Guesser said: How is the object typically used?,0.001299671080371212
+bib,Guesser said: What is the shape of the object?,0.0069771454177889325
+bib,Guesser said: I'm going to take a guess that the object is a napkin.?,0.005494798072874119
+bib,Guesser said: How does the object stay in place while it is being used?,0.005320627276862666
+bib,Guesser said: What is the texture of the object?,0.005601618626894123
+bib,Guesser said: I'm going to take a guess that the object is a bib.?,0.007656594399790606

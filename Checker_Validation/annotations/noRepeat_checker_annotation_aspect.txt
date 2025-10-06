@@ -1,0 +1,501 @@
+object,mode,turn_idx,question,label
+rocket,aspect,8,Is the spacecraft you are thinking of the International Space Station?,Partial-aspect
+penlight,aspect,3,Is the object electric?,Partial-aspect
+timer,aspect,7,Is the object a clock?,Partial-aspect
+spool,aspect,33,What is the object you are thinking of?,Full-aspect
+grenade,aspect,13,Is the object a type of weapon?,Partial-aspect
+bazooka,aspect,18,What is the object's material composition besides metal?,Multi-aspect
+blowtorch,aspect,7,Does the object have a button or trigger that must be pressed in order to release the gas?,Partial-aspect
+carafe,aspect,3,Does the object have buttons or controls?,Partial-aspect
+faceplate,aspect,6,I'm going to guess that the object is a hammer.?,Partial-aspect
+tank,aspect,3,Is the object a vehicle?,Partial-aspect
+chalkboard,aspect,50,Is the object you are thinking of made of a synthetic material?,Partial-aspect
+cement,aspect,6,Is the object made of a material that can be molded or shaped when it is soft?,Partial-aspect
+shawl,aspect,15,What is the shape of the object?,Multi-aspect
+slipper,aspect,4,Is the object a sock?,Partial-aspect
+earphone,aspect,14,Is the object used with another device,Partial-aspect
+chalkboard,aspect,23,Is the object you are thinking of a graphite stick?,Partial-aspect
+paperweight,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+feedbag,aspect,28,I am going to take a guess that the object you are thinking of is a plastic horse feeder.?,Partial-aspect
+pen,aspect,8,I'm going to take a guess that the object you are thinking of is a pen.?,Partial-aspect
+chute,aspect,29,Is the object a steel warehouse ramp?,Partial-aspect
+undershirt,aspect,13,Is the object a t-shirt?,Partial-aspect
+bracelet,aspect,34,Is the object you are thinking of a gold coin?,Partial-aspect
+nightdress,aspect,2,How is the object you are thinking of used?,Multi-aspect
+stirrup,aspect,6,What is the texture of the object?,Multi-aspect
+longboat,aspect,19,What is the object's smell?,Multi-aspect
+chute,aspect,42,Is the object a type of ramp that is used to load and unload heavy objects?,Partial-aspect
+bedding,aspect,29,Is the object you are thinking of a king sized sheet blanket?,Partial-aspect
+gondola,aspect,13,Is the object commonly found in the ocean?,Partial-aspect
+carpetbag,aspect,33,How is the object you are thinking of used in a daily routine?,Multi-aspect
+binoculars,aspect,5,Is the object a pair of binoculars?,Partial-aspect
+lotion,aspect,5,Is the object a lotion?,Partial-aspect
+oilcan,aspect,16,What is the object you are thinking of?,Full-aspect
+squeegee,aspect,2,What is the object used for?,Multi-aspect
+stencil,aspect,18,Is the object you are thinking of made of any other material besides metal and plastic?,Partial-aspect
+motorboat,aspect,22,Is the object you are thinking of a Chaparral?,Partial-aspect
+cauldron,aspect,14,What is the color of the object?,Multi-aspect
+deadbolt,aspect,5,What is the shape of the object?,Multi-aspect
+urinal,aspect,2,How is the object you are thinking of used?,Multi-aspect
+necktie,aspect,4,What is the purpose of the object being worn around the neck for decorative purposes?,Multi-aspect
+strap,aspect,7,What is the texture of the object you are thinking of?,Multi-aspect
+statuette,aspect,19,What is the object's texture?,Multi-aspect
+inhaler,aspect,6,How does the object interact with a person?,Multi-aspect
+cardigan,aspect,8,I'm going to take a guess that the object you are thinking of is a sweater.?,Partial-aspect
+booklet,aspect,32,Is the pamphlet made of glossy paper?,Partial-aspect
+pocketknife,aspect,32,What is the texture of the object you are thinking of?,Multi-aspect
+pole,aspect,17,What is the shape of the object?,Multi-aspect
+skirt,aspect,9,Is the object you are thinking of man-made?,Partial-aspect
+spool,aspect,34,Does the object have a hole or opening in the center?,Partial-aspect
+nightdress,aspect,16,What is the texture of the object you are thinking of?,Multi-aspect
+commode,aspect,23,Is the object a necessary part of a bathroom?,Partial-aspect
+bassinet,aspect,37,Is the object a crib?,Partial-aspect
+uniform,aspect,11,Is the object a patch?,Partial-aspect
+cushion,aspect,1,What is the size of the object?,Multi-aspect
+doorpost,aspect,25,What is the primary function of the wood in the object you are thinking of?,Multi-aspect
+stopwatch,aspect,10,What is the context in which the watch is used?,Multi-aspect
+handbag,aspect,7,Is the object you are thinking of now something that can be held in your hand?,Partial-aspect
+antenna,aspect,5,Does the object have buttons or controls that you press to operate it?,Partial-aspect
+nozzle,aspect,10,Is the object a spray bottle?,Partial-aspect
+bandage,aspect,9,Is the object used primarily on humans?,Partial-aspect
+seesaw,aspect,13,What is the material the object is primarily made of?,Multi-aspect
+shirt,aspect,4,Is the object a type of clothing?,Partial-aspect
+breastplate,aspect,3,Is the object man-made?,Partial-aspect
+kettledrum,aspect,34,Is the object you are thinking of a type of percussion instrument?,Partial-aspect
+pontoon,aspect,8,Is the object you are thinking of a log?,Partial-aspect
+stethoscope,aspect,6,How is the object used in a medical setting?,Multi-aspect
+hanky,aspect,8,What is the object made of besides paper?,Multi-aspect
+cufflink,aspect,4,Is the object a button?,Partial-aspect
+casket,aspect,39,Is the object heavy?,Partial-aspect
+bobsleigh,aspect,15,What is the object?,Full-aspect
+telescope,aspect,5,Is the object made primarily of glass?,Partial-aspect
+moneybag,aspect,5,What is the object's color?,Multi-aspect
+bedding,aspect,17,Is the object you are thinking of a throw blanket?,Partial-aspect
+holster,aspect,22,Is the object a pouch?,Partial-aspect
+submarine,aspect,5,Is the object man made?,Partial-aspect
+bucket,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+eyepiece,aspect,15,Is the object an eyepiece?,Partial-aspect
+hovercraft,aspect,3,Can the object be found in most cities?,Partial-aspect
+pottery,aspect,7,Is the object used for holding hot things?,Partial-aspect
+ferryboat,aspect,27,What is the typical depth of water the ship you are thinking of operates in?,Multi-aspect
+sprinkler,aspect,2,How is the object used?,Multi-aspect
+knuckles,aspect,15,How does the object you are thinking of relate to other objects in the same category?,Multi-aspect
+recliner,aspect,7,Is the object you are thinking of a chair?,Partial-aspect
+cartwheel,aspect,6,Is the object made of metal?,Partial-aspect
+tray,aspect,5,Is the object disposable?,Partial-aspect
+washbowl,aspect,27,I'm going to guess that the object is a shampoo bowl.?,Partial-aspect
+harpoon,aspect,49,What is the object you are thinking of?,Full-aspect
+tassel,aspect,3,What is the material of the object?,Multi-aspect
+platter,aspect,7,How is the object you are thinking of typically stored?,Multi-aspect
+warship,aspect,39,Is the object a battleship from World War 1?,Partial-aspect
+gauze,aspect,10,What is the purpose of using the object to dress wounds?,Multi-aspect
+sack,aspect,24,How is the object typically used in everyday life?,Multi-aspect
+stocking,aspect,45,Is the object a type of hosiery?,Partial-aspect
+harpsichord,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+syringe,aspect,8,Is the object a syringe?,Partial-aspect
+racquetball,aspect,7,What material is the racquet made of?,Multi-aspect
+clock,aspect,7,What is the object's cultural significance?,Multi-aspect
+thermostat,aspect,7,Is the object a thermostat?,Partial-aspect
+bowtie,aspect,28,What is the object's relationship to the person's attire?,Multi-aspect
+sneaker,aspect,7,What is the object used for?,Multi-aspect
+yoke,aspect,8,Does the object have moving parts?,Partial-aspect
+crossbeam,aspect,45,What is the object?,Full-aspect
+pantsuit,aspect,4,Is the object you are thinking of related to furniture?,Partial-aspect
+videotape,aspect,27,What is the object's smell?,Multi-aspect
+canoe,aspect,10,What is the object's size?,Multi-aspect
+telephone,aspect,4,I'm going to guess that the object is a cell phone.?,Partial-aspect
+mirror,aspect,2,How is the object typically used?,Multi-aspect
+toga,aspect,3,Is the object you are thinking of made of fabric?,Partial-aspect
+hairpiece,aspect,5,Is the object made of a man-made material?,Partial-aspect
+tailcoat,aspect,33,Is the object made of wool?,Partial-aspect
+streetcar,aspect,12,What is the object you are thinking of?,Full-aspect
+schoolbag,aspect,8,Does the object you are thinking of have multiple compartments?,Partial-aspect
+tuba,aspect,15,Is the object you are thinking of a tuba?,Partial-aspect
+carpetbag,aspect,45,How is the object you are thinking of used in a daily routine?,Multi-aspect
+shredder,aspect,15,What is the object?,Full-aspect
+bodice,aspect,21,Is the object a dress shirt?,Partial-aspect
+snowmobile,aspect,8,I previously asked if the object had wheels and you said yes. Now you are saying the object has no wheels. I am confused. ?,No-aspect
+refrigerator,aspect,5,Is the object commonly found in a kitchen?,Partial-aspect
+sifter,aspect,15,What is the object?,Full-aspect
+bandanna,aspect,4,How is the object typically used?,Multi-aspect
+shelf,aspect,12,What is the shape of the object?,Multi-aspect
+seismograph,aspect,6,Is the object used in the field of geology?,Partial-aspect
+stopwatch,aspect,17,Does the watch have a backlight?,Partial-aspect
+trolley,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+swatch,aspect,5,Is the object a color swatch?,Partial-aspect
+nightshirt,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+hairpiece,aspect,14,How is the object put on or taken off?,Multi-aspect
+storybook,aspect,12,Is the book a classic?,Partial-aspect
+goblet,aspect,23,What is the object's composition?,Multi-aspect
+sill,aspect,23,Is the object a baseboard?,Partial-aspect
+puppet,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+quilt,aspect,1,What is the size of the object you are thinking of?,Multi-aspect
+matchbook,aspect,4,Does the object use friction to create fire?,Partial-aspect
+tape,aspect,7,How is the object made?,Multi-aspect
+jug,aspect,3,Is the object made of glass?,Partial-aspect
+kettledrum,aspect,25,What is the object you are thinking of?,Full-aspect
+tarmac,aspect,18,Is the object you are thinking of an asphalt pavement?,Partial-aspect
+hairpin,aspect,9,What is the color of the object?,Multi-aspect
+sack,aspect,9,Does the object have a zipper or other closing mechanism?,Partial-aspect
+pan,aspect,2,How is the object used?,Multi-aspect
+armoire,aspect,35,What is the object?,Full-aspect
+ship,aspect,7,What is the object you are thinking of?,Full-aspect
+ukulele,aspect,8,How does the object you are thinking of relate to other objects in a music performance?,Multi-aspect
+railcar,aspect,4,How many wheels does the object have?,Multi-aspect
+searchlight,aspect,49,Is the object used for signaling?,Partial-aspect
+underpants,aspect,15,Is the object you are thinking of a brief?,Partial-aspect
+washbasin,aspect,47,What is the object you are thinking of?,Full-aspect
+moat,aspect,33,What is the object made of?,Multi-aspect
+sunglasses,aspect,14,What is the object?,Full-aspect
+odometer,aspect,8,Is the object used in vehicles?,Partial-aspect
+dishtowel,aspect,14,How does the object make the user feel?,Multi-aspect
+shotgun,aspect,10,Is the object used primarily for hunting?,Partial-aspect
+hubcap,aspect,3,Does the object you are thinking of have a logo or other markings on it?,Partial-aspect
+rocket,aspect,18,Is the spacecraft you are thinking of the Dragon spacecraft?,Partial-aspect
+stereo,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+cabinet,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+pegboard,aspect,6,Is the object you are thinking of something that can be used for personal grooming or hygiene?,Partial-aspect
+chute,aspect,48,Is the object a type of equipment that is used to facilitate the movement of goods?,Partial-aspect
+spool,aspect,40,What is the object you are thinking of?,Full-aspect
+nightgown,aspect,12,Is the object a pair of pajamas?,Partial-aspect
+steamboat,aspect,34,Is the object the SS Great Britain?,Partial-aspect
+easel,aspect,11,Is the object you are thinking of a desk?,Partial-aspect
+corduroy,aspect,10,Does the object you are thinking of have buttons?,Partial-aspect
+sickle,aspect,5,Is the object you are thinking of a scythe?,Partial-aspect
+chute,aspect,28,What is the object's typical use in a warehouse?,Multi-aspect
+bedpost,aspect,9,Is the object a lamp?,Partial-aspect
+xylophone,aspect,6,Is the object a xylophone?,Partial-aspect
+longboat,aspect,24,Is the object you were thinking of a cedar barge?,Partial-aspect
+schoolbook,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+canopy,aspect,4,Is the object a tent?,Partial-aspect
+copier,aspect,39,What is the object?,Full-aspect
+miniskirt,aspect,12,What is the shape of the object?,Multi-aspect
+engine,aspect,9,Is the object you are thinking of an engine?,Partial-aspect
+cushion,aspect,7,How is the object typically stored when not in use?,Multi-aspect
+pillbox,aspect,2,How is the object you are thinking of used?,Multi-aspect
+cobblestone,aspect,9,What is the purpose of the object in paving and construction?,Multi-aspect
+string,aspect,2,Is the object you are thinking of man-made?,Partial-aspect
+wristwatch,aspect,34,Is the object collectible?,Partial-aspect
+television,aspect,5,How does the object make people feel?,Multi-aspect
+cart,aspect,21,What is the object made of,Multi-aspect
+toothbrush,aspect,6,What is the texture of the object?,Multi-aspect
+carpetbag,aspect,24,Is the object you are thinking of something that is commonly used for school?,Partial-aspect
+pantyhose,aspect,50,What is the typical occasion where the object is worn?,Multi-aspect
+doorjamb,aspect,35,Is the object you are thinking of a solid oak wood door frame?,Partial-aspect
+laser,aspect,4,How is the object used?,Multi-aspect
+jumpsuit,aspect,7,What is the object made of?,Multi-aspect
+kettledrum,aspect,38,What is the object you are thinking of?,Full-aspect
+wheelbarrow,aspect,2,How is the object you are thinking of used by people?,Multi-aspect
+shredder,aspect,20,What is the object's color?,Multi-aspect
+stopwatch,aspect,12,How is the watch used in sports?,Multi-aspect
+pamphlet,aspect,3,Is the object made of paper?,Partial-aspect
+mattress,aspect,3,Is the object used for transportation?,Partial-aspect
+ratchet,aspect,4,Is the object a wrench?,Partial-aspect
+skirt,aspect,12,Is the object you are thinking of related to clothing or textiles in any way?,Partial-aspect
+stove,aspect,34,What is the object's composition?,Multi-aspect
+spool,aspect,13,What is the object you are thinking of?,Full-aspect
+pencil,aspect,44,Is the object's color consistent throughout its entire length?,Partial-aspect
+hairnet,aspect,18,Is the object you are thinking of a hairnet?,Partial-aspect
+floodlight,aspect,9,Does the object you are thinking of have a screen?,Partial-aspect
+commode,aspect,17,What is the object's shape?,Multi-aspect
+sundress,aspect,2,How is the object you are thinking of typically used?,Multi-aspect
+workbook,aspect,49,What is the object?,Full-aspect
+computer,aspect,8,Is the laptop you are thinking of a dell laptop?,Partial-aspect
+moccasin,aspect,30,How is the object used in everyday life?,Multi-aspect
+undercoat,aspect,18,Is the object a piece of cloth used for blotting?,Partial-aspect
+microchip,aspect,6,Is the object you are thinking of a microchip?,Partial-aspect
+basin,aspect,3,Is the object made of plastic?,Partial-aspect
+underpants,aspect,9,Is the object you are thinking of a glove?,Partial-aspect
+shrapnel,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+sill,aspect,35,Is the object made of maple?,Partial-aspect
+breadboard,aspect,14,Does the object have any other typical colors?,Partial-aspect
+handlebar,aspect,4,Can the object be found in a store?,Partial-aspect
+beaker,aspect,12,How is the object typically used?,Multi-aspect
+tightrope,aspect,3,Is the object man-made?,Partial-aspect
+loincloth,aspect,5,Is the object a type of underwear?,Partial-aspect
+corduroy,aspect,24,Is the object you are thinking of a denim jacket?,Partial-aspect
+wagon,aspect,5,What is the typical size of the object you are thinking of?,Multi-aspect
+stopwatch,aspect,4,How is the watch used?,Multi-aspect
+motorboat,aspect,27,Is the object you are thinking of a Formula?,Partial-aspect
+crossbow,aspect,4,I think the object is a sword.?,Partial-aspect
+whaleboat,aspect,21,What is the color of the object?,Multi-aspect
+knuckles,aspect,47,Is the object you are thinking of made of a hard material?,Partial-aspect
+figurine,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+bedpost,aspect,1,What is the size of the object you are thinking of?,Multi-aspect
+button,aspect,10,What is the object you are thinking of?,Full-aspect
+blouse,aspect,19,What is the approximate weight of the object?,Multi-aspect
+gargoyle,aspect,6,Is the object a cross?,Partial-aspect
+stopwatch,aspect,35,"Is the watch made by a company that starts with the letter ""A""?",Partial-aspect
+inkwell,aspect,16,Is the object a glass inkwell?,Partial-aspect
+scabbard,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+nozzle,aspect,24,Is the object a water gun?,Partial-aspect
+breadboard,aspect,45,Does the object have any electronic components?,Partial-aspect
+stagecoach,aspect,7,How does the object you are thinking of relate to the environment?,Multi-aspect
+mop,aspect,9,I think the object is a cotton ball?,Partial-aspect
+shelf,aspect,11,Is the object a cabinet?,Partial-aspect
+hotplate,aspect,8,Is the object you are thinking of a pan?,Partial-aspect
+cannon,aspect,12,What is the object's purpose?,Multi-aspect
+wheel,aspect,11,What is the material that the object is primarily made of?,Multi-aspect
+earphone,aspect,9,I'm going to take a guess that the object is a radio.?,Partial-aspect
+storybook,aspect,41,What is the age range of the intended reader of the book?,Multi-aspect
+handgun,aspect,25,Does the object you are thinking of have a laser sight?,Partial-aspect
+cot,aspect,44,Is the object commonly used in emergency situations?,Partial-aspect
+purse,aspect,5,Is the object you are thinking of something that can be worn?,Partial-aspect
+carriage,aspect,15,Is the object a horse-drawn carriage?,Partial-aspect
+stirrup,aspect,9,I'm going to take a guess that the object is a stirrup. ?,Partial-aspect
+workbook,aspect,36,What is the object?,Full-aspect
+flag,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+bedding,aspect,21,How is the object typically cleaned?,Multi-aspect
+scalpel,aspect,2,What is the purpose of the object?,Multi-aspect
+sack,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+spear,aspect,3,Is the object made of wood?,Partial-aspect
+eggbeater,aspect,21,Is the object a milk frother?,Partial-aspect
+horn,aspect,18,What is the object you are thinking of?,Full-aspect
+footlocker,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+warship,aspect,31,How is the object powered?,Multi-aspect
+detonator,aspect,11,No more questions. ?,No-aspect
+woofer,aspect,14,Is the object a subwoofer?,Partial-aspect
+tugboat,aspect,10,Is the object a tugboat?,Partial-aspect
+bead,aspect,3,What is the purpose of the object?,Multi-aspect
+television,aspect,12,Is the object a 4k TV?,Partial-aspect
+wand,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+schoolbook,aspect,4,I'm going to take a guess that the object you are thinking of is a book.?,Partial-aspect
+bayonet,aspect,24,What is the size of the handle of the object?,Multi-aspect
+wristwatch,aspect,4,What is the object?,Full-aspect
+picture,aspect,5,Is the object you are thinking of used for entertainment?,Partial-aspect
+stair,aspect,2,What is the object used for?,Multi-aspect
+beret,aspect,4,Is the object a hat?,Partial-aspect
+sunlamp,aspect,2,What is the object used for?,Multi-aspect
+strongbox,aspect,30,What is the object?,Full-aspect
+snowsuit,aspect,17,Is the object made of animal products?,Partial-aspect
+seesaw,aspect,8,Is the object you are thinking of made primarily of fabric?,Partial-aspect
+duvet,aspect,22,What is the texture of the object's fabric?,Multi-aspect
+shoestring,aspect,31,Is the object a shoelace?,Partial-aspect
+wallet,aspect,4,Is the object a bag?,Partial-aspect
+hanky,aspect,5,How does the object relate to other objects in its environment?,Multi-aspect
+pin,aspect,25,Is the object you are thinking of something that can be used to fasten fabric together temporarily?,Partial-aspect
+flytrap,aspect,17,Does the object have any distinctive features such as patterns or markings?,Partial-aspect
+sketchbook,aspect,11,Is the object a notebook?,Partial-aspect
+futon,aspect,12,What is the object you are thinking of?,Full-aspect
+timber,aspect,8,Is the object used for holding or supporting something?,Partial-aspect
+feedbag,aspect,37,What is the texture of the object you are thinking of?,Multi-aspect
+sleigh,aspect,42,What type of animal is used to pull the object?,Multi-aspect
+bucket,aspect,16,Is the object you are thinking of a bucket?,Partial-aspect
+skullcap,aspect,4,I'm going to take a guess,No-aspect
+flytrap,aspect,11,Does the object you are thinking of have a distinctive shape?,Partial-aspect
+streetcar,aspect,5,Is the object you are thinking of a vehicle?,Partial-aspect
+sketchbook,aspect,8,Is the object made of recycled materials?,Partial-aspect
+spatula,aspect,10,Is the object used for flipping food?,Partial-aspect
+blindfold,aspect,6,How is the object used to block a person's view?,Multi-aspect
+holster,aspect,45,Is the object used for holding small office supplies?,Partial-aspect
+defibrillator,aspect,38,What is the object you are thinking of?,Full-aspect
+cogwheel,aspect,6,What is the material of the object?,Multi-aspect
+projector,aspect,3,How is the object used?,Multi-aspect
+truck,aspect,6,What is the typical size of the object you are thinking of?,Multi-aspect
+dryer,aspect,4,Where is the object typically located?,Multi-aspect
+jukebox,aspect,7,Is the object electronic?,Partial-aspect
+steamboat,aspect,18,What is the object's material composition besides steel?,Multi-aspect
+forceps,aspect,6,Is the object you are thinking of something that can be found in a toolbox?,Partial-aspect
+tarmac,aspect,15,What is the shape of the object you are thinking of?,Multi-aspect
+flagpole,aspect,4,Is the object man made?,Partial-aspect
+ship,aspect,17,What is the object you are thinking of?,Full-aspect
+urinal,aspect,6,Is the object you are thinking of typically found indoors?,Partial-aspect
+satellite,aspect,6,Does the object have a screen?,Partial-aspect
+bodice,aspect,45,Is the object a velvet corset?,Partial-aspect
+button,aspect,11,Is the object commonly found in a household?,Partial-aspect
+mask,aspect,4,Is the object you are thinking of a mask?,Partial-aspect
+nightstick,aspect,4,Can you tell me a situation in which the object you are thinking of would be used?,Multi-aspect
+suit,aspect,6,Is the object a type of clothing?,Partial-aspect
+wastebasket,aspect,39,Is the object used in an office?,Partial-aspect
+kettledrum,aspect,17,What material is the object you are thinking of made of?,Multi-aspect
+longboat,aspect,29,Is the object you were thinking of a cedar punt?,Partial-aspect
+warplane,aspect,40,Is the object you are thinking of an SR-71?,Partial-aspect
+textbook,aspect,18,Is the object a textbook?,Partial-aspect
+incubator,aspect,7,How is the object you are thinking of used in conjunction with other objects in a laboratory?,Multi-aspect
+topcoat,aspect,12,Is the object a clear top coat nail polish?,Partial-aspect
+maypole,aspect,13,Is the object a tree?,Partial-aspect
+purse,aspect,4,I'm going to take a guess that the object you are thinking of is a wallet.?,Partial-aspect
+telegraph,aspect,4,Is the object electronic?,Partial-aspect
+chalice,aspect,2,What is the object used for?,Multi-aspect
+cup,aspect,3,Is the object you are thinking of made of plastic?,Partial-aspect
+shredder,aspect,13,What is the object?,Full-aspect
+banner,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+blouse,aspect,13,Is the shirt long sleeved?,Partial-aspect
+pencil,aspect,32,What is the object?,Full-aspect
+motorboat,aspect,40,What is the object's material composition?,Multi-aspect
+motorbus,aspect,44,What is the object's purpose in everyday life?,Multi-aspect
+pinstripe,aspect,19,What is the object you are thinking of?,Full-aspect
+crutch,aspect,4,I think the object you are thinking of is a cane.?,Partial-aspect
+floodlight,aspect,11,What is the material that the object's outer casing is made of?,Multi-aspect
+matchbook,aspect,10,Is the object a matchbook?,Partial-aspect
+skirt,aspect,44,Is the object you are thinking of commonly used in everyday life?,Partial-aspect
+telescope,aspect,8,Is the object a telescope?,Partial-aspect
+spool,aspect,9,What is the primary material the object is made of?,Multi-aspect
+moat,aspect,48,What is the object?,Full-aspect
+weeds,aspect,21,Is the object a type of water lily?,Partial-aspect
+doll,aspect,2,How is the object used?,Multi-aspect
+pot,aspect,9,Is the object made of paper?,Partial-aspect
+moat,aspect,15,What is the object?,Full-aspect
+ski,aspect,16,What is the color of the object?,Multi-aspect
+pail,aspect,2,What is the object used for?,Multi-aspect
+cello,aspect,9,Does the object have a round back?,Partial-aspect
+webcam,aspect,8,Is the object a type of camera?,Partial-aspect
+dagger,aspect,10,What is the object typically used for in a kitchen?,Multi-aspect
+inkwell,aspect,4,Is the object a pen?,Partial-aspect
+holster,aspect,26,Is the object used for holding personal items?,Partial-aspect
+sundress,aspect,8,Is the object you are thinking of related to a specific type of clothing,Partial-aspect
+landline,aspect,3,Can the object be found in a home?,Partial-aspect
+slingshot,aspect,6,I'm going to take a guess that the object is a baseball bat.?,Partial-aspect
+woofer,aspect,3,Is the object man-made?,Partial-aspect
+cheesecloth,aspect,6,What is the object made of?,Multi-aspect
+washrag,aspect,7,Is the object a dish towel?,Partial-aspect
+washbasin,aspect,5,Is the sink used in a bathroom?,Partial-aspect
+earphone,aspect,3,What is the approximate size of the object?,Multi-aspect
+maypole,aspect,10,Is the object a fence?,Partial-aspect
+faceplate,aspect,2,How is the object typically used?,Multi-aspect
+smock,aspect,39,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+sack,aspect,29,I'm going to guess that the object is a burlap tote bag?,Partial-aspect
+wristwatch,aspect,21,Is the object a luxury item?,Partial-aspect
+washbasin,aspect,31,Is the object you are thinking of a sink that is typically cleaned with soap and water?,Partial-aspect
+bullet,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+braces,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+kerchief,aspect,46,What is the object?,Full-aspect
+sketchbook,aspect,4,Does the object have a tip that is made of a material that leaves a mark on a surface?,Partial-aspect
+motorcar,aspect,46,How does the vehicle make people feel?,Multi-aspect
+phonograph,aspect,2,What is the object used for?,Multi-aspect
+knuckles,aspect,14,What is the object you are thinking of?,Full-aspect
+bifocals,aspect,15,What is the shape of the glasses?,Multi-aspect
+catalog,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+softball,aspect,3,Is the object made of a hard material?,Partial-aspect
+slipper,aspect,5,What is the shape of the object?,Multi-aspect
+kettledrum,aspect,45,What is the object you are thinking of made of besides copper?,Multi-aspect
+pot,aspect,22,Is the object a container for food or drink that is typically used to serve or store a single serving?,Partial-aspect
+sedan,aspect,2,Is the object you are thinking of man-made?,Partial-aspect
+dagger,aspect,2,How is the object typically used?,Multi-aspect
+album,aspect,3,Is the object made of plastic?,Partial-aspect
+squeegee,aspect,10,Is the object a squeegee?,Partial-aspect
+tux,aspect,5,Is the object you are thinking of something that is worn on the head?,Partial-aspect
+bowtie,aspect,40,How is the object used in a social setting?,Multi-aspect
+briefcase,aspect,8,Is the object a purse?,Partial-aspect
+ship,aspect,15,What is the object you are thinking of?,Full-aspect
+stopwatch,aspect,7,Does the watch have a strap?,Partial-aspect
+urn,aspect,4,What happens to the object after it is used in a funeral?,Multi-aspect
+locket,aspect,29,Is the object a container for something that a person would carry with them?,Partial-aspect
+pliers,aspect,4,I'm going to guess that the object is a pair of pliers.?,Partial-aspect
+bookmarker,aspect,3,Is the object made of paper?,Partial-aspect
+breadbox,aspect,4,What happens to the object when it is used to store bread?,Multi-aspect
+tanker,aspect,4,Is the object you are thinking of a pipe?,Partial-aspect
+oilcan,aspect,28,Is the object you are thinking of commonly found in most households?,Partial-aspect
+parcel,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+oar,aspect,4,Is the object a paddle?,Partial-aspect
+searchlight,aspect,42,What is the object's color besides silver?,Multi-aspect
+refrigerator,aspect,8,I am going to take a guess that the object is a refrigerator. ?,Partial-aspect
+barbell,aspect,4,Is the object you are thinking of a dumbbell?,Partial-aspect
+tinsel,aspect,10,Is the object you are thinking of made of a metal?,Partial-aspect
+waistband,aspect,38,Is the object typically stored in a closet?,Partial-aspect
+waistband,aspect,31,What is the object?,Full-aspect
+tricycle,aspect,4,Does the object have wheels?,Partial-aspect
+washbasin,aspect,20,Is the object you are thinking of a standard bathroom sink?,Partial-aspect
+moccasin,aspect,48,Is the object a type of moccasin loafers made of suede?,Partial-aspect
+handlebar,aspect,7,What is the object?,Full-aspect
+collage,aspect,7,Does the object have a frame?,Partial-aspect
+casket,aspect,38,What is the object?,Full-aspect
+sprinkler,aspect,8,Is the object a garden hose nozzle?,Partial-aspect
+recliner,aspect,9,What is the purpose of the chair in the living room?,Multi-aspect
+nozzle,aspect,8,Is the object a faucet?,Partial-aspect
+eyepiece,aspect,12,What is the object's weight?,Multi-aspect
+patch,aspect,9,Is the object related to a vehicle?,Partial-aspect
+barbwire,aspect,18,Is the object you are thinking of barbed wire?,Partial-aspect
+urn,aspect,15,Is the object made of ceramic?,Partial-aspect
+goblet,aspect,25,Is the object a soda glass?,Partial-aspect
+sledgehammer,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+stiletto,aspect,42,What is the object?,Full-aspect
+screen,aspect,5,Is the object a phone?,Partial-aspect
+footstool,aspect,7,Is the object you are thinking of a footstool?,Partial-aspect
+armor,aspect,15,Is the object made of steel?,Partial-aspect
+booklet,aspect,20,Does the book have any advertisements in it?,Partial-aspect
+nightdress,aspect,32,What is the relationship of the object you are thinking of to a bed?,Multi-aspect
+warship,aspect,17,Is the object a destroyer?,Partial-aspect
+textbook,aspect,3,Does the object have pages?,Partial-aspect
+bootlace,aspect,14,What is the shape of the object you are thinking of?,Multi-aspect
+snuffbox,aspect,1,Is the object you are thinking of something that can be held in one's hand?,Partial-aspect
+burner,aspect,14,Is the object used for a specific task?,Partial-aspect
+trumpet,aspect,8,Is the object a clarinet?,Partial-aspect
+dustbin,aspect,5,Is the object a type of container?,Partial-aspect
+tambourine,aspect,2,How is the object used?,Multi-aspect
+treadmill,aspect,6,Is the object you are thinking of a bicycle?,Partial-aspect
+urn,aspect,13,Is the object made of wood?,Partial-aspect
+pantyhose,aspect,44,What is the feature of the object that makes it suitable for formal occasions?,Multi-aspect
+hydrant,aspect,8,Is the object used for entertainment?,Partial-aspect
+bazooka,aspect,10,Is the object you are thinking of a rifle?,Partial-aspect
+dress,aspect,13,How does the object stay in place on the body?,Multi-aspect
+ukulele,aspect,7,Does the object you are thinking of have strings?,Partial-aspect
+gearshift,aspect,4,What is the purpose of the object you are thinking of?,Multi-aspect
+photo,aspect,7,What is the shape of the object?,Multi-aspect
+stool,aspect,2,How is the object used?,Multi-aspect
+bassinet,aspect,8,Is the object made of plastic?,Partial-aspect
+nozzle,aspect,3,Is the object made of metal?,Partial-aspect
+tinsel,aspect,14,Is the object you are thinking of a Christmas tree ornament?,Partial-aspect
+cabinet,aspect,4,Is the object commonly found in a household?,Partial-aspect
+parka,aspect,17,What is the object you are thinking of used for in a specific situation?,Multi-aspect
+pantsuit,aspect,46,How does the object you are thinking of relate to the sleeves it has?,Multi-aspect
+satin,aspect,16,Is the object satin?,Partial-aspect
+paintbox,aspect,11,Is the object made of only one type of plastic?,Partial-aspect
+hovercraft,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+casket,aspect,25,What is the object?,Full-aspect
+nightshirt,aspect,6,Is the object you are thinking of pajamas?,Partial-aspect
+spool,aspect,39,Is the object you are thinking of typically made by machine?,Partial-aspect
+knuckles,aspect,20,What is the object you are thinking of?,Full-aspect
+mitten,aspect,2,How is the object used?,Multi-aspect
+hairnet,aspect,12,Is the object you are thinking of used to hold hair in place by gripping or pinching the hair?,Partial-aspect
+pontoon,aspect,11,Is the object you are thinking of a flotation device?,Partial-aspect
+strongbox,aspect,28,What is the object's purpose in relation to the user's needs?,Multi-aspect
+tape,aspect,9,Is the object a type of tape?,Partial-aspect
+sharkskin,aspect,16,Is the object you are thinking of made from natural fibers?,Partial-aspect
+streetcar,aspect,2,Is the object you are thinking of man-made?,Partial-aspect
+stocking,aspect,26,Is the object made of synthetic fibers?,Partial-aspect
+painting,aspect,8,How does the object make the person viewing it feel?,Multi-aspect
+computer,aspect,16,What is the color of the laptop you are thinking of?,Multi-aspect
+quilt,aspect,6,Is the object a wool blanket?,Partial-aspect
+pamphlet,aspect,9,Is the object used for entertainment?,Multi-aspect
+casket,aspect,30,Is that correct?,No-aspect
+cot,aspect,28,What is the object?,Full-aspect
+transponder,aspect,7,What is the size of the object?,Multi-aspect
+canteen,aspect,7,What is the shape of the object you are thinking of?,Multi-aspect
+snowsuit,aspect,36,Is the object filled with synthetic insulation?,Partial-aspect
+dishrag,aspect,11,What is the color of the object?,Multi-aspect
+searchlight,aspect,2,What is the object used for?,Multi-aspect
+anklet,aspect,23,Is the object typically stored in a box or case when not being used?,Partial-aspect
+railcar,aspect,2,What is the purpose of the object?,Multi-aspect
+cart,aspect,8,What is the object's primary function?,Multi-aspect
+turban,aspect,6,Is the object a Santa hat?,Partial-aspect
+kettledrum,aspect,44,Is the object you are thinking of often used in pairs or groups?,Partial-aspect
+stocking,aspect,40,What is the object used for?,Multi-aspect
+periscope,aspect,3,What is the material composition of the object?,Multi-aspect
+shingle,aspect,4,Is the object you are thinking of made of plastic?,Partial-aspect
+jumpsuit,aspect,3,Is the object man-made?,Partial-aspect
+wineglass,aspect,3,What is the object made of?,Multi-aspect
+moat,aspect,37,What is the object?,Full-aspect
+parka,aspect,1,What is the general size of the object you are thinking of?,Multi-aspect
+awning,aspect,13,Is the object made of a synthetic material?,Partial-aspect
+disc,aspect,9,How big is the object?,Multi-aspect
+apron,aspect,3,Is the object made of fabric?,Partial-aspect
+tourniquet,aspect,8,Is the object used to apply pressure to stop the flow of blood?,Partial-aspect
+microcomputer,aspect,18,Does the object you are thinking of run on batteries?,Partial-aspect
+telephone,aspect,2,What is the object used for?,Multi-aspect
+knuckles,aspect,30,What is the object you are thinking of?,Full-aspect
+photo,aspect,9,What is the weight of the object?,Multi-aspect
+revolver,aspect,2,Is the object man-made?,Partial-aspect
+pin,aspect,1,Is the object you are thinking of something that can be held in your hand?,Partial-aspect
+shoestring,aspect,43,Is the object a shoelace?,Partial-aspect
+anvil,aspect,8,What is the approximate size of the object you are thinking of?,Multi-aspect
+motorboat,aspect,1,What is the size of the object you are thinking of?,Multi-aspect
+stove,aspect,18,What is the object?,Full-aspect
+bootie,aspect,12,What is the size of the object?,Multi-aspect
+nightdress,aspect,24,What is the purpose of the object you are thinking of?,Multi-aspect
+corduroy,aspect,4,What is the purpose of the object you are thinking of?,Multi-aspect
+carpetbag,aspect,25,What is the color of the object you are thinking of?,Multi-aspect
+bobsleigh,aspect,2,How is the object used?,Multi-aspect
+pill,aspect,3,Is the object made of plastic?,Partial-aspect
+audiotape,aspect,13,Is the object you are thinking of a cassette tape?,Partial-aspect
+sifter,aspect,10,What is the object?,Full-aspect

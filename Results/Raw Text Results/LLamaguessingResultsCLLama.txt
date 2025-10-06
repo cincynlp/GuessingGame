@@ -1,0 +1,660 @@
+airship,7,Oracle said: What is your first question?	 I am thinking of a physical object.Guesser said: Is the object man-made?
+	Oracle said: Yes.
+	Guesser said: Is the object something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object used for a specific purpose or function?
+	Oracle said: Yes.
+	Guesser said: Is the object electronic?
+	 Oracle said: No.
+	 Guesser said: Is the object commonly found in most households?
+	 Oracle said: No.
+	 Guesser said: Does the object require maintenance or upkeep?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you have given me, I'm going to guess that the object is a lawnmower. Is that correct?
+	Oracle said: Correct.
+
+photocopier,11,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that can be held in my hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of require electricity to function?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a screen or display of some kind?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have buttons or controls that can be pressed?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be used for entertainment?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of commonly found in a home or office?
+	Oracle said: Yes.
+	 Guesser said: Based on all the information you've given me, I'm going to guess that the object you are thinking of is a television. Am I correct?
+	 Oracle said: No.
+	Guesser said: Does the object you are thinking of have a keyboard or typing interface?
+	 Oracle said: Yes.
+	 Guesser said: Based on the fact that the object has a screen, requires electricity, has buttons or controls, a keyboard or typing interface, and is commonly found in a home or office, I'm going to guess that the object you are thinking of is a computer. Am I correct?
+	 Oracle said: Correct.
+
+pager,25,Oracle said: What is your first question?	 Guesser said: Is the object you're thinking of something that can be held in your hand?
+	Oracle said: Yes.
+	Guesser said: Is the object you're thinking of man-made?
+	Oracle said: Yes.
+	Guesser said: Is the object you're thinking of used for a specific task or function?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you're thinking of require batteries or electricity to function?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you're thinking of have a screen?
+	Oracle said: No.
+	 Guesser said: Does the object you're thinking of have buttons or controls that you can press?
+	Oracle said: Yes.
+	 Guesser said: Does the object you're thinking of have a cord or be plugged into a wall?
+	 Oracle said: No.
+	Guesser said: Is the object you're thinking of commonly found in a household?
+	Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that can be used by only one person at a time?
+	Oracle said: Yes.
+	Guesser said: Does the object you're thinking of have a distinct or unusual shape?
+	 Oracle said: Yes.
+	Guesser said: Based on all the information you've given me, I'm going to guess that the object you're thinking of is a portable music player, like an iPod. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable game console, like a Nintendo DS. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a handheld calculator. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a laser pointer. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a camera. Am I correct?
+	 Oracle said: No.
+	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a phone. Am I correct?
+	Oracle said: No.
+	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable DVD player. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a flashlight. Am I correct?
+	Oracle said: No.
+	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a remote control. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a TV remote control. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a garage door opener remote. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a game controller. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a handheld scanner. Am I correct?
+	Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a digital thermometer. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable GPS device. Am I correct?
+	Oracle said: Correct.
+
+radio,21,Oracle said: What is your first question?	 Guesser said: Is the object something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Does the object require electricity to function?
+	Oracle said: Yes.
+	Guesser said: Does the object have a screen?
+	Oracle said: No.
+	 Guesser said: Does the object have a keyboard or buttons?
+	 Oracle said: Yes.
+	 Guesser said: With the information you've given me, I'm going to take a guess that the object is a computer. Is that correct?
+	Oracle said: No.
+	 Guesser said: Does the object have a specific function or purpose?
+	 Oracle said: Yes.
+	Guesser said: Does the object have a display that shows information or data?
+	Oracle said: No.
+	 Guesser said: Does the object have a cord or plug that connects to a power source?
+	 Oracle said: Yes.
+	Guesser said: With the information you've given me, I'm going to take a guess that the object is a phone. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object something that can be used by only one person at a time?
+	 Oracle said: Yes.
+	 Guesser said: Does the object have a cord that can be plugged into a wall outlet?
+	Oracle said: Yes.
+	Guesser said: With the information you've given me, I'm going to take a guess that the object is a hair dryer. Is that correct?
+	 Oracle said: No.
+	Guesser said: Is the object used primarily indoors?
+	 Oracle said: Yes.
+	 Guesser said: Does the object have a cord that is typically long?
+	Oracle said: Yes.
+	 Guesser said: With the information you've given me, I'm going to take a guess that the object is a vacuum cleaner. Is that correct?
+	 Oracle said: No.
+	Guesser said: Does the object make noise while it is in use?
+	 Oracle said: Yes.
+	Guesser said: With the information you've given me, I'm going to take a guess that the object is a blender. Is that correct?
+	 Oracle said: No.
+	 Guesser said: Is the object used primarily for a specific task or function?
+	 Oracle said: Yes.
+	 Guesser said: With the information you've given me, I'm going to take a guess that the object is a toaster. Is that correct?
+	Oracle said: Correct.
+
+bullhorn,3,Oracle said: What is your first question?	 Guesser said: Is what you are thinking of something that can be held in your hand?
+	Oracle said: NoGuesser said: Is what you are thinking of man-made?Oracle said: YesGuesser said: Is what you are thinking of commonly used for communication?Oracle said: YesGuesser said: Is what you are thinking of used to amplify sound?Oracle said: YesGuesser said: Is what you are thinking of used primarily for speaking or making noise?Oracle said: YesGuesser said: Is what you are thinking of something that can be.
+	 held up to the ear?
+	Oracle said: NoGuesser said: Is what you are thinking of a type of instrument?Oracle said: YesGuesser said: Is what you are thinking of used in music?Oracle said: NoGuesser said: Is what you are thinking of used in sports?Oracle said: YesGuesser said: Is what you are thinking of commonly used in rodeos?Oracle said: YesGuesser said: Is what you are thinking of a bullhorn?Oracle said.
+	YesGuesser said: I think I have it. I'm going to guess that what you are thinking of is a bullhorn.Oracle said: Yes! You guessed it! Congratulations, Guesser! You guessed it in just 8 questions! You must be a great guesser! Guesser said: I'm glad I was able to guess it correctly. I was starting to get a little worried that I was going to have to ask a lot more questions. I thought the fact that it?
+	Oracle said: CorrectGuesser said: I'm glad I was able to guess it correctly.
+
+sprinkler,3,Oracle said: What is your first question?	 I am thinking of an object.Guesser said: Is the object man-made?
+	Oracle said: YesGuesser said: Is the object something that can be held in your hand?Oracle said: NoGuesser said: Is the object used for a specific task or function?Oracle said: YesGuesser said: Is the object used for watering plants?Oracle said: YesGuesser said: Is the object typically used outdoors?Oracle said: YesGuesser said: Is the object electric?Oracle said: YesGuesser said: Is the object.
+	 I am going to take a guess that the object is a hose. Guesser said:I am going to guess that the object is a hose. Am I correct?
+	Oracle said: NoGuesser said: Is the object a type of sprinkler system?Oracle said: YesGuesser said: Is the object a type of sprinkler system?Oracle said: YesGuesser said: I am going to guess that the object is a sprinkler.
+	Guesser said: Am I correct?
+	Oracle said: Correct.
+
+bullet,12,Oracle said: What is your first question?	 I am thinking of something.Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of used for a specific purpose or function?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of used primarily with the hands?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a distinct or unusual smell?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of commonly found in most households?
+	 Oracle said: No.
+	 Guesser said: Does the object you are thinking of have a sharp edge or point?
+	Oracle said: Yes.
+	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, and has a sharp edge or point, I am going to guess that the object you are thinking of is a knife. Oracle said: No.Guesser said: Does the object you are thinking of have a handle of some sort?
+	Oracle said: Yes.
+	 Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, and has a handle, I am going to guess that the object you are thinking of is a pair of scissors. Oracle said: No. Guesser said: Does the object you are thinking of have a blade or cutting surface that is made of metal?
+	Oracle said: Yes.
+	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, has a handle, and has a blade or cutting surface made of metal, I am going to guess that the object you are thinking of is a utility knife. Oracle said: No. Guesser said: Is the object you are thinking of used primarily for a specific task such as cutting or piercing?
+	 Oracle said: Yes.
+	 Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, has a handle, has a blade or cutting surface made of metal, is used primarily for a specific task, and is used primarily with the hands, I am going to guess that the object you are thinking of is a box cutter. Oracle said: Yes. Guesser said: I am glad I was able to?
+	Oracle said: Correct.
+
+barometer,23,Oracle said: What is your first question?	 Guesser said: Is the object something that you can hold in your hand?
+	Oracle said: Yes.
+	Guesser said: Is the object man-made?
+	Oracle said: Yes.
+	Guesser said: Is the object used for a specific task or function?
+	Oracle said: Yes.
+	 Guesser said: Is the object something that can be found in most households?
+	 Oracle said: No.
+	 Guesser said: Is the object electronic?
+	 Oracle said: No.
+	Guesser said: Does the object have moving parts?
+	 Oracle said: Yes.
+	Guesser said: Does the object require batteries or some other power source to operate?
+	 Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual shape?
+	Oracle said: Yes.
+	 Guesser said: Does the object have a handle or something that you can grip to hold it?
+	 Oracle said: Yes.
+	 Guesser said: Based on your answers, I'm going to guess that the object is a pair of scissors. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object used primarily with food or drink?
+	 Oracle said: No.
+	 Guesser said: Does the object have a sharp edge or point?
+	 Oracle said: No.
+	 Guesser said: Does the object have a spring or other mechanical mechanism that returns to its original position after being compressed or moved?
+	Oracle said: Yes.
+	 Guesser said: Based on your answers, I'm going to guess that the object is a toy or a novelty item, such as a spring-loaded toy. Is that correct?
+	 Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual sound associated with it?
+	Oracle said: Yes.
+	Guesser said: Does the object have a musical component, such as a bell or a whistle?
+	 Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual smell associated with it?
+	 Oracle said: Yes.
+	Guesser said: Based on your answers, I'm going to guess that the object is a stress ball or a squeeze toy, but I'm not sure what the smell would be associated with that. Is that correct?
+	Oracle said: No.
+	 Guesser said: Is the object something that you would typically find in a garden or yard?
+	 Oracle said: Yes.
+	Guesser said: Based on your answers, I'm going to guess that the object is a garden hose or a water spray nozzle. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object something that is used to plant or grow things?
+	Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual texture?
+	Oracle said: Yes.
+	 Guesser said: Based on your answers, I'm going to guess that the object is a pinecone. Is that correct?
+	 Oracle said: Correct.
+
+gearshift,21,Oracle said: What is your first question?	 Guesser said: Is the object you're thinking of something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object you're thinking of man-made?
+	Oracle said: Yes.
+	Guesser said: Does the object you're thinking of have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Is the object you're thinking of something that is used for entertainment?
+	Oracle said: No.
+	 Guesser said: Does the object you're thinking of require electricity to operate?
+	 Oracle said: No.
+	Guesser said: Is the object you're thinking of something that is used for a specific task or function?
+	 Oracle said: Yes.
+	 Guesser said: Is the object you're thinking of something that can be found in a typical household?
+	 Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used primarily with the hands?
+	Oracle said: Yes.
+	 Guesser said: Does the object you're thinking of have a sharp edge or point?
+	 Oracle said: No.
+	Guesser said: Is the object you're thinking of something that is commonly used by only one person at a time?
+	 Oracle said: Yes.
+	 Guesser said: Is the object you're thinking of something that is used for a task that is related to food or drink?
+	 Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used primarily outdoors?
+	Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used for a task that involves manipulating or shaping something?
+	Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used primarily for a recreational or sporting activity?
+	 Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used by people who are involved in a particular profession or trade?
+	 Oracle said: Yes.
+	 Guesser said: Given that the object is used by people who are involved in a particular profession or trade, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a surgical instrument.Am I correct?
+	 Oracle said: No.
+	Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that is related to the outdoors, such as logging or mining?
+	 Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that involves working with or manipulating materials, such as a carpenter or a machinist?
+	 Oracle said: Yes.
+	Guesser said: Given that the object is used by people who are involved in a trade or profession that involves working with or manipulating materials, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a power drill. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that involves working with or manipulating wood, such as a carpenter or a woodworker?
+	Oracle said: Yes.
+	Guesser said: Given that the object is used by people who are involved in a trade or profession that involves working with or manipulating wood, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a table saw. Am I correct?
+	Oracle said: Correct.
+
+photograph,1,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: YesGuesser said: Is the object you are thinking of man-made?Oracle said: YesGuesser said: Is the object you are thinking of something that can be looked at?Oracle said: YesGuesser said: Is the object you are thinking of a photograph?Oracle said: CorrectGuesser said: Is the object you are thinking of a type of photograph?Oracle said: CorrectGuesser said: Is the object you are thinking of a digital.
+
+intercom,17,Oracle said: What is your first question?	 I am thinking of a physical object.Guesser said: Is the object man-made?
+	Oracle said: Yes.
+	Guesser said: Is the object something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object typically found indoors?
+	 Oracle said: Yes.
+	 Guesser said: Does the object have moving parts?
+	Oracle said: Yes.
+	 Guesser said: Is the object something that serves a functional purpose?
+	 Oracle said: Yes.
+	 Guesser said: Does the object require electricity to function?
+	Oracle said: Yes.
+	Guesser said: Does the object have a screen?
+	Oracle said: No.
+	 Guesser said: Is the object commonly found in an office setting?
+	 Oracle said: Yes.
+	 Guesser said: With all of this information in mind, I'm going to take a guess that the object is a computer. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object something that people commonly use to interact with computers, such as a keyboard or a mouse?
+	 Oracle said: No.
+	 Guesser said: Does the object make noise?
+	Oracle said: No.
+	Guesser said: Is the object something that is used for communication, such as a phone?
+	 Oracle said: Yes.
+	 Guesser said: With all of this information in mind, I'm going to take a guess that the object is a phone. Is that correct?
+	Oracle said: No.
+	 Guesser said: Is the object something that is used to make copies of documents or images, such as a printer or a photocopier?
+	 Oracle said: No.
+	 Guesser said: Is the object something that is used for audio, such as a speaker or a headset?
+	Oracle said: No.
+	 Guesser said: Is the object something that is used to make phone calls, but is not a phone itself, such as a headset or a speakerphone?
+	Oracle said: Yes.
+	Guesser said: With all of this information in mind, I'm going to take a guess that the object is a speakerphone. Is that correct?
+	Oracle said: Correct.
+
+laptop,14,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that you can hold in your hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Is the object you are thinking of something that you can use to manipulate or interact with something else?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be used to write or draw with?
+	 Oracle said: No.
+	Guesser said: Is the object you are thinking of something that can be used to move or transport something else?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of electronic?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you have given me, I am going to guess that the object you are thinking of is a remote control. Is that correct?
+	 Oracle said: No.
+	Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of a phone?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that can be used to take pictures or videos?
+	 Oracle said: No.
+	Guesser said: Does the object you are thinking of have a keyboard or input device?
+	Oracle said: Yes.
+	Guesser said: Based on the information you have given me, I am going to guess that the object you are thinking of is a computer. Is that correct?
+	Oracle said: Correct.
+
+amplifier,7,Oracle said: What is your first question?	 I am thinking of something physical.Guesser said: Is the object you are thinking of something that can be held in one's hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	 Guesser said: Is the object you are thinking of used for entertainment?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of require electricity to function?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: No.
+	Guesser said: Does the object you are thinking of produce sound?
+	 Oracle said: Yes.
+	 Guesser said: Based on your answers, I'm going to guess that the object you are thinking of is a radio. Am I correct?
+	 Oracle said: Correct.
+
+jukebox,50,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of require electricity to function?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a screen?
+	 Oracle said: No.
+	 Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?
+	Oracle said: Yes.
+	Guesser said: I'm going to guess that the object you are thinking of is a computer.Oracle said: No.Guesser said: Is the object you are thinking of something that can be used for entertainment?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, and is used for entertainment, I'm going to guess that the object you are thinking of is a DVD player.Oracle said: Yes. Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?
+	Oracle said: Yes.
+	Guesser said: What is your first question?
+	 Oracle said: No questions.
+	 Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of require electricity to function?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?
+	Oracle said: Yes.
+	 Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is man-made, I'm going to guess that the object you are thinking of is a computer.Oracle said: No.Guesser said: Is the object you are thinking of something that can be used for entertainment?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.Oracle said: Yes. Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be held in your hand?
+	 Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have moving parts?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of require electricity to function?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: No.
+	 Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a cord that plugs into a wall?
+	 Oracle said: Yes.
+	 Guesser said: Is the object you are thinking of used for entertainment?
+	 Oracle said: Yes.
+	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, and is used for entertainment, I'm going to guess that the object you are thinking of is a game console.Oracle said: Yes. Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have moving parts?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of require electricity to function?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a cord that plugs into a wall?
+	Oracle said: Yes.
+	 Guesser said: Is the object you are thinking of used for entertainment?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.Oracle said: No.Guesser said: Is the object you are thinking of something that can be used for gaming?
+	 Oracle said: Yes.
+	 Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for gaming, I'm going to guess that the object you are thinking of is a game console.Oracle said: Yes. Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?
+	 Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of require electricity to function?
+	 Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have a screen?
+	Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have buttons or controls that you can press?
+	 Oracle said: Yes.
+	 Guesser said: Does the object you are thinking of have a cord that plugs into a wall?
+	 Oracle said: Yes.
+	Guesser said: Is the object you are thinking of used for entertainment?
+	 Oracle said: Yes.
+	 Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.Oracle said: No.Guesser said: Is the object you are thinking of something that can be used for gaming?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for gaming, I'm going to guess that the object you are thinking of is a game console.Oracle said: Yes. Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?
+	 Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be held in your hand?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+
+yacht,18,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that can be held in my hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of something that can be found indoors?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of something that can be found outdoors, but is not a living thing?
+	 Oracle said: Yes.
+	Guesser said: Is the object you are thinking of man-made?
+	Oracle said: Yes.
+	Guesser said: Does the object you are thinking of have moving parts?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be used for transportation?
+	 Oracle said: Yes.
+	 Guesser said: I'm going to guess that the object you are thinking of is a bicycle. Is that correct?
+	Oracle said: No.
+	 Guesser said: Does the object you are thinking of run on gasoline?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that runs on electricity?
+	 Oracle said: No.
+	 Guesser said: Does the object you are thinking of have wheels?
+	 Oracle said: Yes.
+	Guesser said: I'm going to guess that the object you are thinking of is a skateboard. Is that correct?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is typically propelled by pushing with the feet?
+	 Oracle said: Yes.
+	 Guesser said: I'm going to guess that the object you are thinking of is a scooter. Is that correct?
+	 Oracle said: No.
+	Guesser said: Is the object you are thinking of something that is commonly used by children?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is typically ridden by only one person?
+	Oracle said: Yes.
+	Guesser said: I'm going to guess that the object you are thinking of is a unicycle. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of something that has pedals?
+	Oracle said: Yes.
+	Guesser said: I'm going to guess that the object you are thinking of is a bicycle. Is that correct?
+	Oracle said: Correct.
+
+fuse,27,Oracle said: What is your first question?	 Guesser said: Is the object something that you can hold in your hand?
+	Oracle said: Yes.
+	Guesser said: Is the object man-made?
+	 Oracle said: Yes.
+	Guesser said: Does the object have moving parts?
+	 Oracle said: No.
+	Guesser said: Is the object used for a functional purpose?
+	Oracle said: Yes.
+	 Guesser said: Is the object commonly found in a kitchen?
+	Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual smell?
+	Oracle said: No.
+	 Guesser said: Is the object used for eating or drinking?
+	 Oracle said: No.
+	Guesser said: Does the object have a distinct or unusual color?
+	Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a stop sign. Is that correct?
+	 Oracle said: No.
+	 Guesser said: Is the object something that can be found outdoors?
+	Oracle said: No.
+	 Guesser said: Is the object used for a recreational purpose?
+	 Oracle said: No.
+	 Guesser said: Does the object have a distinct or unusual texture?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a stress ball. Is that correct?
+	 Oracle said: No.
+	Guesser said: Is the object made of a single piece of material?
+	 Oracle said: Yes.
+	 Guesser said: Is the object used primarily with the hands?
+	Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a rubber eraser. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object made of plastic?
+	 Oracle said: Yes.
+	Guesser said: Based on the information you've given me, I'm going to guess that the object is a Lego brick. Is that correct?
+	Oracle said: No.
+	 Guesser said: Is the object commonly found in an office?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a pen. Is that correct?
+	Oracle said: No.
+	 Guesser said: Is the object used primarily for a specific task?
+	 Oracle said: Yes.
+	Guesser said: Is the object used to mark or write on a surface?
+	 Oracle said: No.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a mousepad. Is that correct?
+	 Oracle said: No.
+	 Guesser said: Is the object used to hold or carry something?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a pencil case. Is that correct?
+	Oracle said: No.
+	Guesser said: Is the object used primarily with paper?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information you've given me, I'm going to guess that the object is a paperweight. Is that correct?
+	 Oracle said: Correct.
+
+tugboat,1,Oracle said: What is your first question?	 Guesser said: Is the object something that can be held in your hand?
+	Oracle said: NoGuesser said: Is the object man-made?Oracle said: YesGuesser said: Is the object used for transportation?Oracle said: YesGuesser said: Is the object used on water?Oracle said: YesGuesser said: Is the object a type of boat?Oracle said: YesGuesser said: Is the object a type of tugboat?Oracle said: CorrectGuesser said: Is the object a tugboat?Oracle said.
+
+website,18,Oracle said: What is your first question?	 Guesser said: Is the object you are thinking of something that can be held in your hand?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of man-made?
+	 Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that serves a functional purpose?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that can be found in a typical household?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that can be used outdoors?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of something that can be used for a recreational activity?
+	Oracle said: Yes.
+	Guesser said: Is the object you are thinking of something that is commonly used in a team sport?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is used by only one person at a time?
+	Oracle said: Yes.
+	 Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, and is used in a recreational activity, I'm going to guess that the object you are thinking of is a bicycle helmet. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is used to propel the user forward in a recreational activity?
+	Oracle said: Yes.
+	 Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, and is not a bicycle helmet, I'm going to guess that the object you are thinking of is a skateboard. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is used to propel the user through water?
+	Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is used to propel the user through the air?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, and is used to propel the user through the air, I'm going to guess that the object you are thinking of is a hang glider. Am I correct?
+	Oracle said: No.
+	Guesser said: Is the object you are thinking of something that is used to propel the user through the air, but is not a vehicle?
+	Oracle said: Yes.
+	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, is not a hang glider, and is used to propel the user through the air but is not a vehicle, I'm going to guess that the object you are thinking of is a parachute. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object you are thinking of something that is used to propel the user through the air, but is used for a short distance, and is not a vehicle?
+	Oracle said: Yes.
+	 Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, is not a hang glider, is not a parachute, and is used to propel the user through the air but is used for a short distance and is not a vehicle, I'm going to guess that the object?
+	Oracle said: Correct.
+
+compass,18,Oracle said: What is your first question?	 Guesser said: Is the object something that can be held in your hand?
+	Oracle said: Yes.
+	Guesser said: Is the object man-made?
+	 Oracle said: Yes.
+	 Guesser said: Does the object have moving parts?
+	 Oracle said: Yes.
+	 Guesser said: Does the object require batteries or electricity to operate?
+	 Oracle said: No.
+	Guesser said: Is the object used for entertainment?
+	 Oracle said: No.
+	Guesser said: Does the object have buttons or controls?
+	 Oracle said: No.
+	 Guesser said: Is the object used for a specific task or function?
+	Oracle said: Yes.
+	Guesser said: Is the object used for a task related to food or drink?
+	 Oracle said: No.
+	Guesser said: Is the object made primarily of metal?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, and does not require batteries or electricity, I'm going to guess that the object is a pocket knife. Am I correct?
+	 Oracle said: No.
+	Guesser said: Is the object used for a task related to personal grooming or hygiene?
+	 Oracle said: No.
+	 Guesser said: Is the object used for a task related to sports or recreation?
+	Oracle said: Yes.
+	 Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, and is used for a task related to sports or recreation, I'm going to guess that the object is a golf club. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object used for a task related to throwing or propelling something?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, is used for a task related to sports or recreation, is used for a task related to throwing or propelling something, I'm going to guess that the object is a baseball bat. Am I correct?
+	 Oracle said: No.
+	Guesser said: Is the object a projectile itself?
+	 Oracle said: No.
+	 Guesser said: Is the object used for a task related to a team sport?
+	 Oracle said: Yes.
+	 Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, is used for a task related to sports or recreation, is used for a task related to throwing or propelling something, is used for a task related to a team sport, I'm going to guess that the object is a lacrosse stick. Am I correct?
+	Oracle said: Correct.
+
+speedometer,14,Oracle said: What is your first question?	 I am thinking of a physical object.Guesser said: Is the object something that you can hold in your hand?
+	Oracle said: No.
+	Guesser said: Is the object man-made?
+	Oracle said: Yes.
+	Guesser said: Is the object made primarily of metal?
+	Oracle said: Yes.
+	 Guesser said: Does the object have moving parts?
+	Oracle said: Yes.
+	 Guesser said: Is the object commonly found in a home or office?
+	 Oracle said: No.
+	Guesser said: Does the object require electricity to function?
+	Oracle said: Yes.
+	 Guesser said: Does the object have a screen?
+	 Oracle said: No.
+	 Guesser said: Does the object have buttons or controls that you can press?
+	Oracle said: Yes.
+	Guesser said: Is the object a type of appliance?
+	Oracle said: Yes.
+	Guesser said: Is the object a type of computer?
+	 Oracle said: No.
+	 Guesser said: Does the object have a cord?
+	 Oracle said: Yes.
+	Guesser said: I'm going to guess that the object is a toaster. Am I correct?
+	 Oracle said: No.
+	 Guesser said: Is the object larger than a toaster?
+	 Oracle said: Yes.
+	 Guesser said: I'm going to guess that the object is a refrigerator. Am I correct?
+	Oracle said: Correct.airship,7,	Oracle said: What is your first question?	 I am thinking of a physical object.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Is the object something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object used for a specific purpose or function?	Oracle said: Yes.	Guesser said: Is the object electronic?	Oracle said: No.	Guesser said: Is the object commonly found in most households?	Oracle said: No.	Guesser said: Does the object require maintenance or upkeep?	Oracle said: Yes.	Guesser said: Based on the information you have given me, I'm going to guess that the object is a lawnmower. Is that correct?	Oracle said: Correct.
+photocopier,11,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that can be held in my hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen or display of some kind?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have buttons or controls that can be pressed?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be used for entertainment?	Oracle said: No.	Guesser said: Is the object you are thinking of commonly found in a home or office?	Oracle said: Yes.	Guesser said: Based on all the information you've given me, I'm going to guess that the object you are thinking of is a television. Am I correct?	Oracle said: No.	Guesser said: Does the object you are thinking of have a keyboard or typing interface?	Oracle said: Yes.	Guesser said: Based on the fact that the object has a screen, requires electricity, has buttons or controls, a keyboard or typing interface, and is commonly found in a home or office, I'm going to guess that the object you are thinking of is a computer. Am I correct?	Oracle said: Correct.
+pager,25,	Oracle said: What is your first question?	Guesser said: Is the object you're thinking of something that can be held in your hand?	Oracle said: Yes.	Guesser said: Is the object you're thinking of man-made?	Oracle said: Yes.	Guesser said: Is the object you're thinking of used for a specific task or function?	Oracle said: Yes.	Guesser said: Does the object you're thinking of require batteries or electricity to function?	Oracle said: Yes.	Guesser said: Does the object you're thinking of have a screen?	Oracle said: No.	Guesser said: Does the object you're thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you're thinking of have a cord or be plugged into a wall?	Oracle said: No.	Guesser said: Is the object you're thinking of commonly found in a household?	Oracle said: No.	Guesser said: Is the object you're thinking of something that can be used by only one person at a time?	Oracle said: Yes.	Guesser said: Does the object you're thinking of have a distinct or unusual shape?	Oracle said: Yes.	Guesser said: Based on all the information you've given me, I'm going to guess that the object you're thinking of is a portable music player, like an iPod. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable game console, like a Nintendo DS. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a handheld calculator. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a laser pointer. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a camera. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a phone. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable DVD player. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a flashlight. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a remote control. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a TV remote control. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a garage door opener remote. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a game controller. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a handheld scanner. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a digital thermometer. Am I correct?	Oracle said: No.	Guesser said: Based on the fact that the object is small enough to be held in one hand, requires batteries, has buttons or controls, and has a distinct or unusual shape, I'm going to guess that the object you're thinking of is a portable GPS device. Am I correct?	Oracle said: Correct.
+radio,21,	Oracle said: What is your first question?	Guesser said: Is the object something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Does the object have moving parts?	Oracle said: Yes.	Guesser said: Does the object require electricity to function?	Oracle said: Yes.	Guesser said: Does the object have a screen?	Oracle said: No.	Guesser said: Does the object have a keyboard or buttons?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a computer. Is that correct?	Oracle said: No.	Guesser said: Does the object have a specific function or purpose?	Oracle said: Yes.	Guesser said: Does the object have a display that shows information or data?	Oracle said: No.	Guesser said: Does the object have a cord or plug that connects to a power source?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a phone. Is that correct?	Oracle said: No.	Guesser said: Is the object something that can be used by only one person at a time?	Oracle said: Yes.	Guesser said: Does the object have a cord that can be plugged into a wall outlet?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a hair dryer. Is that correct?	Oracle said: No.	Guesser said: Is the object used primarily indoors?	Oracle said: Yes.	Guesser said: Does the object have a cord that is typically long?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a vacuum cleaner. Is that correct?	Oracle said: No.	Guesser said: Does the object make noise while it is in use?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a blender. Is that correct?	Oracle said: No.	Guesser said: Is the object used primarily for a specific task or function?	Oracle said: Yes.	Guesser said: With the information you've given me, I'm going to take a guess that the object is a toaster. Is that correct?	Oracle said: Correct.
+bullhorn,3,	Oracle said: What is your first question?	Guesser said: Is what you are thinking of something that can be held in your hand?	Oracle said: No	Guesser said: Is what you are thinking of man-made?	Oracle said: Yes	Guesser said: Is what you are thinking of commonly used for communication?	Oracle said: Yes	Guesser said: Is what you are thinking of used to amplify sound?	Oracle said: Yes	Guesser said: Is what you are thinking of used primarily for speaking or making noise?	Oracle said: Yes	Guesser said: Is what you are thinking of something that can be.	 held up to the ear?	Oracle said: No	Guesser said: Is what you are thinking of a type of instrument?	Oracle said: Yes	Guesser said: Is what you are thinking of used in music?	Oracle said: No	Guesser said: Is what you are thinking of used in sports?	Oracle said: Yes	Guesser said: Is what you are thinking of commonly used in rodeos?	Oracle said: Yes	Guesser said: Is what you are thinking of a bullhorn?	Oracle said.	Yes	Guesser said: I think I have it. I'm going to guess that what you are thinking of is a bullhorn.	Oracle said: Yes! You guessed it! Congratulations, 	Guesser! You guessed it in just 8 questions! You must be a great guesser! 	Guesser said: I'm glad I was able to guess it correctly. I was starting to get a little worried that I was going to have to ask a lot more questions. I thought the fact that it?	Oracle said: Correct	Guesser said: I'm glad I was able to guess it correctly.
+sprinkler,3,	Oracle said: What is your first question?	 I am thinking of an object.	Guesser said: Is the object man-made?	Oracle said: Yes	Guesser said: Is the object something that can be held in your hand?	Oracle said: No	Guesser said: Is the object used for a specific task or function?	Oracle said: Yes	Guesser said: Is the object used for watering plants?	Oracle said: Yes	Guesser said: Is the object typically used outdoors?	Oracle said: Yes	Guesser said: Is the object electric?	Oracle said: Yes	Guesser said: Is the object.	 I am going to take a guess that the object is a hose. 	Guesser said:I am going to guess that the object is a hose. Am I correct?	Oracle said: No	Guesser said: Is the object a type of sprinkler system?	Oracle said: Yes	Guesser said: Is the object a type of sprinkler system?	Oracle said: Yes	Guesser said: I am going to guess that the object is a sprinkler.	Guesser said: Am I correct?	Oracle said: Correct.
+bullet,12,	Oracle said: What is your first question?	 I am thinking of something.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: Yes.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: No.	Guesser said: Is the object you are thinking of used for a specific purpose or function?	Oracle said: Yes.	Guesser said: Is the object you are thinking of used primarily with the hands?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a distinct or unusual smell?	Oracle said: No.	Guesser said: Is the object you are thinking of commonly found in most households?	Oracle said: No.	Guesser said: Does the object you are thinking of have a sharp edge or point?	Oracle said: Yes.	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, and has a sharp edge or point, I am going to guess that the object you are thinking of is a knife. 	Oracle said: No.	Guesser said: Does the object you are thinking of have a handle of some sort?	Oracle said: Yes.	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, and has a handle, I am going to guess that the object you are thinking of is a pair of scissors. 	Oracle said: No. 	Guesser said: Does the object you are thinking of have a blade or cutting surface that is made of metal?	Oracle said: Yes.	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, has a handle, and has a blade or cutting surface made of metal, I am going to guess that the object you are thinking of is a utility knife. 	Oracle said: No. 	Guesser said: Is the object you are thinking of used primarily for a specific task such as cutting or piercing?	Oracle said: Yes.	Guesser said: Given that the object you are thinking of is man-made, can be held in one's hand, has a distinct smell, has a sharp edge or point, has a handle, has a blade or cutting surface made of metal, is used primarily for a specific task, and is used primarily with the hands, I am going to guess that the object you are thinking of is a box cutter. 	Oracle said: Yes. 	Guesser said: I am glad I was able to?	Oracle said: Correct.
+barometer,23,	Oracle said: What is your first question?	Guesser said: Is the object something that you can hold in your hand?	Oracle said: Yes.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Is the object used for a specific task or function?	Oracle said: Yes.	Guesser said: Is the object something that can be found in most households?	Oracle said: No.	Guesser said: Is the object electronic?	Oracle said: No.	Guesser said: Does the object have moving parts?	Oracle said: Yes.	Guesser said: Does the object require batteries or some other power source to operate?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual shape?	Oracle said: Yes.	Guesser said: Does the object have a handle or something that you can grip to hold it?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object is a pair of scissors. Is that correct?	Oracle said: No.	Guesser said: Is the object used primarily with food or drink?	Oracle said: No.	Guesser said: Does the object have a sharp edge or point?	Oracle said: No.	Guesser said: Does the object have a spring or other mechanical mechanism that returns to its original position after being compressed or moved?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object is a toy or a novelty item, such as a spring-loaded toy. Is that correct?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual sound associated with it?	Oracle said: Yes.	Guesser said: Does the object have a musical component, such as a bell or a whistle?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual smell associated with it?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object is a stress ball or a squeeze toy, but I'm not sure what the smell would be associated with that. Is that correct?	Oracle said: No.	Guesser said: Is the object something that you would typically find in a garden or yard?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object is a garden hose or a water spray nozzle. Is that correct?	Oracle said: No.	Guesser said: Is the object something that is used to plant or grow things?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual texture?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object is a pinecone. Is that correct?	Oracle said: Correct.
+gearshift,21,	Oracle said: What is your first question?	Guesser said: Is the object you're thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you're thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you're thinking of have moving parts?	Oracle said: Yes.	Guesser said: Is the object you're thinking of something that is used for entertainment?	Oracle said: No.	Guesser said: Does the object you're thinking of require electricity to operate?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used for a specific task or function?	Oracle said: Yes.	Guesser said: Is the object you're thinking of something that can be found in a typical household?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used primarily with the hands?	Oracle said: Yes.	Guesser said: Does the object you're thinking of have a sharp edge or point?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is commonly used by only one person at a time?	Oracle said: Yes.	Guesser said: Is the object you're thinking of something that is used for a task that is related to food or drink?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used primarily outdoors?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used for a task that involves manipulating or shaping something?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used primarily for a recreational or sporting activity?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used by people who are involved in a particular profession or trade?	Oracle said: Yes.	Guesser said: Given that the object is used by people who are involved in a particular profession or trade, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a surgical instrument.Am I correct?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that is related to the outdoors, such as logging or mining?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that involves working with or manipulating materials, such as a carpenter or a machinist?	Oracle said: Yes.	Guesser said: Given that the object is used by people who are involved in a trade or profession that involves working with or manipulating materials, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a power drill. Am I correct?	Oracle said: No.	Guesser said: Is the object you're thinking of something that is used by people who are involved in a trade or profession that involves working with or manipulating wood, such as a carpenter or a woodworker?	Oracle said: Yes.	Guesser said: Given that the object is used by people who are involved in a trade or profession that involves working with or manipulating wood, and it is used for a specific task or function, and it is man-made, and it has moving parts, and it is used primarily with the hands, I'm going to guess that the object you're thinking of is a table saw. Am I correct?	Oracle said: Correct.
+photograph,1,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: Yes	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes	Guesser said: Is the object you are thinking of something that can be looked at?	Oracle said: Yes	Guesser said: Is the object you are thinking of a photograph?	Oracle said: Correct	Guesser said: Is the object you are thinking of a type of photograph?	Oracle said: Correct	Guesser said: Is the object you are thinking of a digital.
+intercom,17,	Oracle said: What is your first question?	 I am thinking of a physical object.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Is the object something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object typically found indoors?	Oracle said: Yes.	Guesser said: Does the object have moving parts?	Oracle said: Yes.	Guesser said: Is the object something that serves a functional purpose?	Oracle said: Yes.	Guesser said: Does the object require electricity to function?	Oracle said: Yes.	Guesser said: Does the object have a screen?	Oracle said: No.	Guesser said: Is the object commonly found in an office setting?	Oracle said: Yes.	Guesser said: With all of this information in mind, I'm going to take a guess that the object is a computer. Is that correct?	Oracle said: No.	Guesser said: Is the object something that people commonly use to interact with computers, such as a keyboard or a mouse?	Oracle said: No.	Guesser said: Does the object make noise?	Oracle said: No.	Guesser said: Is the object something that is used for communication, such as a phone?	Oracle said: Yes.	Guesser said: With all of this information in mind, I'm going to take a guess that the object is a phone. Is that correct?	Oracle said: No.	Guesser said: Is the object something that is used to make copies of documents or images, such as a printer or a photocopier?	Oracle said: No.	Guesser said: Is the object something that is used for audio, such as a speaker or a headset?	Oracle said: No.	Guesser said: Is the object something that is used to make phone calls, but is not a phone itself, such as a headset or a speakerphone?	Oracle said: Yes.	Guesser said: With all of this information in mind, I'm going to take a guess that the object is a speakerphone. Is that correct?	Oracle said: Correct.
+laptop,14,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that you can hold in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that you can use to manipulate or interact with something else?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be used to write or draw with?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used to move or transport something else?	Oracle said: No.	Guesser said: Is the object you are thinking of electronic?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Based on the information you have given me, I am going to guess that the object you are thinking of is a remote control. Is that correct?	Oracle said: No.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: Yes.	Guesser said: Is the object you are thinking of a phone?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used to take pictures or videos?	Oracle said: No.	Guesser said: Does the object you are thinking of have a keyboard or input device?	Oracle said: Yes.	Guesser said: Based on the information you have given me, I am going to guess that the object you are thinking of is a computer. Is that correct?	Oracle said: Correct.
+amplifier,7,	Oracle said: What is your first question?	 I am thinking of something physical.	Guesser said: Is the object you are thinking of something that can be held in one's hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Is the object you are thinking of used for entertainment?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: No.	Guesser said: Does the object you are thinking of produce sound?	Oracle said: Yes.	Guesser said: Based on your answers, I'm going to guess that the object you are thinking of is a radio. Am I correct?	Oracle said: Correct.
+jukebox,50,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: No.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a computer.	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used for entertainment?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, and is used for entertainment, I'm going to guess that the object you are thinking of is a DVD player.	Oracle said: Yes. 	Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?	Oracle said: Yes.	Guesser said: What is your first question?	Oracle said: No questions.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is man-made, I'm going to guess that the object you are thinking of is a computer.	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used for entertainment?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.	Oracle said: Yes. 	Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: No.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?	Oracle said: Yes.	Guesser said: Is the object you are thinking of used for entertainment?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, and is used for entertainment, I'm going to guess that the object you are thinking of is a game console.	Oracle said: Yes. 	Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?	Oracle said: Yes.	Guesser said: Is the object you are thinking of used for entertainment?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used for gaming?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for gaming, I'm going to guess that the object you are thinking of is a game console.	Oracle said: Yes. 	Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Does the object you are thinking of require electricity to function?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a screen?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have a cord that plugs into a wall?	Oracle said: Yes.	Guesser said: Is the object you are thinking of used for entertainment?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for entertainment, I'm going to guess that the object you are thinking of is a TV.	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used for gaming?	Oracle said: Yes.	Guesser said: Based on the fact that the object has moving parts, requires electricity, has buttons or controls, has a cord, has a screen, and is used for gaming, I'm going to guess that the object you are thinking of is a game console.	Oracle said: Yes. 	Guesser said: I'm glad I was able to guess it correctly. Do you want to play again?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.
+yacht,18,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that can be held in my hand?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be found indoors?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be found outdoors, but is not a living thing?	Oracle said: Yes.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Does the object you are thinking of have moving parts?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be used for transportation?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a bicycle. Is that correct?	Oracle said: No.	Guesser said: Does the object you are thinking of run on gasoline?	Oracle said: No.	Guesser said: Is the object you are thinking of something that runs on electricity?	Oracle said: No.	Guesser said: Does the object you are thinking of have wheels?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a skateboard. Is that correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is typically propelled by pushing with the feet?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a scooter. Is that correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is commonly used by children?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is typically ridden by only one person?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a unicycle. Is that correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that has pedals?	Oracle said: Yes.	Guesser said: I'm going to guess that the object you are thinking of is a bicycle. Is that correct?	Oracle said: Correct.
+fuse,27,	Oracle said: What is your first question?	Guesser said: Is the object something that you can hold in your hand?	Oracle said: Yes.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Does the object have moving parts?	Oracle said: No.	Guesser said: Is the object used for a functional purpose?	Oracle said: Yes.	Guesser said: Is the object commonly found in a kitchen?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual smell?	Oracle said: No.	Guesser said: Is the object used for eating or drinking?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual color?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a stop sign. Is that correct?	Oracle said: No.	Guesser said: Is the object something that can be found outdoors?	Oracle said: No.	Guesser said: Is the object used for a recreational purpose?	Oracle said: No.	Guesser said: Does the object have a distinct or unusual texture?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a stress ball. Is that correct?	Oracle said: No.	Guesser said: Is the object made of a single piece of material?	Oracle said: Yes.	Guesser said: Is the object used primarily with the hands?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a rubber eraser. Is that correct?	Oracle said: No.	Guesser said: Is the object made of plastic?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a Lego brick. Is that correct?	Oracle said: No.	Guesser said: Is the object commonly found in an office?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a pen. Is that correct?	Oracle said: No.	Guesser said: Is the object used primarily for a specific task?	Oracle said: Yes.	Guesser said: Is the object used to mark or write on a surface?	Oracle said: No.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a mousepad. Is that correct?	Oracle said: No.	Guesser said: Is the object used to hold or carry something?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a pencil case. Is that correct?	Oracle said: No.	Guesser said: Is the object used primarily with paper?	Oracle said: Yes.	Guesser said: Based on the information you've given me, I'm going to guess that the object is a paperweight. Is that correct?	Oracle said: Correct.
+tugboat,1,	Oracle said: What is your first question?	Guesser said: Is the object something that can be held in your hand?	Oracle said: No	Guesser said: Is the object man-made?	Oracle said: Yes	Guesser said: Is the object used for transportation?	Oracle said: Yes	Guesser said: Is the object used on water?	Oracle said: Yes	Guesser said: Is the object a type of boat?	Oracle said: Yes	Guesser said: Is the object a type of tugboat?	Oracle said: Correct	Guesser said: Is the object a tugboat?	Oracle said.
+website,18,	Oracle said: What is your first question?	Guesser said: Is the object you are thinking of something that can be held in your hand?	Oracle said: No.	Guesser said: Is the object you are thinking of man-made?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that serves a functional purpose?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that can be found in a typical household?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used outdoors?	Oracle said: No.	Guesser said: Is the object you are thinking of something that can be used for a recreational activity?	Oracle said: Yes.	Guesser said: Is the object you are thinking of something that is commonly used in a team sport?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used by only one person at a time?	Oracle said: Yes.	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, and is used in a recreational activity, I'm going to guess that the object you are thinking of is a bicycle helmet. Am I correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used to propel the user forward in a recreational activity?	Oracle said: Yes.	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, and is not a bicycle helmet, I'm going to guess that the object you are thinking of is a skateboard. Am I correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used to propel the user through water?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used to propel the user through the air?	Oracle said: Yes.	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, and is used to propel the user through the air, I'm going to guess that the object you are thinking of is a hang glider. Am I correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used to propel the user through the air, but is not a vehicle?	Oracle said: Yes.	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, is not a hang glider, and is used to propel the user through the air but is not a vehicle, I'm going to guess that the object you are thinking of is a parachute. Am I correct?	Oracle said: No.	Guesser said: Is the object you are thinking of something that is used to propel the user through the air, but is used for a short distance, and is not a vehicle?	Oracle said: Yes.	Guesser said: Based on the fact that the object is man-made, serves a functional purpose, is used by only one person at a time, is used in a recreational activity, is used to propel the user forward, is not a bicycle helmet, is not a skateboard, is not a hang glider, is not a parachute, and is used to propel the user through the air but is used for a short distance and is not a vehicle, I'm going to guess that the object?	Oracle said: Correct.
+compass,18,	Oracle said: What is your first question?	Guesser said: Is the object something that can be held in your hand?	Oracle said: Yes.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Does the object have moving parts?	Oracle said: Yes.	Guesser said: Does the object require batteries or electricity to operate?	Oracle said: No.	Guesser said: Is the object used for entertainment?	Oracle said: No.	Guesser said: Does the object have buttons or controls?	Oracle said: No.	Guesser said: Is the object used for a specific task or function?	Oracle said: Yes.	Guesser said: Is the object used for a task related to food or drink?	Oracle said: No.	Guesser said: Is the object made primarily of metal?	Oracle said: Yes.	Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, and does not require batteries or electricity, I'm going to guess that the object is a pocket knife. Am I correct?	Oracle said: No.	Guesser said: Is the object used for a task related to personal grooming or hygiene?	Oracle said: No.	Guesser said: Is the object used for a task related to sports or recreation?	Oracle said: Yes.	Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, and is used for a task related to sports or recreation, I'm going to guess that the object is a golf club. Am I correct?	Oracle said: No.	Guesser said: Is the object used for a task related to throwing or propelling something?	Oracle said: Yes.	Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, is used for a task related to sports or recreation, is used for a task related to throwing or propelling something, I'm going to guess that the object is a baseball bat. Am I correct?	Oracle said: No.	Guesser said: Is the object a projectile itself?	Oracle said: No.	Guesser said: Is the object used for a task related to a team sport?	Oracle said: Yes.	Guesser said: Based on the information that the object is man-made, can be held in one's hand, has moving parts, is used for a specific task or function, is made primarily of metal, is used for a task related to sports or recreation, is used for a task related to throwing or propelling something, is used for a task related to a team sport, I'm going to guess that the object is a lacrosse stick. Am I correct?	Oracle said: Correct.
+speedometer,14,	Oracle said: What is your first question?	 I am thinking of a physical object.	Guesser said: Is the object something that you can hold in your hand?	Oracle said: No.	Guesser said: Is the object man-made?	Oracle said: Yes.	Guesser said: Is the object made primarily of metal?	Oracle said: Yes.	Guesser said: Does the object have moving parts?	Oracle said: Yes.	Guesser said: Is the object commonly found in a home or office?	Oracle said: No.	Guesser said: Does the object require electricity to function?	Oracle said: Yes.	Guesser said: Does the object have a screen?	Oracle said: No.	Guesser said: Does the object have buttons or controls that you can press?	Oracle said: Yes.	Guesser said: Is the object a type of appliance?	Oracle said: Yes.	Guesser said: Is the object a type of computer?	Oracle said: No.	Guesser said: Does the object have a cord?	Oracle said: Yes.	Guesser said: I'm going to guess that the object is a toaster. Am I correct?	Oracle said: No.	Guesser said: Is the object larger than a toaster?	Oracle said: Yes.	Guesser said: I'm going to guess that the object is a refrigerator. Am I correct?	Oracle said: Correct.

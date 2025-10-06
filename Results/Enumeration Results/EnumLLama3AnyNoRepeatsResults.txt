@@ -1,0 +1,858 @@
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(ring?/necklace?)	Is the object a(badge?/coin?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a Band-Aid?(/)	What is the object?(/)	
+0	
+0	
+0	
+1	Is the object a(kettlebell?/barbell?)	
+0	
+0	
+0	
+0	
+2	Is the object a baby(bottle?/carrier?)	Is the object a baby(carrier?/bathtub?)	
+0	
+1	Is the object a(towel?/bathrobe?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+7	Is the object a bed(sheet?/sheet?)	Is the object a fitted(sheet?/sheet?)	Is the object a bath(blanket?/blanket?)	Is the object a lightweight(blanket?/blanket?)	Is the object a summer(blanket?/blanket?)	What is the purpose of the(object?/object?)	Is the object a Sherpa(blanket?/blanket?)	
+0	
+1	Is the object a(chair?/table?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(bottle?/cup?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(shirt?/t-shirt?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(shirt?/t-shirt?)	
+0	
+0	
+2	Is the object a wooden bookshelf with metal(brackets?/hardware?)	Is the object a wooden bookshelf with metal(hardware?/supports?)	
+3	Is the book a(program?/pamphlet?)	Is the pamphlet a(newsletter?/directory?)	Is the pamphlet a(directory?/manual?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(sock?/slipper?)	Is the object a pink fuzzy cotton baby slipper with a rubber(sole?/sole?)	
+0	
+0	
+0	
+1	Is the object(man-made?/electronic?)	
+2	Is the object a black copper butterfly-shaped(necklace?/necklace?)	Is the object a black(cravat?/ascot?)	
+0	
+1	Is the object something that is worn on the(head?/feet?)	
+4	Is the object a gold chain with a circular(pendant?/clasp?)	Is the object a gold chain with a circular(clasp?/gemstone?)	Is the object a gold(necklace?/bar?)	Is the object a gold(bar?/coin?)	
+3	Is the object a dental(brace?/bracket?)	Is the object a type of orthodontic appliance that is(commonly used by orthodontists?/attached to the teeth?)	Is the object a type of dental appliance that is attached to the teeth using a type of(cement?/bracket?)	
+0	
+0	
+0	
+0	
+0	
+0	
+4	Is the object(man-made?/electronic?)	Is the object a(map?/catalog?)	Is the object a(catalog?/pamphlet?)	What is the object's(purpose?/age?)	
+0	
+0	
+1	Is the object a(trumpet?/bugle?)	
+0	
+1	What is the size of the object that you are thinking(of?/of?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(boat?/sailboat?)	
+1	Is the object a(gazebo?/canopy?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the purpose of the object you are thinking(of?/of?)	
+0	
+1	What is the object?(/)	
+0	
+1	Is the object a(hat?/scarf?)	
+0	
+0	
+1	Is the pot or pan a(stock pot?/Dutch oven?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	Is the object a(pencil?/marker?)	Is the object a colored(pencil?/pencil?)	Is the object used for(fine details?/precision?)	Is the object a lump(of charcoal?/of paint?)	
+0	
+2	Is the object a(buggy?/cart?)	Is the object a(gig?/barouche?)	
+1	Is the object a(board?/checkerboard?)	
+0	
+0	
+0	
+0	
+1	Is the object a(utensil?/chopstick?)	
+0	
+0	
+0	
+0	
+1	Is the object a(watch?/clock?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	Is the object a(sketchbook?/notebook?)	What is the shape of the(object?/object?)	What is the color of the(object?/object?)	
+1	Is the object a(sweater?/scarf?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(fork?/knife?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(hoodie?/jacket?)	
+0	
+0	
+0	
+0	
+1	Is the die(20-sided?/6-sided?)	
+1	What is the object's(shape?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a solid oak wood door frame that is 84 inches(tall?/tall?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(chair?/table?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(telescope?/microscope?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(harmonica?/recorder?)	Is the object a(flute?/clarinet?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(bookshelf?/bed?)	Is the object a bed(rail?/frame?)	
+1	Is the object a(flag?/uniform?)	
+0	
+0	
+0	
+1	Is the object something that can be found in a(kitchen?/toolbox?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the purpose of the(object?/object?)	
+0	
+2	Is the object a drinking(glass?/glass?)	Is the object a soda(glass?/glass?)	
+0	
+4	Is the object a(boat?/submarine?)	Is the object a(sailboat?/yacht?)	Is the object a(kayak?/speedboat?)	Is the object a(houseboat?/catamaran?)	
+0	
+0	
+0	
+0	
+1	Is the object a coffee(sack?/sack?)	
+2	Is the object used on(water?/land?)	What is the purpose of the object you are thinking(of?/of?)	
+0	
+0	
+1	Is the object a hair(barrette?/slide?)	
+0	
+0	
+0	
+0	
+1	Is the object a part of(a bicycle?/a bicycle?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the texture of the(object?/object?)	What is the purpose of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(container?/box?)	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+8	Is the object a type of composite roof shingle known as a composite cedar(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite metal(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite shake(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite rubber(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite wood plastic(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite wood polymer(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite wood composite(shingle?/shingle?)	Is the object a type of composite roof shingle known as a composite wood(resin shingle?/plastic composite shingle?)	
+0	
+1	What is the typical color of the object you are thinking(of?/of?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object used in a(specific setting?/kitchen?)	
+0	
+0	
+1	Is the object a(whistle?/kazoo?)	
+0	
+0	
+2	What is the object you are thinking of?(/)	What is the object you are thinking of?(/)	
+1	Is the object(man-made?/electronic?)	
+0	
+1	Is the object a type of suit(pants?/pants?)	
+0	
+0	
+0	
+1	What is the object you are thinking of?(/)	
+0	
+0	
+3	Is the object a(badge?/pin?)	Is the object a(wristband?/headband?)	Is the object a(headband?/collar?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object you were thinking of a cedar(rowboat?/canoe?)	
+0	
+1	Is the object a(liquid?/lotion?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(barn?/fence?)	
+0	
+1	Is the object a(game?/puzzle?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	Is the object a(fence?/deck?)	Is the object a column that supports a(carport?/patio cover?)	Is the object a column that supports a(patio cover?/gazebo or pergola?)	
+0	
+1	Is the object a red denim pencil(skirt?/skirt?)	
+0	
+0	
+0	
+1	Is the object a type of chukka boot made of(suede?/suede?)	
+0	
+0	
+1	Is the object a(planter?/fountain?)	
+0	
+0	
+0	
+4	Is the object a(portrait?/landscape?)	Is the object a(seascape?/cityscape?)	Is the object a painting of(flowers?/trees?)	Is the object a painting of(mountains?/a sunset?)	
+0	
+0	
+1	Is the object a type of neck warmer that is made of a synthetic material(such as polyester or nylon?/such as fleece?)	
+1	Is the object a(bandana?/neckerchief?)	
+0	
+0	
+0	
+0	
+4	What is the purpose of the object you are thinking(of?/of?)	Is the object a type of nightgown that is(floor length?/sleeveless?)	Is the object a type of nightgown that has a(hood?/high neckline?)	Is the object a type of nightgown that is designed to be worn for(warmth?/modesty?)	
+1	What is the purpose of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a leather(jacket?/jacket?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a type of(shirt?/jacket?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the shape of the object you are thinking(of?/of?)	
+0	
+0	
+1	What is the object you are thinking of?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Does the object have a(scissors?/bottle opener?)	
+0	
+1	Is the object a(chair?/table?)	
+0	
+0	
+0	
+2	Is the object a Dart(Tag blaster?/Bee blaster?)	Is the object a toy that is used for a game that involves(aiming?/competition?)	
+0	
+1	Is the object a(bowl?/mug?)	
+1	Is the object a dinner(plate?/plate?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(dock?/raft?)	
+0	
+0	
+0	
+1	Is the object a box(end wrench?/end wrench?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the purpose of the object you are thinking(of?/of?)	Is the object a type of(underwear?/sleepwear?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(blanket?/towel?)	
+0	
+1	Is the object a(pantry?/refrigerator?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object(disposable?/cheap?)	
+1	Is the object a type of pants that is used for a(specific type of activity?/sport?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(wall?/door?)	Is the object a(beam?/shelf?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	What is the object you are thinking of?(/)	What is the object you are thinking of?(/)	What is the object you are thinking of?(/)	What is the object you are thinking of?(/)	
+0	
+0	
+0	
+2	Is the object a(sled?/bobsled?)	Is the object a(toboggan?/luge?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the purpose of the(object?/object?)	
+0	
+1	Is the object a type of(parka?/ski parka?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	What is the object?(/)	What is the object?(/)	What is the object?(/)	
+0	
+0	
+1	What is the object's(function?/size?)	
+0	
+3	Is the main character a(princess?/woman?)	Is the book written by(Enid Blyton?/A.A. Milne?)	Is the book written by(J.K. Rowling?/Roald Dahl?)	
+0	
+0	
+0	
+0	
+1	What is the object?(/)	
+1	What is the purpose of the object you are thinking(of?/of?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a side window of(a car?/a car?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the book about(physics?/chemistry?)	Is the book about(meteorology?/oceanography?)	
+0	
+0	
+1	Is the object a(bench?/chair?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object(man-made?/electronic?)	What is the object's(purpose?/color?)	
+0	
+1	Is the object used in a(specific location?/home?)	
+0	
+3	Is the object a(suit?/dress?)	Is the object a type of(sundress?/evening gown?)	Is the object a christening(dress?/dress?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a clear top coat nail(polish?/polish?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	Is the object a laundry(bag?/bag?)	Is the object a tote(bag?/bag?)	Is the object a garment(bag?/bag?)	Is the object a gym(bag?/bag?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object typically worn by the(bride?/groom?)	
+0	
+0	
+0	
+0	
+0	
+5	Is the object a(hat?/glove?)	Is the object a(glove?/scarf?)	Is the object a type of boxers that have(an elastic waistband?/a button fly?)	Is the object boxers made of(polyester?/nylon?)	Is the object boxers made of(nylon?/spandex?)	
+1	Is the object primarily worn for(aesthetic purposes?/protection?)	
+0	
+0	
+1	Is the object a(badge?/ring?)	
+0	
+0	
+2	Is the object a steak(knife?/knife?)	Is the object a serrated(knife?/knife?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(chalkboard?/desk?)	
+0	
+0	
+9	Is the closet a cedar(closet?/closet?)	Is the closet a walk-in(closet?/closet?)	Is the closet a cherry(closet?/closet?)	Is the closet a maple(closet?/closet?)	Is the closet a mahogany(closet?/closet?)	Is the closet a teak(closet?/closet?)	Is the closet a birch(closet?/closet?)	Is the closet a beech(closet?/closet?)	Is the closet a spruce(closet?/closet?)	
+1	Is the faucet a single handle(faucet?/faucet?)	
+0	
+0	
+0	
+2	Is the object a blue face(cloth?/cloth?)	Is the object a blue disposable wash(cloth?/cloth?)	
+0	
+1	Is the object a(bathtub?/shower?)	
+3	Is the object a small trash(can?/can?)	Is the object a small gray plastic cylindrical desktop trash can with a hinged lid that is 10 inches tall and 12 inches in width and diameter and holds waste and is made of plastic and is used in an office and made by a well known household item(company?/company such as Tupperware or Black and Decker?)	Is the object a small gray plastic cylindrical desktop trash can with a hinged lid that is 10 inches tall and 12 inches in width and diameter and holds waste and is made of plastic and is used in an office and made by a well known household item company such as Tupperware(or Black and Decker?/or Hefty?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object you are thinking of?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	What is the object?(/)	What is the object?(/)	What is the object?(/)	What is the object?(/)	
+0	
+0	
+1	What is the object?(/)	
+1	What is the purpose of the object you are thinking(of?/of?)	
+0	
+0	
+0	
+1	What is the object's(shape?/purpose)	
+1	Is the object a type of(boat?/aircraft?)	
+0	
+0	
+0	
+3	Is the object a(megaphone?/tool?)	Is the object a(tool?/hammer?)	Is the object a(compass?/coil?)	
+0	
+4	Is the object a(vehicle?/car?)	Is the object a(Toyota?/Ford?)	Is the object a(Ford?/Honda?)	Is the object a(truck?/sedan?)	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+0	
+1	Is the object a(vehicle?/car?)	
+0	
+0	
+1	Is the object a(blowtorch?/lantern?)	
+0	
+0	
+1	What is the purpose of the object you are thinking(of?/of?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the function of the object you are thinking(of?/of?)	Is the object an(earbud?/earpiece?)	
+0	
+0	
+0	
+0	
+2	Is the ship a part of the Washington State(Ferry system?/Ferry system?)	Is the ship named after a(number?/word?)	
+1	Is the object a(painting?/photograph?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a type of aircraft that is often used for(cargo transport?/surveillance?)	
+0	
+0	
+0	
+0	
+4	What is the object?(/)	What is the object?(/)	What is the object?(/)	What is the object?(/)	
+0	
+0	
+1	What is the object's(purpose?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(train?/boat?)	Is the object a(car?/sedan?)	
+0	
+2	Is the object a portable(speaker?/speaker?)	What is the object's(purpose?/weight?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the vehicle a(van?/minivan?)	
+0	
+0	
+2	Is the object a(vehicle?/car?)	Is the object a(Honda?/Yamaha?)	
+5	Is the object a(boat?/sailboat?)	Is the object a(sailboat?/speedboat?)	Is the object a(Regal?/Chaparral?)	Is the object a(Formula?/Baja?)	Is the object a(Pursuit?/Tiara?)	
+4	What is the weight of the(object?/object?)	What is the object's purpose(in society?/in width?)	What is the object's size(in width?/in society?)	What is the object's purpose(in society?/in width?)	
+1	What is the shape of the(vehicle's body?/vehicle's trunk?)	
+1	Is the object a(bicycle?/car?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object(man-made?/electronic?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(boombox?/radio?)	
+2	Is the object a(motorcycle?/train?)	Is the object a train car?(/)	
+0	
+0	
+0	
+0	
+0	
+2	Is the spacecraft the Gemini(spacecraft?/spacecraft?)	What is the origin of the spacecraft you are thinking(of?/of?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(vehicle?/car?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the watch a stop(watch?/watch?)	
+1	Is the object a(vehicle?/car?)	
+0	
+0	
+4	What is the size of the object you are thinking(of?/of?)	Is the object a fuel tank on a(submarine?/buoy?)	Is the object a(container?/barrel?)	Is the object a(barrel?/drum?)	
+0	
+1	Is the object a(vehicle?/tank?)	
+2	Is the object a(pipe?/vehicle?)	Is the object a(vehicle?/boat?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the purpose of the object you are thinking(of?/of?)	
+1	What is the purpose of(the object?/the buttons?)	
+0	
+1	Is the object a(vehicle?/car?)	
+0	
+0	
+0	
+0	
+2	Is the object a VHS tape?(/)	Is the object a VHS tape?(/)	
+2	Is the object a(vehicle?/tank?)	Is the object an(F/A-18?/A-10?)	
+1	Is the vehicle a(helicopter?/boat?)	
+0	
+0	
+0	
+1	Is the object commonly used in(homes?/cars?)	
+0	

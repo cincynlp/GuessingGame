@@ -1,0 +1,3 @@
+armor,1,Oracle said: What is your first question?	Guesser said: Is the object something that can be held in your hand?
+	racle said: No,Guesser said: Is the object a type of armor?,Oracle said: Correct,Guesser said: Is the object a type of medieval armor?,Oracle said: Yes,Guesser said: Is the object a type of plate armor?,Oracle said: Yes,Guesser said: Is the object a type of Gothic plate armor?,Oracle said: Yes,Guesser said: Is the object a Goedendag?,Oracle said: Correct,Guesser said: I.
+

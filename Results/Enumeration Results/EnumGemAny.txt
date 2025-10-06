@@ -1,0 +1,858 @@
+1	Is the object used for(sitting?/storing things?)	
+3	Does the object have(strings?/keys?)	Is the object a(melodica?/synthesizer?)	Is the object a(synthesizer?/toy?)	
+0	
+1	Is the object a(building?/tablet?)	
+2	Is the object used for(construction?/communication?)	Is the object a(vehicle?/tool?)	
+5	Is the object used for(recreation?/transportation?)	Is the jewelry worn on the(wrist?/neck?)	Is the jewelry worn on the(neck?/ear?)	Is the jewelry worn on the(ear?/finger?)	Is the jewelry worn on the(finger?/ankle?)	
+0	
+4	Is the object a(curtain?/blanket?)	Is the object a(blanket?/tablecloth?)	Is the object a(lampshade?/rug?)	Is the object a washing(machine bag?/cleaning bag?)	
+0	
+5	Is the object a(drawer?/shelf?)	Is the cabinet used in a(kitchen?/bedroom?)	Is the cabinet a(wardrobe?/nightstand?)	Is the cabinet a(nightstand?/dresser?)	Is the cabinet used to store(decorative items?/documents?)	
+4	Is the object a(barrier?/weapon?)	Is the object a piece of(furniture?/safety equipment?)	Is the object designed to protect against(the elements?/physical harm?)	Is the object a(helmet?/vest?)	
+12	Is the object primarily used(indoors?/for storage?)	Is the object a(hand?/container?)	Is the object a(wheelbarrow?/skeleton?)	Is the object a(bridge?/vehicle?)	Is the object a(vehicle?/sculpture?)	Is the object a piece of(clothing?/furniture?)	Is the weapon a(sword?/club?)	Is the object a(bow?/spear?)	Is the weapon a(slingshot?/hammer?)	Is the weapon a(hammer?/knife?)	Is the object a(mace?/torch?)	Is the weapon a stake?(/)	
+19	Is the object a(statue?/planter?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	
+9	Is the object a(doorstop?/paperclip?)	Is the object a(paperclip?/coin?)	Is the object a(coin?/key?)	Is the object a(key?/handle?)	Is the object a metal(hook?/bracket?)	Is the object a metal(clip?/lid?)	Is the metal storage box found in a(school?/kitchen?)	Is the metal storage box found in a(kitchen?/garage?)	Is the metal storage box used in a(hospital?/factory?)	
+12	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+19	Is the object a(runway?/road?)	Is the object a(driveway?/sidewalk?)	Is the object a bike(path?/path?)	Is the object a tennis(court?/court?)	Is the object a(racetrack?/helipad?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object a(flag?/awning?)	
+1	Is the object a(hammer?/saw?)	
+0	
+14	Is the object a(bridge?/road?)	Is the object a(sign?/wall?)	Is the object a(wall?/structure?)	Is the object a(fence?/dam?)	Is the object a(dam?/deck?)	Is the object a(deck?/ramp?)	Is the object a(ramp?/platform?)	Is the object a(platform?/foundation?)	Is the object a(foundation?/sculpture?)	Is the object a(building?/bench?)	Is the object a(bench?/flagpole?)	Is the object a(well?/statue?)	Is the object a(statue?/gazebo?)	Is the object a(signpost?/sundial?)	
+0	
+4	Is the object a stringed(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	Is the object a(saxophone?/flute?)	Is the object a(flute?/clarinet?)	
+0	
+0	
+11	What is the primary color of the(object?/object?)	Is the object a(flag?/bedsheet?)	Is the object a(bedsheet?/tablecloth?)	Is the object a(tablecloth?/curtain?)	Is the object a(curtain?/towel?)	Is the object a(scarf?/poncho?)	Is the object a(poncho?/cloak?)	Is the object a(cloak?/handkerchief?)	Is the object a(handkerchief?/bib?)	Is the object a(bib?/wrap?)	Is the object a(wrap?/bandage?)	
+10	Is the object a(hat?/scarf?)	Is the object a(scarf?/glove?)	Is the object a(glove?/blanket?)	Is the object a(jacket?/flag?)	Is the object used in(sports?/the military?)	Is the object a(tarp?/pillowcase?)	Is the object a(pillowcase?/tent?)	Is the object a(kite?/sail?)	Is the object a(tarp?/tent?)	Is the object a(tent?/flag?)	
+3	Is the instrument a(piano?/violin?)	Is the instrument a(ukulele?/cello?)	Is the instrument a(cello?/banjo?)	
+1	Is the object a(flag?/banner?)	
+1	Is the object a(dumbbell?/barbell?)	
+5	Is the object a(tool?/vehicle?)	Is the object a(nail?/screw?)	Is the object a(railing?/bolt?)	Is the object a metal(sheet?/support beam?)	Is the object a(lock?/grate?)	
+6	Is the object a(door?/table?)	Is the object a(shelf?/cabinet?)	Is the object a wooden(coaster?/serving tray?)	Is the object a wooden(puzzle?/ruler?)	Is the object a wooden(doorstop?/paperweight?)	No.(/)	
+22	Is the object made of(glass?/plastic?)	Is the object made of(plastic?/metal?)	Is the object a(ceramic?/container?)	Is the object a(container?/toilet?)	Is the object a(toilet?/sink?)	Is the object a(sink?/bathtub?)	Is the object a(vase?/kettle?)	Is the object a humidifier?(/)	Is the object made of(wood?/fabric?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object a(backpack?/basket?)	
+0	
+0	
+11	Is the object a(dress?/skirt?)	Is the object(gloves?/socks?)	Is the object a(jumpsuit?/snowsuit?)	Is the object a(gown?/uniform?)	Is the object a(uniform?/costume?)	Is the object a(costume?/shroud?)	Is the object a boiler(suit?/suit?)	Is the object a polar(suit?/suit?)	Is the object a hazmat(suit?/suit?)	Is the object a painter's(suit?/suit?)	Is the object a snow(suit?/suit?)	
+2	Is the object a(toilet?/sink?)	Is the object a(sink?/bathtub?)	
+1	Is the object used for building(or construction?/or craft?)	
+4	Is the tool used for(cutting?/construction?)	Is the tool used for(construction?/transportation?)	Is the tool used to(measure something?/fasten things?)	Is the weapon a(gun?/knife?)	
+0	
+1	Is the object a(container?/glass?)	
+1	Is the object a(coat?/hat?)	
+0	
+6	Is the object a(pillow?/comforter?)	Is the object a(comforter?/bedspread?)	Is the object a fitted(sheet?/sheet?)	Is the object a(duvet?/valance?)	Is the object a(valance?/tablecloth?)	Is the object a(sarong?/wrap?)	
+0	
+4	Is the object used for(sitting?/storage?)	Is the object a(tool?/toy?)	Is the object a(slat?/headboard?)	Is the object a(headboard?/footboard?)	
+0	
+0	
+3	Is the object a(sweater?/hat?)	Is the hat a(beanie?/scarf?)	Is the hat a cowboy(hat?/hat?)	
+0	
+1	Is the object a(motorcycle?/bicycle?)	
+0	
+3	Is the object used for(food storage?/cooking?)	Is the object used for(cooking?/serving food?)	Is the object designed to be(moved easily?/sealed?)	
+8	Is the object used for(communication?/containing things?)	Does the object have a(handle?/lid?)	Is the object a(box?/bag?)	Is the object a(folder?/book?)	Is the object a(book?/package?)	Is the object a(package?/sign?)	Is the object a(sign?/cup?)	Is the object a(cup?/plate?)	
+0	
+0	
+0	
+0	
+0	
+3	Is the jacket made primarily of(cotton?/wool?)	Is the jacket made of(denim?/silk?)	Is the jacket a(peacoat?/blazer?)	
+15	Is the object a(hat?/scarf?)	Is the object a(scarf?/sock?)	Is the object a(sock?/dress?)	Is the object a(dress?/glove?)	Is the object a(glove?/coat?)	Is the object a(coat?/vest?)	Is the object a(vest?/tie?)	Is the object a(tie?/belt?)	Is the object a(belt?/swimsuit?)	Is the object a(swimsuit?/scarf?)	Is the object a(jumpsuit?/cape?)	Is the object a(shawl?/hood?)	Is the object a(hood?/leotard?)	Is the object a(leotard?/sleeve?)	Is the object a(sleeve?/bra?)	
+1	No.(/)	
+3	Is the object a(plant?/mineral?)	Does the object have(feathers?/scales?)	Is the snake native to North(America?/America?)	
+0	
+2	Is it a(bus?/bicycle?)	Is the object a(toboggan?/snowmobile?)	
+10	Is the clothing a(corset?/shirt?)	Is the clothing a(shirt?/vest?)	Is the clothing a(vest?/bodysuit?)	Is the clothing a(girdle?/bra?)	Is the clothing a sports(bra?/bra?)	Is the clothing a(bandeau?/bustier?)	Is the foundation garment a(slip?/longline bra?)	Is the foundation garment a(longline bra?/bustier?)	Is the foundation garment a(bustier?/camisole?)	Is the foundation garment a(camisole?/shapewear top?)	
+5	Is it a winter(hat?/hat?)	Is it a(helmet?/beret?)	Is it a(beret?/visor?)	Is it a(visor?/hood?)	Is it a(hood?/bonnet?)	
+0	
+3	No.(/)	No.(/)	No.(/)	
+18	Is the object a(map?/magazine?)	Is the object a(magazine?/calendar?)	Is the object a(calendar?/newspaper?)	Is the object a(newspaper?/poster?)	Is the object a(poster?/pamphlet?)	Is the object a(dictionary?/manual?)	Is the object a(manual?/catalog?)	Is the object a(catalog?/letter?)	Is the object a(cookbook?/journal?)	Does the object contain a lot of(numbers?/images?)	Is the object a(form?/manuscript?)	Is the object a(manuscript?/list?)	Is the object a(list?/receipt?)	Is the object a(receipt?/letter?)	Is the object a(letter?/flyer?)	Is the object a(bill?/resume?)	Is the object a(notice?/schedule?)	Is the object a(schedule?/transcript?)	
+7	Is the object a(calendar?/book?)	Is the object a(book?/photograph?)	Is the object a(photograph?/map?)	Is the object a paper(doily?/plate?)	Is the object a paper(plate?/towel?)	Is the object a(label?/certificate?)	Is the object a(certificate?/bookmark?)	
+2	Is the object(rectangular?/colorful?)	Is the object(colorful?/mass-produced?)	
+1	Is the object a(cabinet?/box?)	
+0	
+0	
+28	Is the object used for(communication?/storage?)	Is the object used for(storage?/entertainment?)	Is the object typically found in(an office?/a home?)	Is the object typically found in a(home?/school?)	Is the object typically found in a(school?/vehicle?)	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/fabric?)	Is the object a(blanket?/towel?)	Is the object a pair of(shoes?/sneakers?)	Is the object a pair of(sneakers?/dress shoes?)	Is the object a(belt?/hat?)	Is the object a(hat?/shirt?)	Is the object a pair of(socks?/pants?)	Is the object(gloves?/underwear?)	Is the object a(scarf?/tie?)	Is the object a(tie?/dress?)	Is the object a(dress?/jacket?)	Is the object a(jacket?/vest?)	Is the object a(vest?/suit?)	Is the object a(suit?/skirt?)	Is the object a(skirt?/bra?)	Is the object a(bra?/swimsuit?)	Is the object a(swimsuit?/button?)	Is the object a(button?/zipper?)	Is the object a(zipper?/pocket?)	Is the object a(pocket?/button?)	Is the object a(button?/shoelace?)	
+23	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/glass?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/fabric?)	Is the object primarily made of(rubber?/stone?)	Is the object primarily made of(stone?/paper?)	Is the object primarily made of(paper?/a ceramic?)	Is the object primarily made of(a ceramic?/concrete?)	Is the object used for(communication?/storage?)	Is the object used for(storage?/support?)	Is the object used for(support?/entertainment?)	Is the object a(shoe?/hat?)	Is the object a(belt?/scarf?)	Is the object a(coat?/shirt?)	Is the object(pants?/socks?)	Is the object(socks?/underwear?)	Is the object a(dress?/skirt?)	Is the object a(skirt?/tie?)	Does the object cover the(torso?/head?)	Does the object cover the(head?/legs?)	Does the object cover the(legs?/feet?)	Is the object a(sock?/slipper?)	Is the object a(slipper?/boot?)	
+1	Does the object have a(handle?/lid?)	
+0	
+4	Is the object made of(glass?/plastic?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/wood?)	Is the object used in an(office setting?/kitchen setting?)	
+12	Is the clothing worn on the(head?/feet?)	Is the clothing typically worn on the(torso?/legs?)	Is the clothing typically worn on the(legs?/arms?)	Is the clothing typically worn on the(arms?/hands?)	Is the object a(hat?/belt?)	Is the object a(sash?/ribbon?)	Is the object a decorative(trim?/wrap?)	Is the wrap a(boa?/shawl?)	Is the object a(cravat?/necktie?)	Is the object a(necktie?/scarf?)	Is the object a(scarf?/bandana?)	Is the object a(bandana?/collar?)	
+0	
+0	
+2	Is the object a(ring?/necklace?)	Is the object a(necklace?/bracelet?)	
+0	
+0	
+0	
+1	Is the object a(refrigerator?/can?)	
+3	Is the object designed to be worn on the(head?/feet?)	Is the object designed to be worn on the(feet?/hands?)	Is the object designed to be worn on the(hands?/torso?)	
+0	
+0	
+3	Is the object a(book?/notebook?)	Is the object a(notebook?/magazine?)	Is the object a(magazine?/pamphlet?)	
+3	Is it used to clean(the body?/a house?)	Is it made of(plastic?/cloth?)	Is it made of(cloth?/metal?)	
+2	Is the tool used for(construction?/storage?)	Is it a plastic(cup?/jug?)	
+1	Is the object made primarily of(wood?/metal?)	
+8	Is the object made of(plastic?/wood?)	Is the tool used for(gardening?/construction?)	Is the tool used for(cutting?/digging?)	Is the tool used for(digging?/cleaning?)	Is the tool used on(fabric?/paper?)	Is the tool used on(paper?/the ground?)	Is the tool used on the(ground?/water?)	Is the tool made of(rubber?/glass?)	
+4	Is the object used in(gardening?/construction?)	Is the object used in(construction?/agriculture?)	Is the object used to(transport grain?/cover something?)	Is the object used to cover(something?/hay bales?)	
+1	Is the object a(screw?/button?)	
+1	What is the general shape of(the object?/the object?)	
+20	Is the object a(dress?/skirt?)	Is the object a(skirt?/coat?)	Is the object a(hat?/scarf?)	Is the object a(scarf?/sock?)	Is the object a(vest?/swimsuit?)	Is the object a(swimsuit?/jacket?)	Is the object a(bodysuit?/poncho?)	Is the object a(poncho?/shawl?)	Is the object a(shawl?/cape?)	Is the object a(cape?/handkerchief?)	Is the object a(handkerchief?/towel?)	Is the object a(towel?/flag?)	Is the object a(flag?/curtain?)	Is the object a(curtain?/blanket?)	Is the object a(blanket?/bedsheet?)	Is the object a(bedsheet?/tablecloth?)	Is the object a(tablecloth?/rug?)	Is the object a(tapestry?/banner?)	Is the object used in(a kitchen?/a bed?)	Is the object used on a(bed?/table?)	
+0	
+21	Is the object a component of a(lamp?/door?)	Is the container used for(food storage?/holding liquids?)	Is the object a metal(water bottle?/vase?)	Is the object a metal(vase?/trash can?)	Is the object a metal(drawer?/cup?)	Is the object a metal(cup?/can?)	Is the object a metal(can?/bowl?)	Is the object a metal(bowl?/frame?)	Is the object a metal(frame?/filing cabinet?)	Is the object a metal(filing cabinet?/storage container?)	Is the object a metal container used to store(cleaning supplies?/documents?)	Is the object a metal container used to store(documents?/medicine?)	Is the object a metal container used to store(medicine?/tools?)	Is the object a metal(spice rack?/pot?)	Is the object a metal(pot?/pan?)	Is the object a metal(pan?/baking sheet?)	Is the object a metal(baking sheet?/colander?)	Is the object a metal(colander?/strainer?)	Is the object a metal(strainer?/griddle?)	Is the object a metal(griddle?/utensil holder?)	Is the object a metal(utensil holder?/pot lid?)	
+1	Is the boat a(rowboat?/canoe?)	
+3	Is the object a(tent?/sail?)	Is the object a(sail?/tarp?)	Is the object a(tarp?/flag?)	
+5	Is the object related to(infrastructure?/recreation?)	Is the object a(mailbox?/sundial?)	Is the object a(flagpole?/grill?)	Is the object a(grill?/telescope?)	Is the object a(cooler?/toolbox?)	
+6	What is the object's(shape?/size?)	Is the fabric made of(cotton?/linen?)	Is the fabric made of(linen?/synthetic fibers?)	Is the fabric made of(synthetic fibers?/wool?)	Is the fabric made of(wool?/silk?)	Is the fabric made of(silk?/hemp?)	
+0	
+5	Is the object used for(decoration?/communication?)	Is the container a(bottle?/cup?)	Is the container a(cup?/bucket?)	Is the container a(bucket?/jug?)	Is the container a gas(can?/can?)	
+1	Is the object a(lampshade?/lens?)	
+12	Is the object a(sweater?/scarf?)	Is the object a(scarf?/hat?)	Is the object a(blanket?/glove?)	Is the object a(glove?/rug?)	Is the object a(rug?/coat?)	Is the object a(vest?/shawl?)	Is the object a(shawl?/skirt?)	Is the object a(sweater?/blanket?)	Is the object a(blanket?/scarf?)	Is the object a(scarf?/coat?)	Is the object a(coat?/hat?)	Is the object a(shawl?/vest?)	
+0	
+20	Is the bag a(backpack?/purse?)	Is the bag a tote(bag?/bag?)	Is the bag a duffel(bag?/bag?)	Is the bag a shopping(bag?/bag?)	Is the bag a drawstring(bag?/bag?)	Is the bag a diaper(bag?/bag?)	Is the bag a sleeping(bag?/bag?)	Is the bag a dry(bag?/bag?)	Is the travel bag a(suitcase?/carry-on bag?)	Is the travel bag a(carry-on bag?/backpack?)	Is the travel bag a(backpack?/duffel bag?)	Is the travel bag a duffel(bag?/bag?)	Is the travel bag a garment(bag?/bag?)	Is the travel bag a tote(bag?/bag?)	Is the travel bag a weekender(bag?/bag?)	Is the travel bag a(toiletry bag?/packing cube?)	Is the travel bag a(packing cube?/shoe bag?)	Is the travel bag a shoe(bag?/bag?)	Is the travel bag a compression(bag?/bag?)	Is the bag a laundry(bag?/bag?)	
+22	Is the object used for transporting people between(cities?/cities?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object a dump(truck?/truck?)	Is the object a(semi-truck?/wagon?)	
+14	Is the object a(wagon?/boat?)	Is the object a(wheelbarrow?/toy?)	Is the object a(bobsleigh?/sled?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+16	Is the object made primarily of(metal?/plastic?)	Is it a garment worn on(the hands?/the waist?)	Is it a(scarf?/belt?)	Is it a(tie?/brooch?)	Is it a(brooch?/hat?)	Is it a(bracelet?/necklace?)	Is it a(necklace?/ring?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+25	Is the object primarily used for(storage?/communication?)	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/glass?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/fabric?)	Is the object made of(fabric?/paper?)	Is the object used for(writing?/reading?)	Is the object a(book?/magazine?)	Is the object a(magazine?/newspaper?)	Is the object a(newspaper?/map?)	Is the object a(map?/document?)	Is the document a(photograph?/flyer?)	Is the document a(flyer?/letter?)	Is the document a(letter?/receipt?)	Is the document a(receipt?/poster?)	Is the document a(poster?/menu?)	Is the document a(menu?/calendar?)	Is the document a(certificate?/brochure?)	Is the object a(label?/coupon?)	Is the object a(form?/list?)	Is the object a(list?/bill?)	Is the object a(notepad?/chart?)	Is the object a(placemat?/sticker?)	Is the object a(sticker?/receipt?)	Is the object a(receipt?/photograph?)	
+2	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	
+0	
+4	Is the object primarily used for(sitting?/holding things?)	Is the object a musical(instrument?/instrument?)	Is the object a(guitar?/violin?)	Is the object a(violin?/cello?)	
+6	Is it a plastic(bag?/sleeve?)	Is it used in(agriculture?/manufacturing?)	Is it used to protect(furniture?/equipment?)	Is it used to protect products from(dust?/scratches?)	Is it used to protect products from(scratches?/static electricity?)	Is it often used in an(office setting?/factory setting?)	
+4	Is the object a concrete(pier?/slab?)	Is the object a concrete(slab?/beam?)	Is the object a concrete(beam?/column?)	Is the object a part of(a dam?/a bridge?)	
+0	
+3	Is the object a(scooter?/trolley?)	Is the object powered by(electricity?/wind?)	Is the object used on(a track?/ice?)	
+8	Is the object used for(communication?/transportation?)	Is the object used for(transportation?/construction?)	Is the object used for(construction?/containing something?)	Is the object a(pipe?/cup?)	Is the object a(cup?/tank?)	Is the object typically found in(a kitchen?/an office?)	No.(/)	No.(/)	
+0	
+0	
+17	Is the object a(vehicle?/boat?)	Is the object a(boat?/train?)	Is the object a(train?/wagon?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+7	Is the object(round?/rectangular?)	No.(/)	No.(/)	Yes.(/)	Yes.(/)	Yes.(/)	Yes.(/)	
+0	
+14	Is the object primarily made of(metal?/paper?)	Is the object primarily made of(paper?/wood?)	Is the object primarily made of(wood?/plastic?)	Is the object primarily made of(plastic?/glass?)	Is the object primarily made of(glass?/fabric?)	Is the object primarily made of(fabric?/stone?)	Is the object(decorative?/flat?)	Is the object a(placemat?/coaster?)	Is the object a decorative(tile?/pillow?)	Is the object made of(metal?/fabric?)	Is the object made of(fabric?/paper?)	Is the object made of(paper?/plastic?)	Is the object a decorative wooden(tile?/placemat?)	Is the design painted on the(wood?/wood?)	
+4	Is the object a(plate?/figurine?)	Is the object a(mug?/bowl?)	Is the object a(toilet?/sink?)	Is the object a utensil(for eating?/for liquids?)	
+0	
+11	Is the object a(fence?/road?)	Is the object a(road?/beam?)	Is the object a(beam?/pipe?)	Is the object a(pipe?/bridge?)	Is the object a(bridge?/rail?)	Is the object made of(wood?/metal?)	Is the object made of(metal?/concrete?)	Is the object made of(concrete?/plastic?)	Is the object a(track?/ramp?)	Is the object a(ramp?/roller?)	Is the object a(roller?/chute?)	
+0	
+7	Is the object made of(wood?/plastic?)	Is the object made of(plastic?/paper?)	Is the object made of(paper?/fabric?)	Is the object made of(fabric?/glass?)	Is the object made of(glass?/cardboard?)	Is the object made of(cardboard?/multiple materials?)	Is the object a(binder?/stapler?)	
+5	Is the clothing a(coat?/blanket?)	Is the clothing a(blanket?/scarf?)	Is the clothing a(scarf?/hat?)	Is the clothing a(sweater?/vest?)	Is it a heated(vest?/blanket?)	
+2	What is the primary material of the(object?/object?)	Is the object(wearable?/digital?)	
+7	No.(/)	No.(/)	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	No.(/)	No.(/)	No.(/)	
+2	Is the object made of(wood?/plastic?)	Is the object made of(plastic?/metal?)	
+2	Is the clothing a(jacket?/sweater?)	Is the clothing a(sweater?/coat?)	
+13	Is the object a(wall?/building?)	Is the object a(building?/statue?)	Is the object a(statue?/bridge?)	Is the object a(bridge?/road?)	Is the object a(curb?/monument?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	I am not able to answer that question.(/)	No.(/)	
+11	Is the object a(gear?/blade?)	Is the object a(blade?/fastener?)	Is the object a(fastener?/spring?)	Is the object part of a(manufacturing machine?/medical device?)	Is the object a(hammer?/screw?)	Is the object part of a(telephone?/television?)	Is the object part of a(refrigerator?/microwave?)	Is the object part of a(microwave?/toaster?)	Is the appliance a(dishwasher?/blender?)	Is the object a(timer?/switch?)	Is the object a(switch?/pump?)	
+13	Is the object a jewelry(box?/box?)	Is the wooden box used for holding(tools?/toys?)	Is the wooden box used to hold(photographs?/valuables?)	Is the wooden box used to hold(valuables?/spices?)	Is the wooden box a(cigar humidor?/toolbox?)	Is the wooden box typically found in a living(room?/room?)	Is the wooden box typically found in a(dining room?/study?)	Is the wooden box typically found in a(study?/hallway?)	Is the wooden box a(wooden crate?/bread box?)	Is the wooden box a(bread box?/trunk?)	Is the wooden box a(trunk?/toy chest?)	Is the wooden box used in a(school?/shop?)	Is the object used in a(bathroom?/bedroom?)	
+9	Is the gear part of a(clock?/vehicle?)	Is the gear part of a(vehicle?/pump?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+6	Is the object a paper(cutout?/banner?)	Is the object a paper(banner?/plate?)	Is the object(mass-produced?/framed?)	Is the object a(drawing?/poster?)	Is the object a(poster?/painting?)	Is the object a(painting?/collage?)	
+17	Is the object a(coat?/shirt?)	Is the object a(dress?/skirt?)	Is the object a(skirt?/belt?)	Is the object(undergarments?/jewelry?)	Is the object commonly worn on the(head?/arms?)	Is the object commonly worn on the(arms?/legs?)	Is the object commonly worn on the(legs?/torso?)	Is the object commonly worn on the(torso?/feet?)	Is the object used to(carry things?/hold something?)	Is the object a(necklace?/bracelet?)	Is the object a(pin?/ring?)	Is the object a(ring?/pocket?)	Is the object(suspenders?/glasses?)	Is the object a(tie?/cufflink?)	Is the object a(cufflink?/wig?)	Is the object a(thimble?/bra?)	Is the object a(bra?/corset?)	
+3	Is the object made primarily of(ceramic?/plastic?)	Is the object made primarily of(plastic?/metal?)	Is the object made primarily of(metal?/wood?)	
+0	
+8	Is the object a(sign?/barrier?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object typically made of(glass?/metal?)	
+0	
+0	
+20	Is the object a(skirt?/sock?)	Is the object a(sock?/scarf?)	Is the object a(dress?/hat?)	Is the object a(hat?/glove?)	Is the object a(glove?/sweater?)	Is the object a(sweater?/coat?)	Is the object a pair of(leggings?/shorts?)	Is the object a(headband?/belt?)	Is the object a(belt?/handkerchief?)	Is the object a(handkerchief?/cape?)	Is the object a(cape?/jumpsuit?)	Is the object a(sleeve?/thong?)	Is the object a(blanket?/towel?)	Is the object a(towel?/cloth?)	Is it a(dishcloth?/washcloth?)	Is it a(flag?/handkerchief?)	Is it a(handkerchief?/bandana?)	Is it a(rug?/doily?)	Is it a(banner?/tapestry?)	Is it a(tapestry?/sheet?)	
+0	
+21	Is the clothing(outerwear?/underwear?)	Is the clothing a(dress?/skirt?)	Is the clothing a(skirt?/hat?)	Is the clothing(gloves?/socks?)	Is the clothing a(scarf?/tie?)	Is the clothing a(tie?/vest?)	Is the clothing a(vest?/belt?)	Is the clothing a(belt?/swimsuit?)	Is the clothing a(swimsuit?/robe?)	Is the clothing a(robe?/hood?)	Is the clothing a(hood?/sleeve?)	Is the clothing a(sleeve?/corset?)	Is the clothing a(corset?/cape?)	Is the clothing a(cape?/diaper?)	Is the clothing a(diaper?/bandana?)	Is the clothing a(bandana?/blindfold?)	Is the clothing a(thong?/loincloth?)	Is the clothing a(loincloth?/shawl?)	Is the clothing a pair of(underpants?/shorts?)	Is the clothing a pair of(shorts?/long johns?)	Is the clothing a(bib?/collar?)	
+18	Is the object used for(sitting?/storage?)	No.(/)	Is the object a(headboard?/dresser?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	
+0	
+6	Is the object a(hammer?/wrench?)	Is the object a(screwdriver?/spring?)	Is the object a(spring?/key?)	Is the object a bicycle(bell?/bell?)	Is it a school(bell?/bell?)	Is it a door(bell?/bell?)	
+8	Is the object a(chair?/door?)	Is the object a wooden(tool?/box?)	Is the object a(clock?/frame?)	Is the larger object a(table?/bed?)	Is the larger object a(bed?/desk?)	Is the larger object a(wardrobe?/stand?)	Is the larger object a(stand?/storage unit?)	Is the larger object a(storage unit?/tool shed?)	
+6	Is the object a(fence?/boat?)	Is the object a(boat?/birdhouse?)	Is the object a(birdhouse?/sign?)	Is the object a(deck?/bench?)	Is the object a wooden(statue?/storage container?)	Is the object a wooden(storage container?/barrel?)	
+0	
+0	
+10	Is the object a(bridge?/pipe?)	Is the object a(pipe?/building?)	Is the object a(building?/road?)	Is the object a(road?/flagpole?)	Is the object made of(steel?/iron?)	Is the object a(guardrail?/gate?)	Is the object a part of(an airplane?/a ship?)	Is the object a part of a(ship?/train?)	Is the object a part of a(train?/car?)	Is the object(long?/wide?)	
+7	Is the beam a hip(rafter?/rafter?)	Is the beam a(stud?/header?)	Is the beam part of a(pergola?/carport?)	Is the beam part of a(carport?/porch?)	Is the beam part of a(porch?/deck?)	Is the beam part of a(deck?/shed?)	Is the beam a(soffit?/subfloor?)	
+3	Is the object a(bow?/trebuchet?)	Is the object a(trebuchet?/catapult?)	Is the object a(catapult?/slingshot?)	
+3	Is the tool used to fasten(things?/things?)	Is the tool used to(cut things?/dig?)	Is the tool used to(dig?/break things?)	
+0	
+0	
+1	Is the object a(mug?/cup?)	
+0	
+0	
+11	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object a(sword?/knife?)	Is the knife a hunting(knife?/knife?)	Is the knife a kitchen(knife?/knife?)	Is the knife a combat(knife?/knife?)	Is the knife a utility(knife?/knife?)	Is the knife primarily used by(military personnel?/law enforcement?)	Is the object a switchblade(knife?/knife?)	Is the object a folding(knife?/knife?)	Is the knife a(stiletto?/dagger?)	
+6	Does the object have a primary function related to(containing something?/writing or communication?)	Does the object have a primary function related to writing(or communication?/or travel?)	Is the object typically used for(decoration?/personal adornment?)	Is the weapon primarily made of(metal?/wood?)	Is the weapon used for(cutting?/stabbing?)	Is the weapon used for(stabbing?/throwing?)	
+33	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+27	Is the object typically used for(communication?/storage?)	Is the object typically used for(storage?/artistic purposes?)	Is the object typically used for(artistic purposes?/cleaning?)	Is the object commonly found in(a kitchen?/an office?)	Is the object commonly found in(an office?/a classroom?)	Is the object commonly found in a(classroom?/bathroom?)	Is the object typically(single-use?/flat?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+5	Is the object a(jacket?/hat?)	Is the object a(hat?/skirt?)	Is the object a(skirt?/vest?)	Is the object a(jumpsuit?/bandana?)	Does the object cover the(torso?/legs?)	
+2	Is it made of(metal?/ceramic?)	Is it made of(ceramic?/plastic?)	
+0	
+0	
+2	Is the object a(tissue?/bandage?)	Is the object a(bandage?/diaper?)	
+1	What is the general shape of(the object?/the object?)	
+1	Is the object a(condom?/dildo?)	
+4	Is the object a(building?/book?)	Is the object a(sculpture?/photograph?)	Is the object a(photograph?/scroll?)	Is the object a(scroll?/recording?)	
+5	Is the object made of(plastic?/wood?)	Is the object made of(wood?/fabric?)	Is the object made of(fabric?/glass?)	Is the object made of(glass?/paper?)	Is the object a kitchen(utensil?/appliance?)	
+0	
+8	Is the object used to clean a(floor?/car?)	Is the object used to clean(windows?/computer screens?)	Is the object used to clean(computer screens?/glasses?)	Is the object used to clean(glasses?/furniture?)	Is the object a(sheet?/towel?)	Is the towel a hand(towel?/towel?)	Is it a beach(towel?/towel?)	Is the towel used in a(spa?/kitchen?)	
+15	Is the toy a(puzzle?/figurine?)	Is the toy a(slinky?/yoyo?)	Is the toy a(yoyo?/ball?)	Is the toy a(ball?/whistle?)	Is the toy a(whistle?/handheld)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+7	Is the object used for(sitting?/holding things?)	Is the object a(floorboard?/beam?)	Is the object typically found in a(bedroom?/living room?)	Is the object typically found in a(living room?/hallway?)	Is the object a(handrail?/baseboard?)	Is the object a(baseboard?/molding?)	Is the molding(decorative?/structural?)	
+11	Is the object typically used in a(kitchen?/bedroom?)	Is the object typically used in a(bedroom?/bathroom?)	Is the object typically used in a(bathroom?/living room?)	Is the object made of(glass?/metal?)	Is the object a(sculpture?/mirror?)	Is the object a(mirror?/lamp?)	Is the object a(lamp?/clock?)	Is the object a(clock?/vase?)	Is the object a decorative object for a(desk?/shelf?)	Is the object a decorative(spinning top?/birdcage?)	Does the object have a(spring mechanism?/pendulum?)	
+11	Is the object a(beam?/nail?)	Is the nail made of(steel?/iron?)	Is the nail made of(iron?/aluminum?)	Is the nail made of(aluminum?/copper?)	Is the nail made of(copper?/brass?)	Is the nail used in(framing?/finishing work?)	Is the nail used in(finishing work?/subflooring?)	Is the nail a roofing(nail?/nail?)	Is the nail a concrete(nail?/nail?)	Is the nail used to(attach sheathing?/secure trim?)	Is the nail used to(secure siding?/attach drywall?)	
+2	Is the object part of the(floor?/ceiling?)	Is the trim a molding around a(window?/door?)	
+3	Is the object a(tool?/statue?)	Is the object a(statue?/monument?)	Is the object a(wall?/headstone?)	
+0	
+4	Is the object a(flag?/rug?)	Is the object a(lampshade?/bedspread?)	Is the object a(blind?/shade?)	Is the object a(shade?/valance?)	
+3	Is the furniture a(table?/shelf?)	Is the furniture a(shelf?/chest?)	Is the furniture a(chair?/desk?)	
+3	Is the object a(hat?/jacket?)	Is the object a(jacket?/sock?)	Is the object a(scarf?/skirt?)	
+1	Is the object a(desk?/shelf?)	
+2	Is the object a stringed(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	
+19	Is the object used for(communication?/containing things?)	Is the object a(wall?/ceiling?)	Is the object a(ceiling?/column?)	Is the object a(column?/molding?)	Is the object a(molding?/tile?)	Is the object a(tile?/plasterboard?)	Is the object used to cover(something?/a hole?)	Is the object a plaster(skim coat?/corner bead?)	Is the object a plaster(decorative element?/base coat?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+4	Is the object a(pillow?/blanket?)	Is the object a(blanket?/mattress?)	What is the shape of(the object?/the object?)	Is the object(quilted?/thin?)	
+4	Does the object protect the(hands?/eyes?)	Does the object protect the(eyes?/feet?)	Does the object protect the(feet?/head?)	Does the object protect the(head?/ears?)	
+2	Is the jewelry a(ring?/necklace?)	Is the jewelry a(necklace?/bracelet?)	
+0	
+7	Is the object a(box?/bag?)	Is the object a(bag?/cup?)	Is the object a(cup?/book?)	Is the object a(plate?/cone?)	Is the object a(cone?/cylinder?)	Is the object a(cylinder?/bowl?)	Is the object a(bowl?/envelope?)	
+0	
+15	Is the object used for(storage?/communication?)	Is the object a(toy?/tool?)	Is the object a(tool?/container?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+3	What is the primary material the object is(made of?/made of?)	Is the object used for(transportation?/containing things?)	Is the object a(door?/container?)	
+0	
+10	Is the object used for(communication?/decoration?)	Is the object a(microscope?/telescope?)	Is the object used to look at things(far away?/close up?)	Is the lens part of a(camera?/projector?)	Is the lens part of(a projector?/binoculars?)	Is the lens part of(binoculars?/an eye-piece?)	Is the object a lens used to view things(far away?/close up?)	Is the object a corrector(lens?/lens?)	Is the object a convex(lens?/lens?)	Is the object a lens used for(targeting?/measuring?)	
+6	Is the object a safety(cover?/cover?)	Does the object protect the(face?/eyes?)	Is the object(large?/small?)	Is the object found in(an office?/a school?)	Is the object found in a(school?/hospital?)	Is the object found in a(hospital?/factory?)	
+7	Is the object typically found in a(kitchen?/bedroom?)	Is the object used for(sitting?/sleeping?)	Is the object used for(sleeping?/storage?)	Is the object a(television?/lamp?)	Is the object a(lamp?/computer?)	Is the object a(computer?/radio?)	Is the object a(heater?/thermostat?)	
+6	Is the object a(mattress?/pillow?)	Is the object a(pillow?/rug?)	Is the object a(rug?/cushion?)	Is the object a(cushion?/bedsheet?)	Is the object a(bedsheet?/comforter?)	Is the object made of(cotton?/wool?)	
+7	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of(glass?/fabric?)	Is the clothing designed to be worn on the upper(body?/body?)	Is the clothing designed to be worn on the(lower body?/feet?)	Is the clothing designed to be worn on the(feet?/head?)	Is the hat a winter(hat?/hat?)	
+6	Is the bag a duffel(bag?/bag?)	Is the bag a tote(bag?/bag?)	Is the bag a lunch(bag?/bag?)	Is the bag a produce(bag?/bag?)	Is the bag a(sack?/pouch?)	Is the bag made of(paper?/canvas?)	
+10	Is the object used to(open something?/tell time?)	Is the object a(bridge?/bow?)	Is the object a(mallet?/pick?)	Is the object the body of the(violin?/violin?)	Is the object the(bridge?/strings?)	Is the object the(strings?/tailpiece?)	Is the object the(tailpiece?/f-hole?)	Is the object the(f-hole?/scroll?)	Is the object the(soundboard?/endpin?)	Is the object the(purfling?/button?)	
+5	Is the object made of(glass?/metal?)	Is the object made of(metal?/wood?)	Is the object made of(wood?/ceramic?)	Is the object made of(ceramic?/plastic?)	Is the object made of(plastic?/stone?)	
+0	
+2	Is the object a(net?/container?)	Is the object a(container?/trap?)	
+18	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+3	Is the object used for(recreation?/protection?)	Is the object used for(protection?/transportation?)	Is the object used for(transportation?/communication?)	
+2	Is the object used for(entertainment?/safety?)	Is the object used in(construction?/transportation?)	
+5	Is the paving stone made of(granite?/concrete?)	Is the paving stone made of(concrete?/brick?)	Is the paving stone made of(brick?/slate?)	Is the paving stone made of(slate?/limestone?)	What is the size of the paving(stone?/stone?)	
+0	
+5	Is the object made of(wood?/stone?)	Is the object made of(stone?/tile?)	Is the object made of(tile?/concrete?)	Is the object made of(concrete?/carpet?)	Is the object made of(metal?/plastic?)	
+0	
+2	Is the object a stringed(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	
+0	
+16	Is the plant a(moss?/fruit?)	Is the plant(spinach?/lettuce?)	Is the plant(lettuce?/kale?)	Is the plant a(vine?/conifer?)	Is the plant a(bush?/shrub?)	Is the plant a type of(ground cover?/mushroom?)	Does the plant have a(smooth texture?/specific use)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+3	Is the object a(container?/box?)	Is the object a(box?/bag?)	Is the object a(bag?/folder?)	
+4	Is the object a(chair?/table?)	Is the object part of a(bookcase?/desk?)	Is the object part of a(desk?/dresser?)	Is the object part of a(dresser?/sofa?)	
+6	Is the object a(table?/chair?)	Is the object a(chair?/bed?)	Is the object a(bed?/cabinet?)	Is the object typically found in a(kitchen?/living room?)	Is the object a(dresser?/headboard?)	No.(/)	
+33	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+7	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/glass?)	Is the object made of stone or a(stone-like material?/fabric-like material?)	Is the object a(table?/chair?)	Is the object a door(frame?/frame?)	Does the object come into contact with the(floor?/wall?)	Is the object a(footstool?/headboard?)	
+4	Is the object primarily made of(metal?/fabric?)	Is the object typically found in a(kitchen?/bedroom?)	Is the object typically found in a(bedroom?/living room?)	Is the object a(chair?/table?)	
+9	Is the object a(clock?/toy?)	Is the object related to(sewing?/woodworking?)	Is the object a(stapler?/small)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+6	Is the object a(stool?/couch?)	Is the object a(couch?/bench?)	Is the object a(bench?/recliner?)	Is the object a(recliner?/footstool?)	Is the object a(sofa?/loveseat?)	Is the object a(loveseat?/bed?)	
+0	
+11	Is the object primarily made of(wood?/metal?)	Is the object made of(plastic?/glass?)	Is the object a(container?/stand?)	Is the object a(stand?/rod?)	Is the object a(rod?/hook?)	Is the object a(hammock?/lampshade?)	Is the object a(lampshade?/pillow?)	Is the object a(pillow?/tapestry?)	Is the object a(tapestry?/cushion?)	Is the object a(lampshade?/valance?)	Is the object a hat(stand?/stand?)	
+7	Is the object made primarily of(metal?/plastic?)	Is the object used for(communication?/containing something?)	Is the object a(mat?/tent?)	Is the object a(raincoat?/tire?)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+15	Is the object a metal post used as a boundary(marker?/marker?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+9	Is it a drinking(glass?/glass?)	Is the object(transparent?/opaque?)	Is the object(opaque?/translucent?)	Is it a beer(glass?/glass?)	Is it a glass used for(cocktails?/juice?)	Is it a glass used for(juice?/milk?)	Is it a glass used for(milk?/soda?)	Is the glass(plain?/decorative?)	Is the glass(clear?/etched?)	
+0	
+3	Is the object a(bus?/taxi?)	Is the object a(boat?/bike?)	Is the object a(train?/monorail?)	
+18	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/fabric?)	Is the object a(rug?/curtain?)	Is the object a(curtain?/blanket?)	Is the object a(blanket?/towel?)	Is the object a(towel?/pillow?)	Is the object a(coat?/shirt?)	Is the object(underwear?/socks?)	Is the object a(scarf?/tie?)	Is the object made of(cotton?/wool?)	Is the object made of(wool?/silk?)	Is the object a(sweater?/uniform?)	Is the object a(uniform?/handkerchief?)	Is the object a(handkerchief?/robe?)	Is the object a(robe?/bodysuit?)	Is the object a(bodysuit?/vest?)	
+0	
+17	Is the object a cement(block?/panel?)	Is the object a cement(sculpture?/tile?)	Is the object a cement(barrier?/pipe?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+5	Is the object a(flag?/tarp?)	Is the object a(tarp?/tent?)	Is the object a(tent?/sail?)	Is the object a(sail?/rope?)	Is it a(purse?/sack?)	
+7	Is the object used for(communication?/entertainment?)	Is the object found in a(kitchen?/bathroom?)	Is the object found in a(bathroom?/bedroom?)	Is the object a(lock?/hinge?)	Is the object part of a(musical instrument?/medical device?)	Is the object part of a medical device used for(diagnosis?/treatment?)	Is the object a(crutch?/walker?)	
+0	
+2	Is the tool used for(cleaning?/food preparation?)	Is the object a(toothbrush?/hairbrush?)	
+0	
+0	
+1	Is the object a(comb?/hairpin?)	
+4	What is the general shape of(the object?/the object?)	Is the object a(wallet?/belt?)	Is the object a(belt?/briefcase?)	Is the object a(suitcase?/handbag?)	
+5	Is the vehicle a(boat?/car?)	Is the vehicle a(car?/bicycle?)	Is the vehicle a(bicycle?/train?)	Is the vehicle a(wagon?/skateboard?)	Does the cart have a(long handle?/bed?)	
+2	Is the object used on(water?/land?)	Is the object a part of the steering linkage that is protected(from the elements?/to the elements?)	
+1	Is the object a(knife?/saw?)	
+9	Is the accessory worn on the(head?/hands?)	Is the accessory worn on(the hands?/the neck?)	Is the accessory worn around(the neck?/the feet?)	Is the accessory worn on the(feet?/torso?)	Is the accessory a(scarf?/belt?)	Is the accessory a(belt?/glove?)	Is the accessory a(glove?/hat?)	Is the accessory a(hat?/sock?)	Is the accessory a(sock?/handkerchief?)	
+13	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object used for(construction?/containing something?)	Is the tool used for(cutting?/fastening?)	Is the tool used for(fastening?/measuring?)	Is the tool used for(measuring?/striking?)	Is the tool used in a(workshop?/factory?)	Is the object a(pin?/nail?)	Is the object a(nail?/bolt?)	Is the object a(bolt?/coin?)	Is the object a(coin?/staple?)	Is the object a(staple?/weight?)	Is the object a(weight?/spring?)	
+4	Is the object a musical(instrument?/instrument?)	Is the object a(cello?/violin?)	Is the object a(violin?/guitar?)	Is the object a(guitar?/harp?)	
+5	Is the object used for(construction?/containing things?)	Is the object a(bow?/spear?)	Is the object a(spear?/slingshot?)	Is the object a(slingshot?/crossbow?)	Is the object a(blowgun?/bola?)	
+11	Is the furniture a(bed?/table?)	Is the furniture a(table?/cabinet?)	Is the furniture a(cabinet?/chair?)	Is the object a(door?/window?)	Is the object a(window?/drawer?)	Is the object a(piano?/clock?)	Is the stringed instrument a(guitar?/violin?)	Is the stringed instrument a(violin?/harp?)	Is the stringed instrument a(harp?/cello?)	Is the stringed instrument a(mandolin?/piano?)	Is the stringed instrument a(piano?/banjo?)	
+33	Is the object made of(metal?/glass?)	Is the object made of(glass?/plastic?)	Is the object made of(plastic?/paper?)	Is the object made of(paper?/wood?)	Is the object made of(wood?/ceramic?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object a core for(aluminum foil?/plastic wrap?)	
+3	Is the object a(knife?/saw?)	Is the object used in the(kitchen?/garden?)	Is the object used in(the garden?/woodworking?)	
+0	
+11	Is the object made of(fabric?/plastic?)	Is the object typically worn by(children?/women?)	Is it a hair(clip?/pin?)	Is the object made of(wood?/feathers?)	Is the object made of(feathers?/glass?)	Is the object made of(glass?/paper?)	Is the object made of(paper?/rubber?)	Is the object made of(rubber?/precious stones?)	Is the object made of(precious stones?/silk?)	Is the object made of(silk?/multiple materials?)	Is the object a(veil?/bonnet?)	
+1	Is the object a(container?/tool?)	
+0	
+1	Is the object a(pen?/crayon?)	
+1	Is the object a(lock?/hinge?)	
+0	
+3	Is the object a(shoe?/belt?)	Is the object a(belt?/glove?)	Is the object a(glove?/saddle?)	
+20	Is the accessory worn on the(head?/hands?)	Is the accessory worn on the(hands?/feet?)	Is the accessory worn on the(feet?/neck?)	Is the accessory worn on the(neck?/torso?)	Is the accessory worn on the(torso?/arms?)	Is the accessory worn on the(arms?/legs?)	Is the accessory a(belt?/scarf?)	Is the accessory a(scarf?/tie?)	Is the accessory a(tie?/bracelet?)	Is the accessory a(bracelet?/sock?)	Is the accessory a(sock?/glove?)	Is the accessory a(glove?/garter?)	Is the accessory a(skirt?/shawl?)	Is the accessory a(shawl?/handbag?)	Is the accessory related to a(bra?/coat?)	Is the accessory a pair(of tights?/of jewelry?)	Is it a(camisole?/slip?)	Is it a(slip?/corset?)	Is it a(corset?/thong?)	Is it a(thong?/bra?)	
+9	Is the object a(mineral?/rock?)	Is the object an(insect?/animal?)	Is the object a type of(weather phenomenon?/microorganism?)	Is the object a type of(microorganism?/precipitation?)	Is the object a form(of erosion?/of landform?)	Is the object a type of(landform?/rock?)	Is the object a type of(rock?/plant product?)	Is the object a type of(plant product?/rock formation?)	Is the object a(planet?/particle?)	
+6	Is the tool used for(cutting?/fastening?)	Is the tool a(nail?/screw?)	Is the tool a(screw?/staple?)	Is the tool a(rivet?/bolt?)	Is the tool a(bolt?/thumbtack?)	Is the tool a(staple?/hook?)	
+2	Does the object have a(handle?/spout?)	Is the object used in a(medical setting?/vehicle?)	
+2	Is the object(rectangular?/cylindrical?)	Is the object a(sundial?/hourglass?)	
+15	Is the clothing a(shirt?/scarf?)	Is the clothing a(sock?/glove?)	Is the clothing a(glove?/dress?)	Is the clothing a(dress?/jacket?)	Is the clothing a(jacket?/skirt?)	Is the clothing a(vest?/coat?)	Is the coat a winter(coat?/coat?)	Is the coat a(blazer?/cardigan?)	Is the coat a(bathrobe?/duster?)	Is the coat a(duster?/cape?)	Is the coat a pea(coat?/coat?)	Is the coat a(shawl?/kimono?)	Is the coat a(kimono?/parka?)	Is the coat a(parka?/cloak?)	Is the coat a(cloak?/robe?)	
+14	Is the object used for(writing?/storage?)	Is the object a(door?/beam?)	Is the object a(fence?/shutter?)	Is the object a(rafter?/shingle?)	Is the object a wooden(soffit?/fascia?)	Is the shape of the object(rectangular?/curved?)	Is the shape of the object(curved?/triangular?)	Is it a wooden(wedge?/gable?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object primarily used in auto(repair?/repair?)	
+6	Is the object used for(transportation?/communication?)	Is the object used for(communication?/containment?)	Is the object a(lunchbox?/toolbox?)	Is the object a jewelry(box?/box?)	Is the object a cash(box?/box?)	Is the object made of(steel?/aluminum?)	
+4	What is the object's(shape?/material?)	Does the object have a(handle?/pointed end?)	Is the object a(punch?/pick?)	Is the pick used to remove(something?/something?)	
+8	Is the object a(jar?/vase?)	Is the object a glass(brick?/paperweight?)	Is the object primarily for(aesthetic purposes?/scientific purposes?)	Is the object used in the(home?/kitchen?)	Is the object a glass(sculpture?/paperweight?)	Is the object a glass(candle holder?/picture frame?)	Is the object a glass(picture frame?/coaster?)	Is the object a glass(terrarium?/lantern?)	
+2	Is the object a(blanket?/coat?)	Is the object a(scarf?/hat?)	
+1	Is the object a(bottle?/jar?)	
+5	Is the gemstone a(ruby?/sapphire?)	Is the object made of(gold?/silver?)	Is the object worn on the(finger?/wrist?)	Is the gemstone(translucent?/iridescent?)	Is the gemstone a(moonstone?/jade?)	
+18	Is the tool used for(sewing?/woodworking?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object a glass(sculpture?/art piece?)	Is the object a glass(bead?/building block?)	
+0	
+2	Is the boat made of(wood?/metal?)	Is the boat made of(metal?/plastic?)	
+3	Is the toy a(car?/doll?)	Is the toy a(figurine?/puzzle?)	Is the musical instrument a(whistle?/kazoo?)	
+3	Is the object a(scarf?/hood?)	Is the object a(hood?/hat?)	Is the object a(headband?/helmet?)	
+0	
+3	Is the object used for(transportation?/communication?)	Is the musical instrument a stringed(instrument?/instrument?)	Is the drum a snare(drum?/drum?)	
+5	Is the object typically used for(decoration?/storage?)	Is the tool typically used for(cutting?/fastening?)	Is the tool typically used for(fastening?/measuring?)	Is the tool typically used for(measuring?/writing?)	Is the object a(lock?/door?)	
+9	Is the object a(pipe?/window?)	Is the object a(window?/screen?)	Is the object a(grate?/vent?)	Is the object a(vent?/filter?)	Is the object a(filter?/key?)	Is the object a(key?/needle?)	Is the object a(needle?/staple?)	Is the object a metal(mesh?/sieve?)	Is the object a metal(sieve?/railing?)	
+10	Is the object a(hat?/scarf?)	Is the object a(scarf?/sweater?)	Is the object a(sweater?/sock?)	Is the object a(vest?/blanket?)	Is the object a(blanket?/coat?)	Is the object a(coat?/skirt?)	Is the object a(skirt?/scarf?)	Is the object a(shawl?/cape?)	Is the object a(cape?/sweater?)	Is the object a pair of(pants?/leggings?)	
+7	Is the object used on(water?/land?)	Is the object used on(land?/roads?)	Is the object a(tool?/container?)	Is the bag made of(plastic?/fabric?)	Is the bag a(backpack?/purse?)	Is the bag a tote(bag?/bag?)	Is the bag(small?/collapsible?)	
+19	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Are the pants made of(cotton?/linen?)	Are the pants khaki(pants?/pants?)	Are the pants light in(color?/color?)	Are the pants(blue?/grey?)	Are the pants(grey?/brown?)	Are the pants(green?/pink?)	Are the pants(pink?/yellow?)	
+0	
+3	Is the object a(container?/toy?)	Is the object a form(of transportation?/of equipment?)	Is the object related to(the military?/food preparation?)	
+4	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/fabric?)	Is the object a(ribbon?/sequin?)	Is the object a(bead?/tassel?)	
+0	
+13	Is the object a(scarf?/hat?)	Is the object(underwear?/socks?)	Is the object a(glove?/belt?)	Is the object a(handkerchief?/cape?)	Is the object used by(children?/adults?)	Is the object a(veil?/shawl?)	Is the object a(scarf?/tie?)	Is the object a(tie?/kerchief?)	Is the object a(boa?/ribbon?)	Is the object a(ribbon?/corset?)	Yes.(/)	No.(/)	No.(/)	
+6	Is the object used for(communication?/construction?)	Is the object related to(personal hygiene?/security?)	Is the object a(lock?/weapon?)	Is the object related to(law enforcement?/the military?)	Is the object made from(steel?/brass?)	Is the object made from(brass?/aluminum?)	
+0	
+0	
+8	Is the clothing a(dress?/vest?)	Is the clothing a(vest?/sweater?)	Is the clothing a(sweater?/coat?)	Is the clothing a(coat?/bodysuit?)	No.(/)	No.(/)	Yes.(/)	Yes.(/)	
+0	
+4	Is the object a(curtain?/tablecloth?)	Is the object a(tablecloth?/sheet?)	Is the object a(pillowcase?/blanket?)	Is the object a fitted(sheet?/sheet?)	
+22	Is the object made primarily of(wood?/stone?)	Is the object made primarily of(stone?/ceramic?)	Is the object made primarily of(ceramic?/a textile?)	Is the object made primarily of(a textile?/metal?)	Is the tile(glass?/ceramic?)	Is the tile made of(vinyl?/stone?)	Is the tile made of(stone?/porcelain?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+27	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+10	Is the object a(t-shirt?/sock?)	Is the object a(camisole?/handkerchief?)	Is the object a(handkerchief?/scarf?)	Is the object a(scarf?/bandage?)	Is the object usually worn on(the head?/the legs?)	Is the object worn on the(torso?/arms?)	Is the object a(hat?/tie?)	Is the object a(tie?/belt?)	Is the object a(pocket?/lining?)	Is the object a(lining?/cuff?)	
+8	Is the boat a(canoe?/ship?)	Is the boat a(ship?/raft?)	Is the boat a(raft?/kayak?)	Is the boat a(kayak?/sailboat?)	Is the boat used for(recreation?/fishing?)	Is the boat used for(fishing?/carrying cargo?)	Is the boat a(rowboat?/ferry?)	Is the boat a(ferry?/punt?)	
+1	Is the object a(weapon?/bow?)	
+0	
+1	Is the object a(bench?/sofa?)	
+21	Is the object a(beam?/door?)	Is the plank used on the exterior of a(building?/building?)	Is the plank part of a(deck?/fence?)	Is the plank part of the roof of the(shed?/shed?)	Is the plank part of the floor of the(shed?/shed?)	Is the plank part of the door of the(shed?/shed?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object a(form?/newspaper?)	Is the object a(poster?/magazine?)	
+5	Is the bag used for carrying(luggage?/documents?)	Is the bag(flat?/reusable?)	Is the bag a messenger(bag?/bag?)	Is the bag a(portfolio?/backpack?)	Is the bag a garment(bag?/bag?)	
+0	
+3	What is the object's(shape?/size)	Is the object a(tent?/flag?)	Is the object a(flag?/sail?)	
+2	Is the object used for(writing?/storage?)	Is the object a(tool?/hammer?)	
+0	
+10	Is the object a wooden(building?/fence?)	Is the object a wooden(shelf?/table?)	Is the object a wooden(table?/trough?)	Is the object a wooden(rack?/storage unit?)	Is the object a wooden(crate?/pantry?)	Is the object a wooden(pantry?/bin?)	Is the object a wooden(bowl?/cabinet?)	Is the object a wooden(cabinet?/utensil?)	Is the object a wooden(spice rack?/serving platter?)	Is the object a wooden(dining table?/countertop?)	
+0	
+1	What is the object's(shape?/color?)	
+11	Is the object used for opening(something?/something?)	Is the object used for(holding something?/communication?)	Is the object found in a(kitchen?/bathroom?)	Is the object used for(cleaning?/personal care?)	Is the object a container(of lotion?/for soap?)	Is the object a container for(soap?/shampoo?)	Is the object a container for(shampoo?/mouthwash?)	Is the object a container for(mouthwash?/shaving cream?)	Is the object a container for(shaving cream?/hair gel?)	Is it a container for(lipstick?/eyeshadow?)	Is it a container for(eyeshadow?/mascara?)	
+13	Is the object made of(metal?/wood?)	Is the object made of(wood?/plastic?)	Is the object a(sculpture?/poster?)	Is the object a(plant?/rug?)	Is the object a(rug?/statue?)	Is the object a(statue?/tapestry?)	Is the object a(painting?/ceramic?)	Is the object made of(stone?/rubber?)	Is the object made of(rubber?/leather?)	Is the object made of(leather?/concrete?)	Is the object a(model?/clock?)	Is the object a(exhibit?/sign?)	Is the object a(sign?/diorama?)	
+11	Is the object a(bridge?/fence?)	Is the object a(fence?/house?)	Is the object a(house?/sign?)	Is the object a(billboard?/shed?)	Is the object a wooden(barrier?/sculpture?)	Is the object a wooden(sculpture?/building frame?)	Is the object a wooden(building frame?/storage container?)	Is the object a wooden(storage container?/walkway?)	Is the object a wooden(walkway?/tower?)	Is the object a wooden(tower?/ramp?)	Is the object a wooden part of(a dam?/a pier?)	
+0	
+9	Is the object a(poster?/sign?)	Is the object a(sign?/book?)	Is the object a(map?/calendar?)	Is the object a(receipt?/sticker?)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object a(flyer?/map?)	
+6	Is the object a(container?/box?)	Is the box used to hold(food?/small objects?)	Is the box a toy(box?/box?)	Is the box used for storing(crafting supplies?/medication?)	Is the box used for storing(coins?/buttons?)	Is the box used to store(playing cards?/essential oils?)	
+0	
+1	Is the structure associated with(Easter?/a wedding?)	
+0	
+9	Does the object typically cover the(feet?/head?)	Does the object typically cover the(head?/hands?)	Does the object typically cover the(hands?/legs?)	Does the object typically cover the(legs?/torso?)	Does the object typically cover the(torso?/arms?)	Is the object a(scarf?/belt?)	Is the object a(belt?/hat?)	Is the object a pair of(shorts?/pants?)	Is the skirt a wrap(skirt?/skirt?)	
+0	
+20	Is the object a(shoe?/hat?)	Is the object a(hat?/scarf?)	Is the object a(scarf?/sock?)	Is the object a(glove?/belt?)	Is the object a(belt?/skirt?)	Is the object a(skirt?/dress?)	Is the object a(handkerchief?/towel?)	Is the object a(towel?/blanket?)	Is the object a(blindfold?/bandana?)	Is the object a(cape?/wrap?)	Is the object a(wrap?/poncho?)	Is the object a(poncho?/stocking?)	Is the object a(stocking?/wristband?)	Is the object a(tie?/sash?)	Is the object a(sash?/vest?)	Is the object a pair of(leggings?/spats?)	Is the object a(gaiter?/kerchief?)	Is the object a(diaper?/sarong?)	Is the object a(sarong?/shawl?)	Does the object cover the(head?/hands?)	
+16	Is the object a(bottle?/cup?)	Is the object a(dam?/lake?)	Is the object a(lake?/toilet?)	Is the object a(toilet?/glass?)	Is the object a water(tower?/fountain?)	Is the object used for recreational(purposes?/purposes?)	Is the object a(glacier?/puddle?)	Is the object a(puddle?/wave?)	Is the object a(wave?/cloud?)	Is the object a(cloud?/swamp?)	Is the object a(swamp?/marsh?)	Is the object a(marsh?/spring?)	Is the object a(spring?/river?)	Is the object a(river?/waterfall?)	Is the object a(bog?/swamp?)	Is the object a(swamp?/puddle?)	
+4	Is the shoe a(sneaker?/sandal?)	Is the shoe a(sandal?/loafer?)	Is the shoe a slip-on(shoe?/shoe?)	Is the shoe considered casual(wear?/wear?)	
+16	Is it a(purse?/satchel?)	Is it a garment(bag?/bag?)	Is it a laundry(bag?/bag?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object a(liquid?/solid?)	
+19	Is the object primarily composed of(rock?/wood?)	Is the object a(mountain?/valley?)	Is the object a(valley?/lake?)	Is the object a(lake?/canyon?)	Is the object a(canyon?/cave?)	Is the object a(cave?/tree?)	Is the object a(tree?/field?)	Is the object made of(water?/sand?)	Is the object a(crater?/ditch?)	Is the object a(ditch?/bowl?)	Is the object a(canyon?/gorge?)	Is the object a(sinkhole?/ravine?)	Is the object a(mesa?/butte?)	Is the object a(butte?/valley?)	Is the object a(valley?/coastline?)	Is the object a(prairie?/plain?)	Is the object a(plain?/plateau?)	Is the object a(plateau?/peninsula?)	Is the object a(peninsula?/glacier?)	
+1	Is the object used to catch(insects?/food?)	
+0	
+0	
+7	Is the painting a(landscape?/portrait?)	Does the painting depict a(building?/person?)	Does the painting depict a(mythical creature?/recognizable place?)	Is the recognizable place a(park?/street?)	Is the recognizable place a(street?/city?)	Is the recognizable place a(city?/specific landmark?)	Is the painting a religious(scene?/scene?)	
+4	Is the object a(fence?/railing?)	Is the object a(railing?/manacle?)	Is the object a(gate?/leash?)	Is the object a(grate?/dam?)	
+4	What is the object's(shape?/size)	Yes.(/)	Yes.(/)	No.(/)	
+19	Is the object worn on the(feet?/hands?)	Is the object worn on the(hands?/legs?)	Is the object worn on the(legs?/torso?)	Is the object worn on(the torso?/the neck?)	Is the object a(necklace?/scarf?)	Is the object a(scarf?/tie?)	Is the object a(tie?/collar?)	Is the object a(brooch?/pendant?)	Is the object made of(metal?/fabric?)	Is the object made of(fabric?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/leather?)	Is the object a(bib?/cravat?)	Is the object a(wristband?/bracelet?)	Is the object a(bracelet?/anklet?)	Is the object a(anklet?/garment?)	Is the object a(garment?/glove?)	Is the object a(glove?/sleeve?)	Is the object a(garter?/sash?)	
+3	Is the object a(scarf?/necklace?)	Is the object a(necklace?/tie?)	Is the object a(cravat?/choker?)	
+4	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object a(tool?/container?)	Is the object(small?/valuable?)	
+4	Is the object typically worn on the(head?/feet?)	Is the object typically worn on the(feet?/hands?)	Is the object a(scarf?/belt?)	Is the object a(belt?/tie?)	
+0	
+5	Is the object a(book?/letter?)	Is the object a(letter?/poster?)	Is the object a(poster?/map?)	Is the object a(photograph?/magazine?)	Is the object a(magazine?/newspaper?)	
+29	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object(flat?/soft?)	Is the object a(pillow?/sheet?)	
+8	Is the object typically worn on the(head?/feet?)	Is the object typically worn on the(feet?/hands?)	Is the object typically worn on the(hands?/torso?)	Is the shirt a button-down(shirt?/shirt?)	Is the shirt a(sweater?/jersey?)	Is the shirt a long-sleeved(undershirt?/undershirt?)	Is the shirt made of(silk?/a thin)	Yes.(/)	
+4	Is the object a(baton?/gavel?)	Is the object a(gavel?/tool?)	Is the object a(tool?/hammer?)	Is the object a(hammer?/truncheon?)	
+0	
+0	
+5	Is the object used for(transportation?/communication?)	Is the tool a(pipe?/faucet?)	Is the tool used in a(kitchen?/laboratory?)	Is the tool a(regulator?/lock?)	Is the tool a(lock?/gauge?)	
+4	Is the carving a(statue?/panel?)	Is the object a(frame?/sculpture?)	Is the object a(sculpture?/picture?)	Is the figurine a(collectible?/doll?)	
+0	
+0	
+14	Is the object a(building?/vehicle?)	Is the object a(streetlight?/sign?)	Is the object a(sign?/fence?)	Is the object a(fence?/pole?)	Is the object a(pole?/monument?)	Is the object a(monument?/tree?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	No.(/)	
+3	Is the object a(container?/vehicle?)	Is the object(rectangular?/cylindrical?)	Is the object a water(tank?/tank?)	
+1	Is the object(solid?/spherical?)	
+3	Is the box used for gardening(tools?/tools?)	Is the box used to store(paints?/paint brushes?)	Is the box used to store paint(brushes?/tubes?)	
+5	Is the object used for(writing?/construction?)	Is the object a wooden handle for a(shovel?/hammer?)	Is the object a wooden handle for a(hammer?/broom?)	Is the object a wooden handle for a(broom?/knife?)	Is the object a wooden handled dusting(brush?/brush?)	
+5	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+14	Is the object worn on the(feet?/hands?)	Is the garment primarily used in(sports?/the workplace?)	Is the garment a part of a(costume?/uniform?)	Is the object made of(denim?/leather?)	Is the object made of(wool?/cotton?)	Is the object a pair of(capri pants?/leggings?)	Is the object a pair of(shorts?/culottes?)	Is the object a pair of(long johns?/bloomers?)	Is the object a pair of(bloomers?/chaps?)	Is the object a pair of(knickerbockers?/athletic pants?)	Is the object a pair of(gauchos?/Bermuda shorts?)	Is the object a pair of(Bermuda shorts?/capri pants?)	Is the object a pair of(capri pants?/culottes?)	Is the object a pair of(culottes?/leggings?)	
+0	
+1	Is the object a(pot?/pan?)	
+1	Is the object a(suit?/dress?)	
+20	Is the object a(shirt?/skirt?)	Is the object a(skirt?/sock?)	Is the object a(coat?/scarf?)	Is the object a(scarf?/dress?)	Is the object a(dress?/glove?)	Is the object a(glove?/hat?)	Is the object a(hat?/tie?)	Is the object a(tie?/belt?)	Is the object a(belt?/vest?)	Is the object a(blanket?/curtain?)	Is the object a(curtain?/rug?)	Is the object a(rug?/towel?)	Is the object a(towel?/pillowcase?)	Is the object a(tablecloth?/placemat?)	Is the object a(placemat?/tapestry?)	Is the object a(tapestry?/flag?)	Is the object a(flag?/doily?)	Is the object a(blind?/lampshade?)	Is the object a(lampshade?/valance?)	Is the object a(valance?/rug?)	
+0	
+0	
+1	Is the object a(staple?/paperclip?)	
+2	Is the object a(mirror?/lampshade?)	Is the object a(window?/paperweight?)	
+2	Is the object a(flag?/tarp?)	Is the object a(tent?/sail?)	
+12	Is the object a(container?/box?)	Is the object a(box?/bag?)	Is the object a(bag?/tube?)	Is the object a(tube?/wrapper?)	Is the wrapper used for(food?/gifts?)	Is the wrapper used for(gifts?/a letter?)	Is the wrapper used for(a letter?/money?)	Is the product a(medicine?/cosmetic?)	Does the product relate to(books?/writing?)	Is the product related to(hygiene?/cleaning?)	Is the product a(tissue?/sticker?)	Is the product something you would find in a(hardware store?/pharmacy?)	
+2	Does the object cover the(ears?/neck?)	Is the object a(collar?/coat?)	
+1	Is the object a(bandage?/patch?)	
+4	Is the object a(sidewalk?/road?)	Is the object a(road?/step?)	Is the object a(step?/patio?)	No.(/)	
+16	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object a(cylinder?/spring?)	Is the object a(spring?/rivet?)	Is the object a(rivet?/plate?)	Is the object a(plate?/tumbler?)	Is the object a(tumbler?/wheel?)	Is the object a(bolt?/disc?)	
+7	Is the object a(tabletop?/drawer?)	Is the object a(drawer?/door?)	Is the object a(pallet?/lid?)	Is the object a(sign?/beam?)	Is the object a(wall?/tray?)	Is the object a(tray?/ruler?)	Is the object a wooden(support beam?/stud?)	
+0	
+0	
+1	Is it a(necklace?/bracelet?)	
+14	Is the object used for(transportation?/communication?)	Is the object used for(communication?/containing things?)	Is the object used for(containing things?/construction?)	Is the object used for(construction?/decoration?)	Is the object a(tool?/weapon?)	Is the object used to measure(electrical properties?/pressure?)	Is the object used to measure(pressure?/temperature?)	Is the object used to measure(temperature?/angles?)	Is the object a(gear?/needle?)	Is the object a(needle?/spring?)	Is the object a(spring?/lens?)	Is the object part of a(microscope?/telescope?)	Is the object a metal(electrode?/wire?)	Is the object a metal(wire?/rod?)	
+0	
+0	
+10	Is the object typically found in(a kitchen?/an office?)	Is the object typically found in(an office?/a bedroom?)	Is the object typically found in a(bedroom?/living room?)	Is the object primarily used for(storage?/entertainment?)	Is the object typically made of(metal?/plastic?)	Is the object typically made of(plastic?/wood?)	Is the object typically made of(wood?/glass?)	Is the object typically made of(glass?/fabric?)	Is the object used to(write with?/display information?)	Is the object related to(time?/money?)	
+2	Is the object a(guitar?/violin?)	Is the object a(violin?/piano?)	
+7	Is the object used to(drive fasteners?/remove material?)	Is the object a(saw?/chisel?)	Is the object a(chisel?/file?)	Is the object a(scraper?/hatchet?)	Is the object a brick(hammer?/hammer?)	Is the object a stone(hammer?/hammer?)	Is the object a pry(bar?/bar?)	
+7	Is the object a(photograph?/book?)	Is the object a(poster?/magazine?)	Is the object a(magazine?/painting?)	Is the object a(painting?/calendar?)	Is the object a(calendar?/map?)	Is the object a(drawing?/collage?)	Is the object a(letter?/label?)	
+0	
+2	Is the object typically found in a(kitchen?/bathroom?)	Is the object used to store(bandages?/eye drops?)	
+0	
+0	
+1	Is the object a(paperclip?/pin?)	
+0	
+34	Is the object a(tapestry?/flag?)	Is the object a(sculpture?/hat?)	Is the object a(doll?/pillow?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+7	Is the object used for(transportation?/communication?)	Is the tool used for(gardening?/construction?)	Is the tool used to move(sand?/gravel?)	Is the tool used to move(gravel?/snow?)	Is the tool used to move(snow?/coal?)	Is the tool used to move(coal?/grain?)	Is the tool a(scoop?/pitchfork?)	
+3	Is the object a(saw?/wedge?)	Is the object a(wedge?/mallet?)	Is the tool a(clamp?/brace?)	
+1	Is the object a(bandage?/cast?)	
+5	Is the object made of(metal?/plastic?)	Is the object a(bowl?/plate?)	Is the serving dish(round?/square?)	Is the serving dish(square?/rectangular?)	Is the serving dish(rectangular?/oval?)	
+2	Is the building a(shed?/fence?)	Is the building a(fence?/deck?)	
+2	Is the object used for(transportation?/communication?)	Is the object used for(communication?/storing things?)	
+8	Is the object a(hammock?/tarp?)	Is the object a(tarp?/tent?)	Is the object a(tent?/blanket?)	Is the object a(blanket?/tablecloth?)	Is the object a(tablecloth?/flag?)	Is the object a(flag?/kite?)	Is the object a(kite?/sheet?)	Is the object used to cover(something?/something?)	
+0	
+7	Is the object a(table?/chair?)	Is the object a(chair?/bed?)	Is the object a(bed?/cabinet?)	Is the object a(desk?/door?)	Is the object a(shelf?/tool?)	Is the object a(fence?/crate?)	Is the object a(box?/stand?)	
+1	What is the object's(shape?/material?)	
+3	Is the garment a(coat?/hat?)	Is the garment a(hat?/tent?)	Is the garment a(tent?/tarp?)	
+1	Is the object a(sailboat?/motorboat?)	
+0	
+5	Is the toy made of(wood?/plastic?)	Is the toy made of(plastic?/metal?)	Is the toy made of(metal?/fabric?)	Is the toy made of(fabric?/rubber?)	Is the toy made of(rubber?/glass?)	
+14	Is the object a(sink?/toilet?)	Is the object a(toilet?/bathtub?)	Is the object a(urinal?/large)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+20	Is the object primarily made of(wood?/plastic?)	Is the object typically found in a(kitchen?/refrigerator?)	Is the object typically found in a(refrigerator?/pantry?)	Is the object typically found in a(pantry?/closet?)	Is the object typically found in a(closet?/bathroom?)	Is the object typically found in a(bathroom?/bedroom?)	Is the object typically found in a(bedroom?/living room?)	Is the object made of(glass?/ceramic?)	Is the object a(vase?/mug?)	Is the object a(mug?/plate?)	Is the object a(sculpture?/figurine?)	Is the object a decorative(tile?/spoon rest?)	Is the object a decorative trinket(dish?/dish?)	Is the object a decorative(soap dish?/serving tray?)	Is the object a decorative(serving tray?/candle holder?)	Is the object a decorative(candle holder?/coaster?)	Is the object a ceramic(egg cup?/soap dispenser?)	Is the object a ceramic(soap dispenser?/incense holder?)	Is the object a ceramic(incense holder?/flower pot?)	Is the object a ceramic(flower pot?/napkin ring?)	
+4	Is the object a(container?/bag?)	Is the bag a(purse?/backpack?)	Is the bag a tote(bag?/bag?)	Is the bag a messenger(bag?/bag?)	
+2	Is it a(speedboat?/yacht?)	Is it a pontoon(boat?/boat?)	
+2	Is the object a(gear?/wheel?)	Is the object a(wheel?/pulley?)	
+0	
+2	What is the general shape of(the object?/the object?)	Is the bag a(backpack?/purse?)	
+5	Is the object a(blanket?/towel?)	Is the object a(towel?/curtain?)	Is the object a(scarf?/rug?)	Is the object a(rug?/hat?)	Is the object a(bathrobe?/shawl?)	
+17	Is the object typically found in a(bedroom?/living room?)	Is the object typically found in(an office?/a bathroom?)	Is the object(soft?/rigid?)	Is the object(rigid?/transparent?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/ceramic?)	Is the object made of(ceramic?/stone?)	Is the object made of(stone?/fabric?)	Is the object made of(fabric?/paper?)	Is the object made of(paper?/rubber?)	Is the ball(black?/red?)	Is the ball(red?/white?)	Is the ball(white?/yellow?)	Is the ball(yellow?/blue?)	Is the ball(blue?/green?)	Is the ball(green?/orange?)	
+0	
+0	
+5	Is the object a(sponge?/towel?)	Is the object a(towel?/washcloth?)	Is the object used on(the floor?/a counter?)	Is the object used to clean(a person?/glass?)	What is the shape of the(object?/object?)	
+9	Is the object used for(entertainment?/communication?)	Is the object a(shirt?/jacket?)	Is the object a(sock?/bra?)	Is the object a(cape?/sleeve?)	Is the object a(scarf?/belt?)	Is the object a(belt?/hat?)	Is the object a(bracelet?/watch?)	Is the object a(watch?/sleeve?)	Is the object a(band?/splint?)	
+9	Is the object a(nail?/bolt?)	Is the object a(bolt?/screw?)	Is the object a(screw?/staple?)	Is the object a lug(wrench?/wrench?)	Is the object a combination(wrench?/wrench?)	Is the object a crescent(wrench?/wrench?)	Is the object a pipe(wrench?/wrench?)	Is the object a chain(wrench?/wrench?)	Is the object a pin(wrench?/wrench?)	
+7	Is the object used for(food preparation?/entertainment?)	Is the object used for(entertainment?/communication?)	Is the object designed to open or(close something?/shape something?)	Is the object used for(gardening?/sewing?)	Is the object used for(sewing?/crafting?)	Is the object primarily used on(wood?/metal?)	Is the object primarily used on(metal?/paper?)	
+0	
+0	
+2	Is the object a(car?/wagon?)	Is the object a(wagon?/bus?)	
+31	Is the object a(hat?/shirt?)	Is the object a(sock?/glove?)	Is the object a(glove?/dress?)	Is the object a(dress?/jacket?)	Is the object a(jacket?/skirt?)	Is the object a(skirt?/shoe?)	Is the object a(shoe?/vest?)	Is the object a(vest?/tie?)	Is the object a(tie?/coat?)	Is the object a(coat?/belt?)	Is the object a(belt?/blanket?)	Is the object a(blanket?/handkerchief?)	Is the object a(handkerchief?/sleeve?)	Is the object a(sleeve?/swimsuit?)	Is the object a(swimsuit?/scarf?)	Is the object a(scarf?/sweater?)	Is the object a pair of(shorts?/leggings?)	Does the object cover the(head?/feet?)	Is the object a pair of(socks?/boots?)	Is the object a pair of(boots?/gloves?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Are any of the materials used in its construction(metal?/wood?)	
+22	Is the material(metal?/plastic?)	Is the material(plastic?/wood?)	Is the material(wood?/glass?)	Is the material(glass?/fabric?)	Is the material(fabric?/ceramic?)	Is the material(ceramic?/rubber?)	Is the material(rubber?/paper?)	Is the material(paper?/composite?)	Is the material(composite?/stone?)	Is the material a(liquid?/powder?)	Is the material a(powder?/solid?)	Is the object used for(transportation?/recreation?)	Is the object used for(recreation?/communication?)	Is the tool used for(gardening?/building?)	Is the tool used for(building?/digging?)	Is the tool used for(digging?/measuring?)	Is the tool used for(measuring?/cutting?)	Is the tool used for(cutting?/striking?)	Is the tool used for(striking?/fastening?)	Is the fastening done with(nails?/screws?)	Is the object a rivet(gun?/gun?)	Is the tool used to tighten(things?/things?)	
+1	Is the object propelled by(sails?/oars?)	
+0	
+0	
+0	
+10	Is the bag a sleeping(bag?/bag?)	Is the bag a reusable(produce bag?/cleaning bag?)	Is the bag a drawstring(bag?/bag?)	Is the bag a gift(bag?/bag?)	Is the bag a garment(bag?/bag?)	Is the bag a lunch(bag?/bag?)	Is the bag a luggage(bag?/bag?)	Is the bag a diaper(bag?/bag?)	Is the bag a plastic(bag?/bag?)	Is the bag a paper(bag?/bag?)	
+29	Is the object a(hat?/shirt?)	Is the object a(sock?/glove?)	Is the object a(glove?/scarf?)	Is the object a(scarf?/skirt?)	Is the object a(skirt?/belt?)	Is the object a(belt?/bra?)	Is the object a(bra?/vest?)	Is the object a(vest?/dress?)	Is the object a(dress?/swimsuit?)	Is the object a(swimsuit?/handkerchief?)	Is the object a(handkerchief?/towel?)	Is the object a(towel?/flag?)	Is the object a(flag?/curtain?)	Is the object a(curtain?/tablecloth?)	Is the object a(tablecloth?/blanket?)	Is the object a(blanket?/rug?)	Is the object a(rug?/banner?)	Is the object a(banner?/mask?)	Is the object a(mask?/pillowcase?)	Is the object a(pillowcase?/hammock?)	Is the object a(hammock?/tent?)	Is the object a(tent?/kite?)	Is the object a(sail?/sling?)	Is the object a(sling?/windsock?)	Is the object a(bandana?/flag?)	Is the object a(flag?/cape?)	Is the object a(cape?/poncho?)	Is the object a(poncho?/cloth?)	Is the cloth used for(cleaning?/decoration?)	
+0	
+0	
+0	
+28	Is the object made of(glass?/plastic?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/ceramic?)	Is the object made of(ceramic?/wood?)	Is the shaker(white?/clear?)	Yes.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+8	Is the object a(jacket?/hat?)	Is the object a(scarf?/sock?)	Is the shoe made of(rubber?/leather?)	Is the shoe made of(leather?/fabric?)	Is the shoe made of(fabric?/plastic?)	Is the shoe made of(plastic?/multiple materials?)	Does the shoe have a(sole?/heel?)	Is the shoe a(slipper?/sandal?)	
+19	Is the clothing item a(hat?/scarf?)	Is the clothing item a(skirt?/tie?)	Is the clothing item a(tie?/bra?)	Is the clothing item a(bra?/jacket?)	Is the clothing item a(jacket?/vest?)	Is the clothing item a(vest?/dress?)	Is the clothing item a(dress?/swimsuit?)	Is the clothing item a(swimsuit?/belt?)	Is the clothing item a(belt?/cape?)	Is the clothing item a(cape?/handkerchief?)	Is the clothing item a(handkerchief?/sleeve?)	Is the clothing item a(bib?/coverall?)	Is the clothing item a(coverall?/leotard?)	Is the clothing item a(leotard?/thong?)	Is the clothing item a(thong?/shawl?)	Is the clothing item a(shawl?/garter?)	Is the clothing item a(toga?/tunic?)	Is the clothing item a(pocket square?/sash?)	Is it a(bodysuit?/loincloth?)	
+6	Is the bag a(purse?/briefcase?)	Is the bag a(briefcase?/backpack?)	Is the bag a(backpack?/wallet?)	Is the bag a(wallet?/suitcase?)	Is the bag a(suitcase?/belt?)	Is the bag a(belt?/satchel?)	
+31	Is the object a(machine?/tool?)	Is the object a(garment?/hat?)	Is the object a(shirt?/sock?)	Is the object a(sock?/scarf?)	Is the object a(dress?/coat?)	Is the object a(coat?/skirt?)	Is the object a(skirt?/glove?)	Is the object a(glove?/tie?)	Is the object a(tie?/belt?)	Is the object a(zipper?/button?)	Is the object a(button?/sleeve?)	Is the object a(sleeve?/pocket?)	Is the object a(pocket?/collar?)	Is the object a(collar?/shoelace?)	Is the object a(shoelace?/patch?)	Is the object a(patch?/lining?)	Is the object part of a(coat?/dress?)	Is the object part of a(shirt?/skirt?)	Is the object a(bra?/swimsuit?)	Is the object a pair of(leggings?/shorts?)	Is the object a(vest?/blanket?)	Is the object a(blanket?/curtain?)	Is the object a(curtain?/bedsheet?)	Is the object a(bedsheet?/tablecloth?)	Is the object a(tablecloth?/towel?)	Is the object a(towel?/rug?)	Is the object a(rug?/pillowcase?)	Is the object a(pillowcase?/doily?)	Is the object a(doily?/flag?)	Is the object made of(silk?/cotton?)	Is the object made of(cotton?/wool?)	
+20	No.(/)	No.(/)	Is the object a Dutch(oven?/oven?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+19	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/fabric?)	Is the object made of(fabric?/paper?)	Is the object made of(paper?/glass?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/rubber?)	Is the object used for(decoration?/writing?)	Is the shape of the object a(cube?/sphere?)	Is the object a(key?/button?)	Is the object a(button?/coin?)	Is the object a(cap?/dice?)	Is the object a(dice?/pen?)	Is the object a(pen?/model?)	Is the object a(model?/lid?)	Is the object a(lid?/toy?)	Is the object a(toy?/lock?)	Is the object a(doorknob?/handle?)	Is the object a(handle?/paperclip?)	Is the object a(paperclip?/container?)	
+0	
+10	Is the object used for(moving materials?/fastening things?)	Is the object typically used to(level surfaces?/break things?)	Is the object a(saw?/wrench?)	Is the object a(wrench?/level?)	Is the object a(level?/shovel?)	Is the object a(screwdriver?/pickaxe?)	Is the object a(clamp?/trowel?)	Is the object used with(screws?/nails?)	Is the object used with(nails?/bolts?)	Is the object used with(bolts?/nuts?)	
+1	Is the object used for(transportation?/communication?)	
+2	Is the object a(fence?/trap?)	Is the object a(trap?/scarecrow?)	
+3	Is the object a(coat?/blanket?)	Is the object a(blanket?/sweater?)	Is the object a(sweater?/scarf?)	
+14	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+12	Is the book a(novel?/textbook?)	Is the book a(textbook?/notebook?)	Is the book a(notebook?/journal?)	Is the book a(journal?/dictionary?)	Is the book a(magazine?/pamphlet?)	Is the book a(cookbook?/manual?)	Is the book a(brochure?/scrapbook?)	Is the book a(scrapbook?/dictionary?)	Is the book a(thesis?/thesaurus?)	Is the book a(diary?/workbook?)	Is the book a(workbook?/manuscript?)	Is the book a(textbook?/workbook?)	
+0	
+1	Is the object a(bicycle?/motorcycle?)	
+17	Is the container made of(plastic?/metal?)	Is the container made of(metal?/wood?)	Is the container made of(wood?/glass?)	Is the container made of(glass?/fabric?)	Is the container made of(fabric?/ceramic?)	Is the container made of(ceramic?/paper?)	Is the object a(notebook?/magazine?)	Is the object a(magazine?/map?)	Is the object a(map?/checkbook?)	Is the object a(dictionary?/calendar?)	Is the object a(calendar?/textbook?)	Is the object a(journal?/letter?)	Is the object a(letter?/newspaper?)	Is the object a(newspaper?/pamphlet?)	Is the object a(pamphlet?/cookbook?)	Is the object a(brochure?/manual?)	Is the object a phone(book?/book?)	
+0	
+2	Is the object a(statue?/monument?)	Is the object a(monument?/gravestone?)	
+2	Is the object a(bench?/playset?)	Is the object a wooden(sign?/sculpture?)	
+23	Is the object a(mammal?/reptile?)	Is the object a(reptile?/bird?)	Is the object a type of bony(fish?/fish?)	Is the object a(shark?/ray?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+14	Is the object used to cover the(head?/feet?)	Is the object used to cover the(feet?/hands?)	Is the object used to cover the(hands?/torso?)	Is the object used to cover the(torso?/legs?)	Is the object a(scarf?/bracelet?)	Is the object a(bracelet?/necklace?)	Is the object a(necklace?/belt?)	Is the object a(belt?/ring?)	Is the object a(tie?/hat?)	Is the object a(hat?/glove?)	Is the object a(glove?/vest?)	Is the object a(vest?/skirt?)	Is the object a(skirt?/dress?)	Is the object a(dress?/scarf?)	
+2	Is the object used to cut(wood?/paper?)	Is the object used to cut(paper?/hair?)	
+1	Is the object typically found in a(kitchen?/living room?)	
+4	Is the object a(plant?/mineral?)	Is the object typically found in a terrestrial(environment?/environment?)	Is the object typically found in a freshwater(environment?/environment?)	Is the object a(coral?/shell?)	
+1	Is the object a(bullet?/shield?)	
+9	Is the object made of(metal?/plastic?)	Is the object a(tarp?/tent?)	Is the object designed to cover(a vehicle?/furniture?)	Is the object designed to cover(furniture?/equipment?)	Is the object designed to cover(equipment?/food?)	Is the object designed to cover a(plant?/window?)	Is the object a type of(door?/lid?)	Is the object a type of(lid?/shade?)	Is the object a(sign?/blind?)	
+0	
+0	
+1	Is the object made of(metal?/plastic?)	
+3	What is the shape of the(object?/object?)	Is the object a(rope?/ribbon?)	Is the object a(ribbon?/shoelace?)	
+12	Is the outer garment a(coat?/shirt?)	Is the outer garment a(dress?/vest?)	Is the outer garment a(vest?/jacket?)	Is the outer garment a(jacket?/skirt?)	Is the outer garment a(skirt?/scarf?)	Is the outer garment a(scarf?/hat?)	Is the outer garment a(shawl?/sweater?)	Is the outer garment a(sweater?/cape?)	Is the outer garment a(cape?/poncho?)	Is the outer garment a(poncho?/swimsuit?)	Is the clothing a pair of(tights?/leggings?)	Is the clothing a pair of(leggings?/socks?)	
+1	Is the object a water(bottle?/fountain?)	
+5	Is the object a bladed(weapon?/weapon?)	Is the object a(catapult?/trebuchet?)	Is the object a(trebuchet?/ballista?)	Is the object a(spear?/javelin?)	Is the object a(net?/sling?)	
+2	Is it a(saw?/blade?)	Is it a(blade?/sickle?)	
+10	Is the object a rubber(bumper?/seal?)	Is the object a rubber(seal?/roof tile?)	Is the object a rubber roof(tile?/tile?)	Is the object a rubber(mallet head?/gasket?)	Is the object a rubber(engine mount?/radiator hose?)	Is the object a rubber(radiator hose?/grommet?)	Is the object a rubber(grommet?/fuel line?)	Is the object a rubber(fuel line?/belt?)	Is the object a rubber tire(flap?/flap?)	Is the object part of the suspension(system?/system?)	
+0	
+5	Is the object used for(transportation?/communication?)	Is the object used for(communication?/structural support?)	Is the tool used for(cutting?/cooking?)	Is the tool used to peel(something?/something?)	Is the object a julep(strainer?/strainer?)	
+10	Does the object have a(distinct smell?/specific color?)	Is the object a(gas?/liquid?)	Is the object a(liquid?/solid?)	Is the object a form(of ice?/of stone?)	Is the object typically found in(the ocean?/a cave?)	Is the object a(bone?/tooth?)	Is the object a(tooth?/shell?)	Is the object a(shell?/pearl?)	Is the object a(pearl?/scale?)	Is the object a(scale?/claw?)	
+7	Is the object(living?/man-made?)	Is the object a(wall?/monument?)	Is the structure a(fence?/dam?)	Is the object a(tombstone?/bench?)	Is the object part of a(water feature?/playground?)	Is the object part of a(large garden?/parking lot?)	Is the object a(well?/foundation?)	
+27	Is the object a(spoon?/fork?)	Is the object a(fork?/knife?)	Is the object a(knife?/chopstick?)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	
+5	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+8	Is the object a(textbook?/notepad?)	Is the object a(notepad?/calendar?)	Is the object a(dictionary?/pamphlet?)	Is the object a(brochure?/ledger?)	Is the object a(poster?/script?)	Is it a collection of(forms?/printed artwork?)	Is the object a(program?/calendar?)	Is the object a collection(of artwork?/of images?)	
+2	Yes.(/)	Yes.(/)	
+18	Is the object a(pot?/pan?)	Is the handle made of(metal?/wood?)	Is the handle made of(wood?/plastic?)	Is the handle made of(plastic?/silicone?)	Is the handle made of(silicone?/rubber?)	No.(/)	No.(/)	No.(/)	Yes.(/)	Yes.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	
+0	
+30	Is the object part of(an insect?/a mammal?)	Is the object part of the animal's digestive(system?/system?)	Is the object part of the animal's circulatory(system?/system?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object a(scale?/horn?)	Is the object a(horn?/hoof?)	Is the object a(hoof?/hair?)	Is the object a(hair?/whisker?)	Is the object a(nail?/feather?)	
+0	
+0	
+2	Is the object used for(transportation?/communication?)	Is the object typically found(indoors?/outdoors?)	
+2	Is the object a(tablecloth?/tarp?)	Is the object a protective cover for(a machine?/electronics?)	
+5	Is the object a(wagon?/sled?)	Is the object a(sled?/carriage?)	Is the object a(plow?/cart?)	Is the object a(cart?/rickshaw?)	Is the object a(rickshaw?/sleigh?)	
+1	Is the object a(bow?/firearm?)	
+3	Is the object a(blanket?/curtain?)	Is the object a(curtain?/pillowcase?)	Is the object a(pillowcase?/lampshade?)	
+1	Is the object a(shoe?/sock?)	
+18	Is the object a type of(coat?/hat?)	Is the object a type of(hat?/glove?)	Is the object a type of(glove?/scarf?)	Is the object a type of(scarf?/apron?)	Is the object a type of(apron?/vest?)	Is the object a type of(vest?/coverall?)	Is the object a type of(coverall?/sleeve?)	Is the object a type of(sleeve?/skirt?)	Is the object a type of(skirt?/poncho?)	Is the object a type of(poncho?/cape?)	Is the object a type of(cape?/overall?)	Is the object a type of(overall?/bib?)	Does the object protect the(head?/torso?)	Does the object protect the(torso?/legs?)	Is the shirt a flannel(shirt?/shirt?)	Is the shirt a uniform(shirt?/shirt?)	Is the shirt a work(shirt?/shirt?)	Is the shirt a(vest?/tunic?)	
+1	Is it a(boot?/sneaker?)	
+1	Is the object a(mask?/snorkel?)	
+0	
+17	Is the object a(flag?/tent?)	Is the object a(tent?/tarp?)	Is the object a pair of(pants?/gaiters?)	Is the object a pair of(gaiters?/leggings?)	Is the object a pair of(leggings?/socks?)	Is the object a pair of(socks?/chaps?)	Is the object a pair of(chaps?/shorts?)	Is the object part of a(uniform?/costume?)	Is the object a(scarf?/cloak?)	Is the object a(cloak?/shawl?)	Is the object a(poncho?/skirt?)	Is the object a(skirt?/cape?)	Is the object a(sail?/flag?)	Is the object a(flag?/tarp?)	Is the object a(tarp?/canopy?)	Is the object a(hat?/glove?)	Is the object a(glove?/scarf?)	
+12	Is the object used for(communication?/storing things?)	Is the object used to store(liquids?/tools?)	No.(/)	Is the object a metal box used in a(medical setting?/educational setting?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object a(shoe?/sock?)	
+0	
+3	Is the object used for(carrying things?/sitting on?)	Is the object a(baseball?/football?)	Is the sport played on(a field?/a bat?)	
+19	Is the book used for(writing?/storing information?)	Is the book a(dictionary?/textbook?)	Is the book a(textbook?/map?)	Is the book a(map?/calendar?)	Is the book a(magazine?/scrapbook?)	Is the book a(scrapbook?/journal?)	Is the book a(newspaper?/pamphlet?)	Is the book a(pamphlet?/checkbook?)	Is the object a(receipt?/flyer?)	Is the object a(flyer?/letter?)	Is the object a(letter?/coupon?)	Is the object a(coupon?/poster?)	Is the object a(poster?/menu?)	Is the object a(menu?/diploma?)	Is the object a(ticket?/certificate?)	Is the object a(certificate?/bill?)	Is the object a(bill?/list?)	Is the object a(bookmark?/resume?)	Is the object a(resume?/check?)	
+3	Is the object a(hood?/mask?)	Is the object part of protective clothing used in(a lab?/medical settings?)	Is the object part of protective clothing used in(medical settings?/a factory?)	
+1	Is the object a type of(clothing?/undergarment?)	
+0	
+2	Is the object a(pot?/pan?)	Is the object a(griddle?/wok?)	
+0	
+0	
+23	Is the object found in(an office?/a school?)	Is the object found in a(school?/hospital?)	Is the object found in a(hospital?/factory?)	Is the object found in a(factory?/lab?)	Is the object found in a(lab?/store?)	Is the object found in a(store?/government building?)	Is the object related to(transportation?/entertainment?)	Is the object related to(entertainment?/food?)	Is the object related to(art?/security?)	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/glass?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/paper?)	Is the object made of(paper?/fabric?)	Is the object made of(fabric?/stone?)	Is the object made of(stone?/ceramic?)	Is the object made of(ceramic?/rubber?)	Is the object typically(small?/large?)	Is the container used in(a laboratory?/a kitchen?)	Is the container found in a(kitchen?/bathroom?)	Is the container found in a(bathroom?/garage?)	Is the container a(bottle?/bucket?)	Is the container a(bucket?/glass?)	
+9	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object made of(glass?/wood?)	Is the object a(paperclip?/button?)	
+1	Is the object a(pot?/utensil?)	
+2	What is the general shape of(the object?/the object?)	Yes.(/)	
+1	Is the object a(bicycle?/train?)	
+0	
+0	
+0	
+6	Is the object made of(glass?/metal?)	Is the object made of(wood?/plastic?)	Is the sculpture made of(stone?/resin?)	Is the sculpture made of(resin?/clay?)	Is the sculpture made of(bronze?/marble?)	Is the sculpture made of(wood?/ivory?)	
+16	Is the object used for(communication?/containing things?)	Is the object found in(a bedroom?/an office?)	Is the object typically found in a(bathroom?/living room?)	Is the object found in a(school?/garage?)	Is the object found in a(garage?/car?)	Is the object(small?/flat?)	Is the object made of(paper?/plastic?)	Is the object made of(plastic?/glass?)	Is the object a(painting?/photograph?)	Is the object a(photograph?/mirror?)	Is the object a(mirror?/clock?)	Is the object a(clock?/sticker?)	Is the object a(sticker?/magnet?)	Is the object a(sculpture?/button?)	Is the object a(bookmark?/coaster?)	Is the object a decoration for a(window?/door?)	
+4	No.(/)	Yes.(/)	Yes.(/)	Yes.(/)	
+17	Is the object used for(storage?/transportation?)	Is the shoe a(boot?/sandal?)	Is the shoe a(slipper?/sneaker?)	Is the object a(watch?/glove?)	Is the object a(glove?/purse?)	Is the object a(hat?/jacket?)	Is the object a(jacket?/skirt?)	Is the object a(skirt?/vest?)	Is the object a(bracelet?/wallet?)	Is the object a(wallet?/scarf?)	Is the object a(scarf?/tie?)	Is the object a(tie?/glove?)	Is the object a(glove?/hat?)	Is the object a pair of(suspenders?/glasses?)	Is the object a(watch?/necklace?)	Is the object a(coat?/dress?)	Is the object a(dress?/sweater?)	
+17	Is the object a(house?/bridge?)	Is the object a(bridge?/sign?)	Is the object a(sign?/boat?)	Is the object a wooden carving?(/)	Is the object a wooden(bench?/playset?)	Is the object a wooden(swing set?/deck?)	Is the object a wooden(sculpture?/arbor?)	Is the object a wooden(kiosk?/climbing frame?)	Is the object a wooden(climbing frame?/barrier?)	Is the object a wooden(barrier?/archway?)	Is the object a wooden(decorative feature?/gazebo?)	Is the object a wooden(gazebo?/play structure?)	Is the object a wooden(sign post?/storage unit?)	Is the object a wooden(storage unit?/platform?)	Is the object a wooden(platform?/sculpture?)	Is the object a wooden(sculpture?/tower?)	Is the object a wooden(tower?/observation platform?)	
+26	Is the object a(lock?/tool?)	Is the object a(tool?/carabiner?)	Is the object a(carabiner?/chain?)	Is the object a(chain?/hook?)	Is the object a(hook?/bolt?)	Is the object a(bolt?/screw?)	Is the object a(screw?/wire?)	Is the object a part of a(hammer?/wrench?)	Is the object a part of a(wrench?/saw?)	Is the object a(nail?/staple?)	Is the object a(staple?/clamp?)	Is the object a(clamp?/pin?)	Is the object a(pin?/clip?)	Is the object(cylindrical?/flat?)	Is the object(flat?/rectangular?)	Is the object(rectangular?/circular?)	Is the object(circular?/triangular?)	Is the object(triangular?/square?)	Does the object have a pointed(end?/end?)	Does the object have a flat(end?/end?)	Is the object a(spring?/rivet?)	Is the object a(rivet?/buckle?)	Is the object a(buckle?/spoke?)	Is the object a(spoke?/stand?)	Is the object a(stand?/bracket?)	Is the object a(bracket?/valve?)	
+15	Is the object a(belt?/hat?)	Is the object a(vest?/bra?)	Is the object a(bra?/skirt?)	Is the object a(shirt?/scarf?)	Is the object a(sleeve?/garter?)	Is the object a(garter?/pocketbook?)	Is the object a(pocketbook?/corset?)	Is the object a(corset?/backpack?)	Is the object a(backpack?/pouch?)	Is the object a(coat?/sock?)	Is the object a(vest?/shawl?)	Is the object a(shawl?/cape?)	Is the object a(scarf?/thong?)	Is the object a(thong?/handkerchief?)	Is the object a(bedsheet?/bib?)	
+0	
+4	Is the book a(novel?/textbook?)	Is the book a(textbook?/notebook?)	Is the book a(notebook?/dictionary?)	Is the book a(magazine?/journal?)	
+1	Is the object a(pot?/pan?)	
+1	Is the clothing a(corset?/straitjacket?)	
+12	Is the object related to recreation(or hobbies?/or medicine?)	Is the object a(container?/tool?)	Is the object a(flag?/tent?)	Is the object a(tent?/sail?)	Is the object a(curtain?/filter?)	Is the object a(hat?/scarf?)	Is the object a(scarf?/belt?)	Is the object a(belt?/button?)	Is the object a(button?/zipper?)	Is the object a(zipper?/pocket?)	Is the object a(sleeve?/lining?)	Is the object a(lining?/collar?)	
+1	Is the object something used in(packaging?/crafting?)	
+10	Is the object a(stapler?/desk?)	Is the object a(lamp?/safe?)	Is the object a metal(ruler?/bookend?)	Is the object a metal(bookend?/paper tray?)	Is the metal box used for storing(jewelry?/tools?)	Is the metal box used for storing(tools?/coins?)	Is the metal box used for storing(coins?/office supplies?)	Is the metal box used for storing(office supplies?/keys?)	Is the metal box used for storing(keys?/important documents?)	Is the object a cash(box?/box?)	
+13	Is the object a(pillar?/wall?)	Is the object a(wall?/foundation?)	Is the object a(foundation?/statue?)	Is the object a(curb?/culvert?)	Is the architectural feature a(statue?/planter?)	Is the architectural feature a(planter?/decorative wall?)	Is the architectural feature a(decorative wall?/balustrade?)	Is the architectural feature a(balustrade?/pillar?)	Is the architectural feature a(pillar?/sundial?)	Is the architectural feature a(sundial?/gargoyle?)	Is the architectural feature a(gargoyle?/fountain?)	Is the architectural feature a(fountain?/garden gnome?)	Is the architectural feature a concrete(coping?/window sill?)	
+2	Is the object a(vest?/jumpsuit?)	Is the object a(leotard?/swimsuit?)	
+14	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/fabric?)	Is the object made of(fabric?/rubber?)	Is the object used for(communication?/entertainment?)	Is the object used for(entertainment?/storage?)	Is the object a(box?/bag?)	Is the bag made of(paper?/plastic?)	Is the bag made of(plastic?/fabric?)	Is the bag used for carrying(groceries?/personal belongings?)	Is the bag a(briefcase?/purse?)	Is the bag a(purse?/backpack?)	Is the bag a tote(bag?/bag?)	
+2	Is the clock made of(metal?/plastic?)	Is the clock made of(plastic?/wood?)	
+6	Does the object cover the(feet?/head?)	Does the object cover the(head?/hands?)	Does the object cover the(hands?/torso?)	Is the object a(shirt?/jacket?)	Is the object a(jacket?/dress?)	Is the dress a wedding(dress?/dress?)	
+0	
+0	
+16	Is the object a(mirror?/lampshade?)	Is the object a(lampshade?/dish?)	Is the object a glass(shelf?/brick?)	Is the object used in a(kitchen?/bathroom?)	Is the object used in a(bathroom?/living room?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+8	Is the object made of(plastic?/glass?)	Is the object a car(window?/window?)	Is the object a window on(an airplane?/a boat?)	Is the object(small?/transparent?)	Is the object a window on a(blimp?/trailer?)	Is the object a window on a(trailer?/passenger train?)	Is the object a window on a(passenger train?/truck?)	Is the object a window on a(truck?/recreational vehicle?)	
+3	Is the object made of(fabric?/metal?)	Is the object made of(metal?/plastic?)	Is the object a(parasol?/hat?)	
+0	
+8	Is the object a(band?/sealant?)	Is the object a(gasket?/spring?)	Is the object part of a(shoe?/backpack?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+9	Is the object used for(decoration?/protection?)	Is the object a(curtain?/towel?)	Is the object a(towel?/sheet?)	Is the object a(blanket?/lampshade?)	Is the object a(potholder?/doily?)	Is the object a(coaster?/placemat?)	Is the object a(placemat?/handkerchief?)	Is the object a(handkerchief?/bookmark?)	Is the object a(wallet?/bag?)	
+4	Is the object a(coat?/scarf?)	Is the object a(scarf?/hat?)	Is the object a(hat?/blanket?)	Is the object a(blanket?/sweater?)	
+0	
+16	Is the object a(garment?/towel?)	Is the object a(towel?/shirt?)	Is the shirt a dress(shirt?/shirt?)	Is the object a(tool?/building?)	Is the object a(curtain?/rug?)	Is the object a(rug?/bedsheet?)	Is the object a(bedsheet?/towel?)	Is the object used for(cleaning?/sleeping?)	Is the object a(sock?/scarf?)	Is the object a(scarf?/hat?)	Is the object a(dress?/sweater?)	Is the sweater a(cardigan?/hoodie?)	Is it a v-neck(sweater?/sweater?)	No.(/)	No.(/)	No.(/)	
+13	Is the garment typically worn on the upper(body?/body?)	Is the garment typically worn on the(lower body?/head?)	Is the garment typically worn on the(head?/feet?)	Is the garment typically worn on the(feet?/hands?)	Is the garment typically worn on the(hands?/legs?)	Is the garment typically worn on the(legs?/torso?)	Is the garment a(shirt?/jacket?)	Is the garment a(jacket?/vest?)	Is the garment(underwear?/swimwear?)	Is the swimwear a(two-piece?/one-piece?)	Is the swimwear a(one-piece?/Speedo?)	Is the swimwear a(Speedo?/wetsuit?)	Is the swimwear a(wetsuit?/swimsuit?)	
+6	Is the object a(saw?/knife?)	Is the object used by(sailors?/a farmer?)	Is the object used to cut through a single(material?/material?)	Is the object used in the manufacturing(of textiles?/of tents?)	Is the object used to cut thick metal(sheet?/sheet?)	Is the object a(chisel?/die?)	
+1	Yes.(/)	
+0	
+15	Is the clothing a(shirt?/jacket?)	Is the clothing a(jacket?/vest?)	Is the clothing a(sweater?/dress?)	Is the clothing a(dress?/blouse?)	Is the clothing a(blouse?/coat?)	Is the coat a trench(coat?/coat?)	Is the coat a leather(jacket?/jacket?)	Is the coat a Chesterfield(coat?/coat?)	Is the coat a Mac(coat?/coat?)	Is the coat a Balmacaan(coat?/coat?)	Is the coat a duffle(coat?/coat?)	Is the coat a duster(coat?/coat?)	Is the coat made of(cotton?/leather?)	Is the coat made of(leather?/wool?)	Is the coat a great(coat?/coat?)	
+1	Is the object a wind(instrument?/instrument?)	
+1	What is the object's(shape?/size?)	
+6	Is the road a(bridge?/sidewalk?)	Is the road a(sidewalk?/path?)	Is the road a(path?/driveway?)	Is the road a road in a(park?/farm?)	Is the road used by(airport employees?/airport security?)	Is the road used for(airport security?/transporting baggage?)	
+1	What is the general shape of(the object?/the object?)	
+20	Is the object made of(metal?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/plastic?)	Is the object made of(plastic?/ceramic?)	Is the object made of(ceramic?/stone?)	Is the object a(painting?/rug?)	Is the object a(rug?/tapestry?)	Is the object a(tapestry?/cushion?)	Is the object a(cushion?/blanket?)	Is the object a(blanket?/curtain?)	Is the object a(flag?/banner?)	Is the object a(banner?/doily?)	Is the object a(handkerchief?/tapestry?)	Is the object a(bookmark?/small)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+11	Is the object used for(transportation?/communication?)	Is the object used for(communication?/storage?)	Is the object a(tool?/weapon?)	Is the object used for(cooking?/eating?)	Is the object used for(eating?/cleaning?)	Is the utensil a(knife?/spoon?)	Is the utensil a(spoon?/fork?)	Is the pot made of(stainless steel?/cast iron?)	Is the pot made of(cast iron?/aluminum?)	Is the pot made of(aluminum?/copper?)	Does the pot have a(handle?/lid?)	
+0	
+18	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+13	Is the object used for(writing?/reading?)	Is the object a(calendar?/map?)	Is the object a(map?/magazine?)	Is the object a(magazine?/poster?)	Is the object a(poster?/document?)	Is the document a(letter?/form?)	Is the document a(form?/receipt?)	Is the document a(receipt?/flyer?)	Is the document a(flyer?/photograph?)	Is the document a(photograph?/newspaper?)	Is the object a(notebook?/pamphlet?)	Is the object a(pamphlet?/menu?)	Is the object a(brochure?/dictionary?)	
+2	Is the object a(pot?/cooler?)	Is the object a(cooler?/thermos?)	
+5	Is it a(coat?/hat?)	Is it a(hat?/scarf?)	Is it a(skirt?/swimsuit?)	Is the object a(belt?/diaper?)	Is the object a(diaper?/garter?)	
+16	Is the chair typically found in a(living room?/bedroom?)	Is the chair typically found in(a bedroom?/an office?)	Is the chair typically found in a(dining room?/classroom?)	Is the chair used by a(dentist?/barber?)	Is the chair used by a(barber?/surgeon?)	Is the chair used by a(surgeon?/teacher?)	Is the chair used by a(teacher?/student?)	Is the chair used by a(cashier?/chef?)	Is the chair used by a(chef?/security guard?)	Is the chair used by a(security guard?/pilot?)	Is the chair used by a(pilot?/driver?)	Is the chair used by(a driver?/a courtroom?)	Is the chair for a specific(sport?/activity?)	Is the activity related to(eating?/sewing?)	Is the activity related to(sewing?/music?)	Is the activity related to(music?/a child?)	
+7	Is the object a(screw?/nail?)	Is the object a(nail?/staple?)	Is the object a(staple?/bolt?)	Is the object a(bolt?/rivet?)	Is the object a(rivet?/pin?)	Is the object a(hook?/clamp?)	Is the object a(clamp?/clasp?)	
+7	Is the object used for(transportation?/communication?)	Is the object(magnetic?/decorative?)	Is the jewelry a(ring?/necklace?)	Is the jewelry a(necklace?/bracelet?)	Is the jewelry a(brooch?/watch?)	Is the jewelry a(pin?/pendant?)	Is the jewelry a(pendant?/cufflink?)	
+37	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/fabric?)	Is the object made of(fabric?/rubber?)	Is the object made of(rubber?/ceramic?)	Is the object used for(communication?/storage?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+6	Is the object a(beam?/plank?)	Is the object a(rafter?/stud?)	Is the object a wooden(lattice?/door frame?)	Is the object a common(rafter?/rafter?)	Is the object a hip(rafter?/rafter?)	Is the object a valley(rafter?/rafter?)	
+13	Is the object used for(transportation?/communication?)	Is the object a(coin?/key?)	Is the object a(can?/utensil?)	Is the object a(utensil?/container?)	Is the object a(knife?/fork?)	Is the object a(fork?/spoon?)	Is the object a(whisk?/ladle?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+3	Is the object a decorative(mobile?/light fixture?)	Is the object a decorative(wreath?/banner?)	Is the object a decorative(banner?/plaque?)	
+6	Is the object a(vehicle?/boat?)	Is the object a(boat?/train?)	Is the object a(train?/car?)	Is the object a(car?/skateboard?)	Is the object a(skateboard?/bicycle?)	Is the object a(bicycle?/wagon?)	
+21	Is the object typically worn on the(head?/feet?)	Is the object typically worn on the(feet?/hands?)	Is the object typically worn on the(hands?/torso?)	Is the object a(vest?/shirt?)	Is the object a(shirt?/dress?)	Is the object a(dress?/coat?)	Is the object a(scarf?/belt?)	Is the object a(belt?/hat?)	Is the object a(hat?/bra?)	Is the object a(swimsuit?/shawl?)	Is the object a(shawl?/corset?)	Is the object a(poncho?/camisole?)	Is the object a(vest?/sash?)	Is the object a(sash?/wrap?)	Is the wrap made of a soft material like(silk or wool?/canvas or denim?)	Is the wrap a(sarong?/shawl?)	Is the wrap a(shawl?/scarf?)	Is the wrap a(sash?/cloak?)	Is the wrap a(cloak?/cummerbund?)	Is the wrap a(cummerbund?/cape?)	Is the wrap a(cape?/ruana?)	
+4	Is the object a(hatchet?/machete?)	Is the object used to cut(rope?/food?)	Is the object a(handsaw?/chisel?)	Is the object used to cut(fabric?/paper?)	
+1	Is the object used for(transportation?/communication?)	
+1	Is the object made of(wood?/metal?)	
+0	
+8	Is the object a wooden(mallet?/rack?)	Is the object a wooden(grater?/pastry brush?)	Is the object a wooden(pastry brush?/meat tenderizer?)	Is the object a wooden(meat tenderizer?/spice rack?)	Is the object a wooden(spice rack?/measuring cup?)	Is the object a wooden(measuring cup?/plate?)	Is the object a wooden(plate?/scoop?)	Is the object a wooden(scoop?/fork?)	
+6	Is the coat made of(wool?/down?)	Is the coat made of(cotton?/leather?)	Is the coat a duffel(coat?/coat?)	Does the coat have(buttons?/pockets?)	Is the overcoat a Chesterfield(coat?/coat?)	Is the overcoat a balmacaan(coat?/coat?)	
+8	Is the object used for(transportation?/communication?)	Is the object used to(apply force?/remove something?)	Is the object a(wrench?/screwdriver?)	Is the object a(screwdriver?/pliers?)	Is the object a(file?/level?)	Is the object a(scraper?/punch?)	Is the object used on(metal?/plastic?)	Is the object used on(plastic?/wood?)	
+9	Is the object a(hat?/hood?)	Is the object a(scarf?/wig?)	Is the hair accessory a(headband?/hair clip?)	Is the hair accessory a hair(clip?/tie?)	Is the hair accessory a(hair tie?/fascinator?)	Is the hair accessory a(fascinator?/barrette?)	Is the hair accessory a(barrette?/scrunchie?)	Is the hair accessory a(scrunchie?/decorative comb?)	Is the hair accessory a(decorative comb?/hairnet?)	
+0	
+0	
+5	Is the object a(fluid?/fabric?)	Is the object the(windshield?/bumper?)	Is the object a(wheel?/spring?)	Is the object a(spring?/door?)	Is the object a(seatbelt?/fender?)	
+0	
+0	
+0	
+18	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+7	Is the object used for(communication?/transportation?)	Is the object a(car?/train?)	Is the object a(train?/bicycle?)	Is the object a(bicycle?/bus?)	Is the object a(bus?/motorcycle?)	Is the object a(boat?/truck?)	Does the object have two(wheels?/wheels?)	
+9	Is the object a(weapon?/sword?)	Is the object a(sword?/spear?)	Is the object a(spear?/bayonet?)	Is the object a(nail?/bullet?)	Is the object a(bullet?/needle?)	Is the object a(needle?/tool?)	Is the object a(knife?/pickaxe?)	Is the object a pair of(pliers?/shears?)	Is the object a bottle(opener?/opener?)	
+17	Is the object used for(transportation?/communication?)	Is the object typically found(indoors?/outdoors?)	Is the object used for(construction?/measuring something?)	Is the object a(lock?/hinge?)	Is the object a(mailbox?/doorknob?)	Is the object a(bracket?/hook?)	Is the object a(hook?/nail?)	Is it a stand for a(musical instrument?/lamp?)	Is it a stand for a(lamp?/speaker?)	Is it a stand for a(speaker?/flag?)	Is it a stand for(a flag?/an umbrella?)	Is it a stand for holding a(coat?/phone?)	Is it a stand for holding a(phone?/tablet?)	Is it a stand for holding a(tablet?/microphone?)	Is it a stand for holding a(microphone?/TV?)	Is it a stand for holding a(TV?/book?)	Is the stand for holding a(grill?/statue?)	
+3	Is the object a stringed(instrument?/instrument?)	Is the object a percussion(instrument?/instrument?)	Is the object a(trumpet?/trombone?)	
+34	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the musical instrument a string(instrument?/instrument?)	
+26	Is the clothing a(skirt?/hat?)	Is the clothing a(hat?/scarf?)	Is the clothing a(scarf?/glove?)	Is the clothing a(glove?/sock?)	Is the clothing a(bag?/pocket?)	Is the clothing a(belt?/tie?)	Is the clothing a(tie?/vest?)	Is the clothing a(vest?/shawl?)	Is the clothing a(shawl?/cape?)	Is the clothing a(cape?/sleeve?)	Is the clothing a(sleeve?/corset?)	Is the clothing a(corset?/garter?)	Is the clothing a(garter?/wrap?)	Is the clothing a(wrap?/diaper?)	Is the clothing a(thong?/handkerchief?)	Is the clothing a(handkerchief?/blindfold?)	Does the clothing cover the(feet?/hands?)	Does the clothing cover the(hands?/head?)	Does the clothing cover the(head?/torso?)	Is the clothing a(bandage?/liner?)	Is the clothing a(flag?/towel?)	Is the clothing a(towel?/placemat?)	Is the clothing a(placemat?/tablecloth?)	Is the clothing a(tablecloth?/ribbon?)	Is the clothing a(ribbon?/cloth?)	Is the cloth used for(cleaning?/protection?)	
+3	Is the object made primarily of(glass?/plastic?)	Is the object made primarily of(plastic?/metal?)	Is the object a(sink?/bathtub?)	
+4	Is the object a musical(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	Is the object a(trumpet?/trombone?)	Is the object a(trombone?/tuba?)	
+7	Is the object a(hood?/beanie?)	Is the object a(beanie?/scarf?)	Is the object a(scarf?/hat?)	Is the object a(hat?/wig?)	Is the character a(priest?/pilgrim?)	Is the object a(crown?/wimple?)	Is the object a(hijab?/burka?)	
+1	Does the object contain(plastic?/metal?)	
+16	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	
+16	Is the object a(hat?/shirt?)	Is the object a(sock?/shoe?)	Is the object a(jacket?/skirt?)	Is the object a(skirt?/dress?)	Is the object a(scarf?/tie?)	Is the object a(tie?/coat?)	Is the object a(coat?/vest?)	Does the object cover the(legs?/arms?)	Is the object a(sleeve?/blouse?)	Is the object a(blouse?/poncho?)	Is the object a(poncho?/leotard?)	Is the object a(leotard?/cloak?)	Is the object a(cardigan?/robe?)	Is the object a(robe?/blazer?)	Is it the jacket of the(suit?/suit?)	Is the object part of a military(uniform?/uniform?)	
+3	Is the jacket made of(leather?/cotton?)	Is the jacket made of(cotton?/wool?)	Is the jacket a(raincoat?/blazer?)	
+3	Is the object used for(transportation?/communication?)	Is the object a fuse(box?/box?)	Is the object a breaker(box?/box?)	
+5	Is the object a(guitar?/piano?)	Is the object a(piano?/violin?)	Is the object a(violin?/cello?)	Is the object a(cello?/harp?)	Is the object a(harp?/ukulele?)	
+15	Is the object used for(decoration?/protection?)	Is the object a(tarp?/flag?)	Is the object a(flag?/canopy?)	Is the object used on a(construction site?/boat?)	Yes.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+34	Is the coat made of(wool?/cotton?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+21	Is the clothing worn on the(legs?/feet?)	Is the clothing worn on the(feet?/head?)	Is the clothing worn on the(head?/arms?)	Is the clothing worn on the(arms?/torso?)	Is the clothing worn on the(torso?/hands?)	Is the clothing worn on the(hands?/neck?)	Are the panties(white?/black?)	Are the panties(blue?/pink?)	Are the panties(pink?/gray?)	Are the panties a shade of(red?/green?)	Are the panties a shade of(green?/yellow?)	Are the panties a shade of(yellow?/purple?)	Are the panties a shade of(purple?/orange?)	Are the panties a shade of(orange?/brown?)	Are the panties a beige(color?/color?)	Are the panties a light(color?/color?)	Are the panties a dark(color?/color?)	Are the panties a pastel(color?/color?)	Are the panties a muted(color?/color?)	Are the panties a vibrant(color?/color?)	Are the panties a shade of(tan?/olive?)	
+8	Is it a(shirt?/t-shirt?)	Is it a polo(shirt?/shirt?)	Is it a dress(shirt?/shirt?)	Is it a(sweatshirt?/vest?)	Is it a crop(top?/top?)	Does it cover the(midriff?/shoulders?)	Is it a form-fitting(shirt?/shirt?)	Is it a thermal(shirt?/shirt?)	
+0	
+4	Is the vehicle used on(water?/land?)	Is the vehicle a(train?/bicycle?)	Is the vehicle a(bicycle?/bus?)	Is the vehicle a(bus?/motorcycle?)	
+7	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+4	Is the object typically made of(metal?/plastic?)	Is the object typically made of(plastic?/glass?)	Is the object used in a(laboratory?/bathroom?)	Is the object a(toilet?/urinal?)	
+12	Is the object typically found inside(a building?/a kitchen?)	Is the object typically found in a(kitchen?/bathroom?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/ceramic?)	Is the object a decorative(plate?/statue?)	Is the object a decorative(bowl?/figurine?)	Is the object a decorative(pot?/wall hanging?)	Is the object a(sink?/toilet?)	Is the object a decorative(pitcher?/cup?)	Is the object a decorative(cup?/soap dispenser?)	Is the object a decorative(soap dispenser?/flower pot?)	Is the object a decorative(flower pot?/urn?)	
+0	
+4	Is the object a(container?/bottle?)	Is the object a(bottle?/jar?)	Is the object a(lampshade?/window?)	Is the object a(window?/vase?)	
+12	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object a(beam?/nail?)	Is the object a(nail?/fastener?)	Is the object a(fastener?/support?)	Is the object a(support?/pipe?)	Is the object a(pipe?/sheet?)	Is the object a(sheet?/rod?)	Is the object a(gutter?/hinge?)	Is the object a(hinge?/fence?)	Is the object part of the electrical(system?/system?)	Is the object part of the(plumbing system?/HVAC system?)	
+3	Is the object a(coat?/jacket?)	Is the object a(hat?/skirt?)	Is the object a(skirt?/vest?)	
+3	Is the object used for(sitting?/writing?)	Is the object a(door?/window?)	Is the instrument a(guitar?/violin?)	
+0	
+4	Is the vehicle pulled by(another vehicle?/people?)	No.(/)	No.(/)	No.(/)	
+5	Is the object a(clothesline?/belt?)	Is the object a(belt?/strap?)	Is the object a type(of hanger?/of rope?)	Is the object a loop on a(flag?/towel?)	Is the object part of(a skirt?/trousers?)	
+7	Does the object have(sleeves?/buttons?)	Is the object a(shirt?/vest?)	Is the object a(vest?/coat?)	Is the object a(cardigan?/vest?)	Is the object a(vest?/jacket?)	Is the object a(duster?/bodysuit?)	Does the object have a(hood?/zipper?)	
+16	Is the object a(poster?/board?)	Is the wall panel made of(wood?/plaster?)	Is the wall panel made of(plaster?/drywall?)	Is the object(unfinished?/painted?)	Is the object used on the inside of a(building?/building?)	Is the object a pre-fabricated wall(panel?/panel?)	Is the object used in a(bathroom?/kitchen?)	Is the object used in a(kitchen?/living room?)	Is the object used in(an office?/a bedroom?)	Is the object used in a(bedroom?/basement?)	Is the object used in a(basement?/hallway?)	Is the object used in a(utility room?/garage?)	Is the object used in a(garage?/classroom?)	Is the object used in a(classroom?/corridor?)	Is the object a textured wall(panel?/panel?)	Is the object a panel for a(drop ceiling?/cubicle?)	
+0	
+5	Is the object used for(storage?/communication?)	Is the object used for(communication?/entertainment?)	Is the hobby a(craft?/sport?)	Is the object related to(reading?/music?)	Is the object used with(a needle?/a workshop?)	
+7	Is the object used in(a kitchen?/an office?)	Is the object used in(an office?/a bedroom?)	Is the object a(dresser?/bookshelf?)	Is the object a(bookshelf?/nightstand?)	Is the object a hope(chest?/chest?)	Is the object a(footlocker?/cabinet?)	Is the cabinet used to store(books?/clothing?)	
+6	Is the object a(mug?/pipe?)	Is the object a(pipe?/toilet?)	Is the object a(toilet?/vase?)	Is the object a ceramic(bowl?/jug?)	Is the object used in a(kitchen?/bathroom?)	Is the object a(sink?/toilet?)	
+20	Is the object a(plunger?/broom?)	Is the object a(squeegee?/dustpan?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+5	Is the object a(toilet?/vase?)	Does the bowl have a(handle?/lid?)	Is the bowl used in a(pottery studio?/art studio?)	Is the bowl used for(industrial processes?/storing food?)	Is the bowl part of a(religious practice?/spa treatment?)	
+7	Is the object a(rug?/curtain?)	Is the object a(curtain?/blanket?)	Is the object a(blanket?/towel?)	Is the object typically found in a(kitchen?/bedroom?)	Is the object typically found in a(bedroom?/living room?)	Is the cleaning cloth a(microfiber cloth?/dishcloth?)	Is the cleaning cloth used to clean(windows?/floors?)	
+8	Is the object a(sponge?/towel?)	Is the cleaning cloth made of(microfiber?/cotton?)	Is the cleaning cloth used to clean(floors?/windows?)	Is the cleaning cloth used to clean(windows?/furniture?)	Is the cleaning cloth used to clean(furniture?/cars?)	Is the cleaning cloth used to clean(cars?/electronics?)	Is the cleaning cloth used to clean(electronics?/countertops?)	Is the cleaning cloth used to clean(countertops?/the body?)	
+5	Is the object a(toilet?/sink?)	Is the object a(sink?/shower?)	Is the object made of(plastic?/fabric?)	Is the object a(washcloth?/sponge?)	Is the object a bottle of(shampoo?/body wash?)	
+15	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object a(container?/bucket?)	Is the object a(bucket?/pipe?)	Is the object a(pipe?/cup?)	Is the object a(cup?/bottle?)	Is the object a(bottle?/tank?)	Is the object a(tank?/kettle?)	Is the object a(kettle?/barrel?)	Is the object a(barrel?/sink?)	Is the object a(vase?/teapot?)	Is the object a(teapot?/can?)	Is the object a(can?/flask?)	Is the object a(flask?/cauldron?)	Is the object a(cauldron?/mug?)	
+7	Is the object made of(plastic?/metal?)	Is the object made of(metal?/paper?)	Is the object made of(paper?/glass?)	Is the object made of(glass?/ceramic?)	Is the object made of(ceramic?/multiple materials?)	Is the object often found in(a bathroom?/an office?)	Is the object cylindrical in(shape?/shape?)	
+17	Is the object used for(communication?/transportation?)	Is the object used in(a home?/an office?)	Is the object used for(entertainment?/construction?)	Is the object a(tool?/weapon?)	Is the fastener a(bolt?/screw?)	Is the fastener a(screw?/nail?)	Is the fastener a(nail?/staple?)	Is the fastener a(staple?/pin?)	Is the fastener a(pin?/rivet?)	Is the fastener a(rivet?/clasp?)	Is the clasp part of a(bag?/watch?)	Is the clasp made of(gold?/silver?)	Is the watch part of a(clock?/necklace?)	Is the watch part of a(necklace?/bracelet?)	Is the watch used in a medical(setting?/setting?)	Is the clasp a part of a(key chain?/locket?)	Is the clasp a part of a(locket?/money clip?)	
+15	Is it a(tree?/vegetable?)	Is the object a(fruit?/stem?)	Is the object a(stem?/flower?)	Is the object(small?/edible?)	Is the object part of the plant that provides(support?/food?)	Is the object a(bud?/vine?)	Is the object a type of(lichen?/spore?)	Is the object a(cone?/branch?)	Is the object a(nut?/berry?)	Is the object a part of a plant(that attracts pollinators?/that disperses seeds?)	Is the object a form(of algae?/of fungi?)	Is the object a type of(fungi?/bulb?)	Is the object a(spore?/cone?)	Is the object a(flower?/leaf?)	Is the object the(fruit?/root?)	
+0	
+1	Is the object used on(roads?/rails?)	
+1	Is the object a(bicycle?/car?)	
+0	
+0	
+4	Is the object a glass block in(a wall?/a door?)	Is the object a glass(shelf?/table top?)	Is the object used in a commercial(building?/building?)	Is the object a glass railing(panel?/panel?)	
+3	Is the object typically used for(storage?/sitting?)	Is the object a(staircase?/window?)	Is the object a wooden(post?/handrail?)	
+1	Is the object a(roof?/barrier?)	
+0	
+1	Is the object(living?/man-made?)	
+3	Is the object a(telephone?/key?)	Is the object a(tool?/doorbell?)	Is the object a(magnet?/circuit?)	
+3	Is the object a(pot?/pan?)	Is the object a(pan?/grill?)	Is the object a(kettle?/wok?)	
+8	Is the object a(campfire?/car?)	Is the object a(car?/furnace?)	Is the object related to(a stove?/fire?)	Is the object a(thermos?/radiator?)	Is the object made of(metal?/plastic?)	Is the object made of(plastic?/wood?)	Is the object made of(wood?/glass?)	Is the object made of(glass?/multiple materials?)	
+3	What is the object's(shape?/size)	No.(/)	No.(/)	
+9	Is the object a(calendar?/poster?)	Is the object a(ledger?/receipt?)	Is the object a(manual?/logbook?)	Is the object a(logbook?/catalog?)	Is the object a(catalog?/pamphlet?)	Is the object a(pamphlet?/questionnaire?)	Is the object a(flyer?/portfolio?)	Is the object a(portfolio?/form?)	Is the object a(form?/notebook?)	
+23	Is the work the object performs(mechanical?/electrical?)	Is the work the object performs(electrical?/chemical?)	Is it a(laptop?/server?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/glass?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/silicon?)	Is the object made of(silicon?/fabric?)	Is the object a(liquid?/gas?)	Is the object a(gas?/solid?)	Does the object have a(specific shape?/function?)	Is the object a(tool?/machine?)	Is the object a(printer?/computer?)	Is the computer a(desktop?/laptop?)	Is the computer a(laptop?/tablet?)	Is the object a(monitor?/keyboard?)	Is the object a(keyboard?/mouse?)	Is the object a(mouse?/phone?)	Is the object a(printer?/scanner?)	Is the object a(scanner?/webcam?)	Is the object a(webcam?/speaker?)	Is the object a(speaker?/microphone?)	Is the object a(microphone?/headset?)	
+14	Is the object made of(plastic?/fabric?)	Is the object made of(fabric?/leather?)	Is the object made of(leather?/rubber?)	Is the object used in(swimming?/tennis?)	Is the object used in(tennis?/running?)	Is the object used in(running?/cycling?)	Is the object used in(basketball?/football?)	Is the object used in(football?/hockey?)	Is the object used in(hockey?/golf?)	Is the object used for(protection?/identification?)	Is the object related to a specific(team?/activity?)	Is the object related to(rock climbing?/weightlifting?)	Does the sport the object is related to involve(running?/jumping?)	Does the sport the object is related to involve(jumping?/throwing?)	
+0	
+17	Is the object typically found in a(kitchen?/bedroom?)	Is the object typically found in a(bedroom?/living room?)	Is the object typically found in a(living room?/bathroom?)	Is the object typically found in(a bathroom?/an office?)	Is the object typically found in(an office?/a classroom?)	Is the object typically found in a(classroom?/garage?)	Is the object typically found in a(garage?/basement?)	Is the object typically found in a(basement?/hallway?)	Is the object typically found in a(hallway?/closet?)	Is the object typically found in a(closet?/laundry room?)	Is the object(electronic?/mechanical?)	Is the object powered by(electricity?/batteries?)	Is the object made of(metal?/wood?)	Does the object have a(handle?/flat surface?)	Is the musical instrument a stringed(instrument?/instrument?)	Is the musical instrument a wind(instrument?/instrument?)	Is the object a(drum?/xylophone?)	
+1	Is the book a(biography?/yearbook?)	
+4	What is the object's(shape?/size?)	Is the tool used for(measuring?/opening something?)	Is the tool used for opening(something?/something?)	Is the tool a(wheelbarrow?/rake?)	
+0	
+2	Is the object used for(containing something?/transportation?)	Is the vehicle a(train?/car?)	
+8	Is the object a(plane?/rocket?)	Is the object a(rocket?/blimp?)	Is the object a(blimp?/helicopter?)	Is the object a(zeppelin?/dirigible?)	Was the dirigible used for commercial(purposes?/purposes?)	Was the dirigible used in World War(I?/II?)	Is the object primarily used for(surveillance?/observation?)	Was the dirigible used for(training?/recreational purposes?)	
+5	Is the object used for(communication?/transportation?)	Is the vehicle designed to travel on(water?/land?)	Is the vehicle a(car?/train?)	Is the vehicle a(train?/motorcycle?)	Is the vehicle a(motorcycle?/truck?)	
+17	Is the object a(key?/coin?)	Is the object a(lighter?/knife?)	Is the object a(whistle?/paperclip?)	Is the object a(paperclip?/small)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	What is the object's(size?/material?)	Is the object used in(radio communication?/audio?)	
+0	
+11	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+12	Is the car a(sedan?/truck?)	Is the car a(hatchback?/wagon?)	Is the car a(wagon?/coupe?)	Is the car a(convertible?/crossover?)	Is the car known for its(fuel efficiency?/size?)	Is the car known for its(size?/reliability?)	Is the car known for its(reliability?/speed?)	Does the car have a small(engine?/engine?)	Is the car a compact(car?/car?)	Is the car a two-door(car?/car?)	Is the car a four-door(car?/car?)	Is the car a(hardtop?/fastback?)	
+0	
+0	
+7	Is the weapon a(missile?/gun?)	Is the weapon a(gun?/bomb?)	Is the weapon a(trebuchet?/submarine?)	Is it a(rifle?/pistol?)	Is the gun a(derringer?/musket?)	Does the gun use a(cartridge?/bullet?)	Is the object a nail(gun?/gun?)	
+12	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+6	Is the object a(nail?/shovel?)	Is the object a(gate?/screw?)	Is the object a(screw?/chain?)	Is the object a(bolt?/doorstop?)	Is the object a(scaffolding?/stake?)	Is the object a(stake?/clamp?)	
+1	Is the object a(kettle?/faucet?)	
+1	Is the object designed to be(handheld?/launched?)	
+2	Is the object used to transport coal from(a mine?/a power plant?)	Is the object specifically designed to(transport coal?/transport coal?)	
+4	Is the object used for(communication?/storage?)	Is the object used for(imaging?/treatment?)	Is the object used to measure(blood pressure?/body temperature?)	Is the object used by a doctor to look into a patient's(eye?/ear?)	
+0	
+1	Is the object a(stovetop?/grill?)	
+0	
+0	
+2	Is the object commonly found in(a kitchen?/a bedroom?)	Is the video camera a(handheld camera?/camcorder?)	
+0	
+0	
+10	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object a(howitzer?/mortar?)	Is the object a chase(gun?/gun?)	
+0	
+19	Is the object used for(transportation?/communication?)	Is the object used for(communication?/storage?)	Is the object a(tool?/weapon?)	Is the object a(coin?/key?)	Is the object a(key?/clock?)	Is the object a(gear?/spring?)	Is the object a(spring?/screw?)	Is the object a(screw?/bolt?)	Is the object a(bolt?/hinge?)	Is the object a(blade?/needle?)	Is the object a(needle?/pin?)	Is the object a(bearing?/staple?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+17	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object used in a(home?/professional setting)	No.(/)	Yes.(/)	Yes.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+1	Is the object typically used for(food?/cleaning?)	
+0	
+0	
+2	Is the object used to clean(ovens?/grills?)	Is the object used to clean(grills?/kitchen appliances?)	
+2	Is the object(electronic?/handheld?)	Does the object produce(light?/sound?)	
+0	
+2	Is the object a(vehicle?/container?)	Is the object a(container?/building?)	
+11	Is the object(see-through?/electronic?)	Is the object(electronic?/portable?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+3	Is the object a(speaker?/microphone?)	Is the object a(telephone?/dictaphone?)	Is the object a(headset?/bug?)	
+15	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+0	
+1	Is it a container(ship?/ship?)	
+3	Is the movie a(comedy?/drama?)	Is the movie a war(drama?/drama?)	Is the movie a courtroom(drama?/drama?)	
+5	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the tool used for(cutting?/striking things?)	Is the tool used for(digging?/fastening?)	Is the tool used for(fastening?/gripping?)	
+3	Is the object a(window?/mirror?)	Is it a colored light(bulb?/bulb?)	No.(/)	
+3	Is the object used for(communication?/personal grooming?)	Is the object used for(personal grooming?/cutting?)	Is the object used for(measuring something?/store something?)	
+0	
+25	Is the object used for(communication?/storing things?)	Is the object a(coin?/key?)	Is the object a(key?/paperclip?)	Is the object a(paperclip?/button?)	Is the object part of a(computer?/door?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+7	Is the object a(rail?/bicycle?)	Is the object a part of(a boat?/an airplane?)	Is the object a(bumper?/bolt?)	Is the object a metal(filing cabinet?/gate?)	Is the object a metal(gate?/pole?)	Is the object a metal(pole?/handrail?)	Is the object a metal(chain?/fence post?)	
+12	Does the object have(strings?/keys?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Is the object a(calliope?/phonograph?)	
+2	Is the object a(shell?/firework?)	Is the object a(detonator?/grenade?)	
+12	Is the pistol a(1911?/Hi-Point?)	Is the pistol chambered in(9mm?/.45 ACP?)	Is the pistol chambered in(.45 ACP?/.40 S&W?)	Is the pistol chambered in(.40 S&W?/.380 ACP?)	Is the pistol chambered in(.380 ACP?/.22 LR?)	Is the pistol chambered in(.22 LR?/.38 Special?)	Is the pistol chambered in(.38 Special?/.357 SIG?)	Is the pistol chambered in(.357 SIG?/10mm Auto?)	Is the pistol a(subcompact?/full-size?)	Is the pistol an(Astra?/IWI?)	Is the pistol a(Walther?/Taurus?)	Is the pistol a(Taurus?/Kimber?)	
+1	Is the object a street(light?/light?)	
+2	Is the object(electronic?/portable?)	Is the object a(headset?/speaker?)	
+5	Is the object used to transport(goods?/people?)	Is the object used for(commercial purposes?/delivering packages?)	Is the object a tow(truck?/truck?)	Is the object a fire(truck?/truck?)	Is the object a garbage(truck?/truck?)	
+6	Is the object made of(plastic?/metal?)	Is the object a(television?/fan?)	Is the object a(fan?/lamp?)	Is the object a(lamp?/clock?)	Is the object a(clock?/radio?)	Is the object a(radio?/toaster?)	
+2	Is the object a vehicle used(on land?/in water?)	Is the object a(rocket?/helicopter?)	
+1	Is the object a built-in(oven?/oven?)	
+12	Is the house a(cabin?/skyscraper?)	Is the house a(shed?/cottage?)	Does the house have a pitched(roof?/roof?)	Is the wood used primarily for(aesthetic purposes?/insulation?)	Is the object a(pallet?/crate?)	Is the object a(crate?/fence?)	Is the object a(fence?/desk?)	Is the object a(desk?/door?)	Is the object a(door?/bookshelf?)	Is the object a wooden(frame?/box?)	Is the object a wooden(box?/shelf?)	Is the object used for(construction?/storage?)	
+31	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the object a(faucet?/well?)	Is the object a water(tank?/bottle?)	
+0	
+0	
+3	Is the object typically found on(a desk?/a person?)	Is the object a(telephone?/radio?)	Is the object used to unlock(a door?/a signal?)	
+2	Is the object a(sledgehammer?/chisel?)	Is the object a(chisel?/pickaxe?)	
+5	Is it a(truck?/train?)	Is it a(train?/bus?)	Is it used by the(police?/fire department?)	Is it a reconnaissance(vehicle?/vehicle?)	Is it used in amphibious(warfare?/warfare?)	
+0	
+2	Is the object a(mouse?/keyboard?)	Is the object a(keyboard?/joystick?)	
+7	Is the object a stringed(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	Is the object used in a(concert hall?/stadium?)	Is the object used in a(stadium?/studio?)	Is the object used in a(studio?/theater?)	Is the object used in a(theater?/home?)	Is the object used in(a school?/an office?)	
+3	Is the object a(telephone?/computer?)	Is the object a(computer?/television?)	Is the object a(television?/speakerphone?)	
+2	Does the object have a(screen?/power source?)	Is the object a(mouse?/trackball?)	
+0	
+32	Is the object a(fence?/bridge?)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+1	Is the object(electronic?/portable?)	
+0	
+0	
+0	
+2	Is the object a(bus?/truck?)	Is the object a construction(vehicle?/vehicle?)	
+10	Is the object a(tool?/vehicle?)	Is it a steam(engine?/engine?)	Is it used for(mining?/agriculture?)	Does it transport(resources?/oil?)	Does it transport(oil?/lumber?)	Does it transport(gravel?/aggregate?)	Does it transport(aggregate?/grain?)	Does it transport(grain?/ore?)	Does it transport(ore?/refuse?)	Does it transport(refuse?/sand?)	
+0	
+0	
+1	Is the object a(whistle?/megaphone?)	
+0	
+0	
+15	Is it a(car?/train?)	Is it a(train?/bus?)	Is the bus used for(public transportation?/long-distance travel?)	Is the bus a school(bus?/bus?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+10	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	
+0	
+0	
+3	Is the object a(car?/train?)	Is the object a(train?/ship?)	Is the object a(bus?/motorcycle?)	
+3	Is the boat made primarily of(metal?/wood?)	Is the boat a(speedboat?/yacht?)	Is the boat a ski(boat?/boat?)	
+2	Is the object used for(communication?/transportation?)	Is the object a(car?/bus?)	
+0	
+3	Is the vehicle a(boat?/car?)	Is the vehicle a(car?/train?)	Is the vehicle a(bus?/motorcycle?)	
+0	
+11	Is the object used for(construction?/recreation?)	Is the object designed for(throwing?/striking?)	Is the object used for(gardening?/sport?)	Is the object used for(sport?/breaking things?)	Is the object a(bow?/trap?)	Is the object a(spear?/hammer?)	Is the object a(hammer?/club?)	Is the object a(club?/gun?)	Is the gun a(rifle?/pistol?)	Is the gun a(pistol?/shotgun?)	Is the gun a(shotgun?/musket?)	
+1	Is the object a(clock?/ruler?)	
+5	Is the object used in an(office setting?/kitchen setting?)	Is the object a(grinder?/lathe?)	Is the object a drill(press?/press?)	Is the object a digital(caliper?/multimeter?)	Is the object a(microscope?/level?)	
+0	
+4	Is the object used for(entertainment?/communication?)	Is the object a(phone?/computer?)	Is the object a(computer?/radio?)	Is the object a(radio?/walkie-talkie?)	
+0	
+0	
+1	Is the object(electronic?/portable?)	
+12	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	
+1	Is the object made of(glass?/metal?)	
+4	Is the object a(printer?/computer?)	Is the object related to(manufacturing?/security?)	Is the object a(dishwasher?/refrigerator?)	Is the object a(refrigerator?/copier?)	
+4	Is the object a(book?/document?)	Is the object a(flyer?/newspaper?)	Is the document a(ticket?/calendar?)	Is the document a(calendar?/certificate?)	
+14	Is the object(living?/man-made?)	Is the object used for(digging?/cutting?)	Is the object a(key?/knife?)	Is the object a(knife?/screwdriver?)	Is the object a(weapon?/sword?)	Is the object a(sword?/dagger?)	Is the object a(dagger?/dart?)	Is the object a(dart?/bullet?)	Is the object a(nail?/pin?)	Is the object a(needle?/spearhead?)	Is the object a(spearhead?/bayonet?)	Is the object a(staple?/blade?)	Is the object a(blade?/thumbtack?)	Is the object a(paperclip?/tack?)	
+2	Is the object used by a(government entity?/business?)	Is the object used for(tourism?/humanitarian aid?)	
+2	Is the object used for(communication?/transportation?)	Is the object used for(transportation?/storing things?)	
+10	Is the object a(door?/window?)	Is the object a(window?/bumper?)	Is the object a(bumper?/mirror?)	Is the object the(hood?/chassis?)	Is the object a(spoiler?/fender?)	Is the object a(wing?/deflector?)	Is the object attached to the front of the(vehicle?/vehicle?)	Is the object attached to the rear of the(vehicle?/vehicle?)	Is the object attached to the side of the(vehicle?/vehicle?)	Is the object something that can be(folded?/rotated?)	
+1	Is the object a(vehicle?/tool?)	
+1	Is the object a(doorbell?/walkie-talkie?)	
+0	
+2	Is the object used for(cooking?/cleaning?)	Is the object used for(cleaning?/temperature control?)	
+1	Is the object commonly found in a(kitchen?/bathroom?)	
+0	
+14	Is the object used for(communication?/transportation?)	Is the object used for(transportation?/construction?)	Is the tool used for(cutting?/striking?)	Is the tool used for(striking?/fastening?)	Is the tool used for(fastening?/measuring?)	Is the tool used in a(kitchen?/workshop?)	Is the tool used in(a workshop?/an office?)	Is the tool used in a(medical setting?/garden?)	Is the tool used for(recreation?/sport?)	Is the tool used in a sport that involves(a ball?/water?)	Is the tool used in a sport that involves(water?/a track?)	Is the object a(scope?/trigger?)	Is the object a(trigger?/barrel?)	Is the object a(hammer?/bullet?)	
+1	Is the object used for(transportation?/processing information?)	
+8	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+5	Is the vehicle a(car?/train?)	Is the vehicle a(train?/plane?)	Is the plane a(helicopter?/glider?)	Is the plane a(glider?/small)	No.(/)	
+0	
+5	Is the object typically found(indoors?/in nature?)	Is the object a part of a vehicle's(suspension system?/braking system?)	Is the object a(piston?/crankshaft?)	Is the object a(crankshaft?/valve?)	Is the object a(valve?/gear?)	
+0	
+5	Is the object a(stapler?/telephone?)	Is the object a(wastebasket?/printer?)	Is the object used to cut(paper?/tape?)	Is the object a plastic(stencil cutter?/seam ripper?)	Is the object a plastic(seam ripper?/safety cutter?)	
+1	Is the boat used for recreational(purposes?/purposes?)	
+15	Is the object used for(transportation?/communication?)	Is the object used for(communication?/construction?)	Is the object used to(measure something?/cut something?)	Is the weapon a(sword?/knife?)	Is the weapon a(knife?/hammer?)	Is the weapon a(hammer?/club?)	Is the weapon a(club?/mace?)	Is the weapon a(mace?/bludgeon?)	Is the weapon a(bludgeon?/flail?)	Is the weapon made mostly of(iron?/steel?)	Is the weapon a(poleaxe?/hatchet?)	Is the weapon a(hatchet?/tomahawk?)	Is the weapon designed to be(thrown?/swung?)	Is the object a fencing(foil?/epee?)	Is the object a fencing(epee?/sabre?)	
+1	Is the object used for(communication?/transportation?)	
+1	Is the vehicle a(rocket?/glider?)	
+26	Yes.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+0	
+3	Is the object used to measure(length?/weight?)	Is the object used to measure(weight?/time?)	Is the object used to measure(time?/temperature?)	
+0	
+4	Is the object a(car?/boat?)	Is the object a(tugboat?/submarine?)	Is the boat a(canoe?/rowboat?)	Is the object a(sternwheeler?/side-wheeler?)	
+4	Is the object a(vehicle?/car?)	Is the boat used for(commercial purposes?/fishing?)	Is the passenger ship a(ferry?/river boat?)	Is the passenger ship a(river boat?/cruise ship?)	
+0	
+0	
+5	Is the passenger car a light rail(car?/car?)	Is the passenger car a commuter rail(car?/car?)	Is the passenger car a high-speed(rail car?/passenger car?)	Is the passenger car used for long distance(travel?/travel?)	Is the light rail car used in a city with a large(university?/population?)	
+22	Is the object a(tower?/dam?)	Is the object a(dam?/fence?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+0	
+0	
+5	Is the object used on(water?/land?)	Is the object used on(land?/roads?)	Is the object a(car?/bus?)	Is the object used to move(cargo?/people?)	Is the object a farming(vehicle?/vehicle?)	
+1	Is the object a(pipe?/container?)	
+0	
+1	Is the object used for(transportation?/communication?)	
+0	
+0	
+0	
+1	Is the object used for(communication?/entertainment?)	
+12	Is the object used for(communication?/storage?)	Is the object used for(storage?/entertainment?)	Is the object used for(entertainment?/food preparation?)	Is the object used for(food preparation?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object used for(sitting?/sleeping?)	Is the object used for(eating?/drinking?)	Is the object used for(drinking?/measuring?)	Is the object primarily made of(plastic?/wood?)	Is the object a measuring(cup?/spoon?)	Is the object a measuring(tape?/jug?)	Is the object used for measuring dry(ingredients?/ingredients?)	
+0	
+1	Is the object a(car?/train?)	
+1	Is the object a(modem?/router?)	
+0	
+17	Is the vehicle a(train?/bus?)	Is the vehicle a(bus?/motorcycle?)	Is the vehicle a(motorcycle?/bicycle?)	Is the vehicle a(bicycle?/truck?)	Is the vehicle a(boat?/scooter?)	Is the vehicle a(scooter?/tank?)	Is the vehicle a(unicycle?/skateboard?)	Is the vehicle a(skateboard?/wagon?)	Is the vehicle a(wagon?/rickshaw?)	Is the object a(wheel?/chassis?)	Is the object a component of a(bicycle?/car?)	Is the object a component of a(car?/train?)	Is it pulled by a(horse?/tractor?)	Is it pulled by a(tractor?/train engine?)	Is it pulled by a(train engine?/boat?)	Is the object a(trailer?/sled?)	Is the object a sled?(/)	
+0	
+2	Is the object a(vehicle?/truck?)	Is the object a(winch?/trailer?)	
+2	Is the object a(flashlight?/toy?)	Does the object have a(speaker?/microphone?)	
+2	Is the object a(tool?/toy?)	Is the case used for(storage?/storing clothing?)	
+3	Is the object a(television?/VCR?)	Is the object a video camera?(/)	Is the object a tape(recorder?/recorder?)	
+1	Is the object used on(roads?/water?)	
+5	Is the object a(vehicle?/train?)	Is the object a(train?/car?)	Is the object a(car?/boat?)	Is the boat used for(commercial fishing?/military purposes?)	Is the boat a(submarine?/warship?)	
+0	
+27	Is it a(rowboat?/sailboat?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	Yes.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+0	
+16	Is the object primarily black in(color?/color?)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	No.(/)	
+2	Is the boat a(speedboat?/sailboat?)	Is the boat a(sailboat?/yacht?)	

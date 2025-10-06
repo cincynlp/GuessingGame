@@ -1,0 +1,858 @@
+0	
+0	
+0	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+1	?(/)	
+0	
+0	
+2	?(/)	?(/)	
+1	?(/)	
+0	
+0	
+13	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+3	Guesser said(/)	Guesser said(/)	Guesser said(/)	
+0	
+0	
+0	
+2	What is the object's(shape?/size?)	What is the object's(size?/color?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	?(/)	?(/)	?(/)	?(/)	What is the object you are thinking of?(/)	
+0	
+0	
+0	
+0	
+0	
+3	What is the object's(shape?/category?)	What is the object's(category?/location?)	What is the object's(location?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+1	.?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+4	What is the function of the(object?/object?)	What is the shape of the(object?/object?)	?(/)	What is your first question?(/)	
+0	
+0	
+0	
+0	
+1	What is the primary function of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+2	?(/)	?(/)	
+0	
+0	
+1	Guesser said(/)	
+0	
+0	
+0	
+2	What is the function of the(object?/object?)	What is the category of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+6	.?(/)	.?(/)	.?(/)	.?(/)	.?(/)	.?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+6	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+19	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+3	What is the object's(shape?/size?)	What is the object's(size?/color?)	What is the object's(shape?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the category of the object?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+2	What is the object's(location?/shape?)	What is the object's(shape?/color?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the primary function of the(object?/object?)	What is the primary material of the(object?/object?)	
+0	
+0	
+2	.?(/)	What is the object's primary(material composition?/function?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the function of the(object?/object?)	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	What is the shape of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+9	?(/)	?(/)	?(/)	Is the object a(hat?/cape?)	Is the object a(cape?/shawl?)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the shape of the(object?/object?)	
+0	
+0	
+1	.?(/)	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+2	.?(/)	.?(/)	
+0	
+1	What is the function of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+6	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+7	What is the object's(category?/location?)	What is the object's(location?/color?)	Guesser said(/)	Guesser said(/)	Guesser said(/)	?(/)	?(/)	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the location of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+1	What is the primary function of the(object?/object?)	
+4	?(/)	?(/)	?(/)	?(/)	
+0	
+1	?(/)	
+0	
+0	
+13	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+1	What is the object's(shape?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+4	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+10	Is it used for(storage?/transportation?)	No.?(/)	No.?(/)	Is it a type of road surface?(/)	Is it used for walking or driving on?(/)	Is it used for walking or driving on?(/)	No.?(/)	No.?(/)	Is it a type of surface?(/)	Is it a type of surface used for roads or paths?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	What is the object's(shape?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the function of the(object?/object?)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+8	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+1	What is the shape or form of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+1	What is the primary function of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+7	?(/)	?(/)	What is the object's(shape?/size?)	What is the object's(category?/location?)	What is the object's(location?/material?)	What is the object's(material?/shape?)	What is the object's(shape?/size?)	
+0	
+2	What is the object's primary category?(/)	What is the object's primary category?(/)	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+9	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(size?/color?)	Is it a type of(material?/tool?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+1	?(/)	
+1	?(/)	
+4	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/color?)	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+4	What is the object's(location?/color?)	What is the object's(shape?/size?)	?(/)	What is the object's(weight?/brand?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(category?/location?)	What is the object's(location?/shape?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	.?(/)	.?(/)	.?(/)	.?(/)	
+0	
+0	
+0	
+0	
+0	
+1	.?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	What is the shape of the(object?/object?)	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+6	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+4	?(/)	?(/)	?(/)	?(/)	
+1	?(/)	
+0	
+17	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's category?(/)	What is the object's category?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+4	What is the primary function of the(object?/object?)	What is the primary material of the(object?/object?)	What is the primary function of the(object?/object?)	What is the primary function of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+6	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	.?(/)	.?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+13	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the shape of the(object?/object?)	
+7	Guesser said(/)	Guesser said(/)	Guesser said(/)	Guesser said(/)	Guesser said(/)	Guesser said(/)	Guesser said(/)	
+0	
+0	
+0	
+6	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+0	
+21	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+1	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	.?(/)	.?(/)	
+0	
+2	?(/)	?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+8	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	?(/)	
+0	
+0	
+0	
+0	
+1	?(/)	
+0	
+0	
+2	Guesser said(/)	Guesser said(/)	
+0	
+0	
+0	

@@ -1,0 +1,858 @@
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(seating?/storage?)	Is the object used for(decoration?/transportation?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for writing(or drawing?/or storage?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+0	
+1	Is the object used for(transportation?/recreational purposes?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of jacket(or coat?/or pullover?)	Is the object a type of(undergarment?/accessory?)	Is the object a(scarf?/tie?)	Is the object a(tie?/necklace?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+0	
+13	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object primarily made of a synthetic(material?/material?)	Is the object primarily used in a scientific(or medical setting?/or educational setting?)	Is the object primarily used in an office(or educational setting?/or entertainment setting?)	Is the object used in a technological or(electronic context?/food-related context?)	Is the object used in a culinary or(food-related context?/fitness context?)	Is the object a type of uniform or clothing associated(with safety or security?/to safety or security?)	Is the object a type of safety or security(footwear?/eyewear?)	Is the object a type of safety or security(eyewear?/headgear?)	
+0	
+2	Is the object used for cleaning(floors?/clothes?)	Is the object used for cleaning(clothes?/dishes?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+0	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+0	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for comfort(or relaxation?/or organization?)	Is the object used in a bedroom(setting?/setting?)	
+0	
+0	
+0	
+0	
+17	Is the tool a(wrench?/screwdriver?)	Is the tool a(screwdriver?/hammer?)	Is the tool a(hammer?/clamp?)	Is the tool a nail(gun?/gun?)	Is the tool a(pliers?/level?)	Is the tool a(crowbar?/chisel?)	Is the tool a(sledgehammer?/vise?)	Is the tool a(vise?/pulley?)	Is the tool a(pulley?/shovel?)	Is the tool a(shovel?/level?)	Is the tool a(level?/hoist?)	Is the tool a(hoist?/wheelbarrow?)	Is the tool a(wheelbarrow?/ratchet?)	Is the tool a(pickaxe?/scaffold?)	Is the tool a(scaffold?/tongs?)	Is the tool a(tongs?/chainsaw?)	Is the tool a(chainsaw?/come-along?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object a type of mulch(or compost?/or tree?)	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object used for construction or(building purposes?/baking purposes?)	Is the object used for cooking or(baking purposes?/bathroom purposes?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a(sweater?/hoodie?)	Is the object a(hoodie?/jacket?)	Is the object a(jacket?/coat?)	Is the object a(coat?/sweatshirt?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+7	Is the object used for(transportation?/recreational purposes?)	Is the object used in construction(or building?/or gardening?)	Is the object used for maintenance(or repair?/or protection?)	Is the object used for measuring(or monitoring?/or sanitation?)	Is the object used in the field of art(or craftsmanship?/or building?)	Is the object used for surveillance(or monitoring?/or control?)	Is the object used for restraint(or control?/or protection?)	
+4	Is the object typically found in(a bedroom?/a bathroom?)	Is the object related to a(musical activity?/artistic activity?)	Is the object used for measuring(or marking?/or molding?)	Is the object used in(paper crafting?/jewelry making?)	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a glass(bottle?/jar?)	Is the object a glass(jar?/vase?)	Is the object a glass(vase?/pitcher?)	Is the object a glass(pitcher?/aquarium?)	Is the object a glass(aquarium?/beaker?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/feet?)	Is the object typically worn on the(feet?/head?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object a wooden(bed slat?/bookshelf?)	Is the object a wooden(bookshelf?/mirror frame?)	Is the object a wooden(picture frame?/jewelry box?)	Is the object a wooden(jewelry box?/clock?)	Is the object a wooden(clock?/bed canopy?)	Is the object a wooden(headboard?/rocking chair?)	Is the object a wooden(rocking chair?/curtain rod?)	Is the object a wooden(curtain rod?/crib?)	
+0	
+0	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of jacket(or coat?/or sweatshirt?)	Is the object a type of(undergarment?/accessory)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+0	
+0	
+0	
+2	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/decoration?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of fabric(or textile?/or cardboard?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for electronic(purposes?/purposes?)	Is the object used for(household purposes?/recreational activities?)	Is the object used in(sports?/water sports?)	Is the object used in water(sports?/sports?)	Is the object used in a sport played(indoors?/on a field?)	Is the object a(javelin?/discus?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(pillow?/blanket?)	
+6	Is the object used for calculating(or measuring?/or maintenance?)	Is the object used for binding(or fastening?/or slicing?)	Is the object used for packaging(or wrapping?/or comfort?)	Is the object used for any kind of(measurement?/marking or labeling?)	Is the object used for any kind of marking(or labeling?/or closing?)	Is the object used for any kind of sealing(or closing?/or categorizing?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the animal a(mammal?/bird?)	Is the animal a(bird?/reptile?)	Is the snake a(constrictor?/python?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of ceramic(or clay?/or concrete?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object used for decoration or(celebration purposes?/hygiene purposes?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for writing(or drawing?/or storage?)	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+4	Is the object used for repair(or maintenance?/or leisure?)	Is the object used for entertainment(or leisure?/or protection?)	Is the object used in a(bedroom?/kitchen?)	Is the object used in a(kitchen?/living room?)	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+3	Is the object used in a(bathroom?/bedroom?)	Is the object used in a(bedroom?/living room?)	Is the object used in a dining(room?/room?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+4	Is the object used for maintenance(or repair?/or organization?)	Is the object used for entertainment(or leisure?/or security?)	Is the object a type of sculpture(or figurine?/or accessory?)	Is the object a(ring?/bracelet?)	
+19	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for(oral hygiene?/skincare?)	Is the object used for(skincare?/hair care?)	Is the object used for(shaving?/nail care?)	Is the object used for(nail care?/personal grooming?)	Is the object used for(personal grooming?/feminine hygiene?)	Is the object used for feminine(hygiene?/hygiene?)	Is the object used for(hand hygiene?/foot care?)	Is the object used for ear(care?/care?)	Is the object used for(eye care?/personal protection?)	Is the object a(toothbrush?/toothpaste?)	Is the object a(toothpaste?/mouthwash?)	Is the object a dental(mirror?/drill?)	Is the object a dental(drill?/scaler?)	Is the object a dental(scaler?/impression tray?)	
+7	Is the object made of(plastic?/metal?)	Is the object made of(metal?/wood?)	Is the object made of(wood?/glass?)	Is the object a(shirt?/jacket?)	Is the object a(jacket?/sweater?)	Is the object a(sweater?/scarf?)	Is the object a(scarf?/bra?)	
+0	
+0	
+1	Is the object used in a(household setting?/industrial setting?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a synthetic(material?/material?)	Is the object commonly used in(roofing?/flooring?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+4	Is the object a(trumpet?/trombone?)	Is the object a(tuba?/euphonium?)	Is the object a(euphonium?/cornet?)	Is the object a(cornet?/flugelhorn?)	
+0	
+0	
+3	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object a(stapler?/paperclip?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	
+3	Is the object used for(sitting?/storage?)	Is the object used for(storage?/cleaning?)	Is the object a(pillow?/blanket?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object used in a(bedroom?/living room?)	
+0	
+0	
+0	
+0	
+1	Is the object used for cleaning(or maintenance?/or leisure?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of shirt(or blouse?/or coat?)	Is the object a type of jacket(or coat?/or sweatshirt?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of curtain(or drapery?/or carpet?)	
+16	Is the object made of(wood?/plastic?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/glass?)	Is the object a fabric storage(bag?/bag?)	Is the object a fabric(laundry bag?/storage ottoman?)	Is the object a fabric(suitcase?/luggage bag?)	Is the object a fabric carry-on luggage(bag?/bag?)	Is the object a fabric carry-on(duffel bag?/backpack?)	Is the object a fabric carry-on(backpack?/tote bag?)	Is the object a fabric carry-on(tote bag?/rolling suitcase?)	Is the object a fabric carry-on(rolling suitcase?/garment bag?)	Is the object a fabric carry-on garment(bag?/bag?)	Is the object a fabric carry-on travel bag with(wheels?/a shoulder strap?)	Is the object a fabric carry-on travel bag with(a shoulder strap?/handles?)	Is the object a fabric carry-on weekender(bag?/bag?)	Is the object a fabric carry-on duffle(bag?/bag?)	
+3	Is the object a(bicycle?/cart?)	Is the object a(cart?/wagon?)	Is the object a(wagon?/skateboard?)	
+0	
+14	Is the object a(cart?/wheelbarrow?)	Is the object a(rickshaw?/scooter?)	Is the object a sports(equipment cart?/whistle cart?)	Is the object used in(tennis?/soccer?)	Is the object used in(soccer?/golf?)	Is the object used in(golf?/baseball?)	Is the object used in(baseball?/basketball?)	Is the object used in(basketball?/hockey?)	Is the object used in(hockey?/cycling?)	Is the object used in winter(sports?/sports?)	Is the object used in(water sports?/motorsports?)	Is the object used in(motorsports?/equestrian sports?)	Is the object a horse-drawn sleigh used in(equestrian sports?/equestrian events?)	Is the object a horse-drawn vehicle used in combined(driving events?/driving competitions?)	
+2	Is the object used for sitting(or resting?/or organization?)	Is the object used for storage(or organization?/or drawing?)	
+6	Is the object used in a(bathroom?/living room?)	Is the object used in a(living room?/bedroom?)	Is the object used in a dining(room?/room?)	Is the object used in a basement(or attic?/or entryway?)	Is the object used in a classroom or(educational setting?/healthcare setting?)	Is the object used in a medical or(healthcare setting?/spiritual setting?)	
+6	Is the object primarily made of(wood?/plastic?)	Is the object primarily made of(plastic?/metal?)	Is the object primarily made of(metal?/fabric?)	Is the object primarily made of(fabric?/glass?)	Is the object primarily made of(glass?/paper?)	Is the object a(newspaper?/magazine?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+5	Is the object used for(storage purposes?/sitting?)	Is the object used for(sitting?/decorative purposes?)	Is the object a musical(instrument?/instrument?)	Is the object a(guitar?/violin?)	Is the object a(violin?/cello?)	
+0	
+1	Is the object a(sidewalk?/foundation?)	
+0	
+0	
+1	Is the object used for storage(or organization?/or comfort?)	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a(plant-based material?/animal-based material?)	Is the object primarily made of an(animal-based material?/mineral-based material?)	Is the object primarily made of a crystalline(material?/material?)	Is the object used in industrial or(manufacturing settings?/laboratory settings?)	
+0	
+1	Is the vehicle used in(water?/the air?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object a set(of dice?/of cards?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+0	
+0	
+6	Is the object a chef's(knife?/knife?)	Is the object a butter(knife?/knife?)	Is the object a paring(knife?/knife?)	Is the object a steak(knife?/knife?)	Is the object a bread(knife?/knife?)	Is the object a carving(knife?/knife?)	
+0	
+0	
+0	
+5	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	Is the object typically worn on the(head?/feet?)	Is the object typically worn on(the feet?/the neck?)	Is the object typically worn around(the neck?/the hands?)	
+1	Is the object used in any form of outdoor(lighting?/measurement or surveying?)	
+0	
+23	Is the object used for(transportation?/recreational purposes?)	Is the object primarily made of(metal?/wood?)	Is the object primarily made of(wood?/concrete?)	Is the object primarily made of(concrete?/plastic?)	Is the object primarily made of(plastic?/glass?)	Is the object primarily made of(glass?/brick?)	Is the object primarily made of(brick?/stone?)	Is the object a granite(tile?/tile?)	Is the object a marble(tile?/tile?)	Is the object a slate(tile?/tile?)	Is the object a limestone(tile?/tile?)	Is the object a travertine(tile?/tile?)	Is the object a sandstone(tile?/tile?)	Is the object a quartzite(tile?/tile?)	Is the object a basalt(tile?/tile?)	Is the object a terracotta(tile?/tile?)	Is the object a ceramic(tile?/tile?)	Is the object a soapstone(tile?/tile?)	Is the object a onyx(tile?/tile?)	Is the object a bluestone(tile?/tile?)	Is the object a pebble(tile?/tile?)	Is the object a flagstone(tile?/tile?)	Is the object a quartz(tile?/tile?)	
+12	Is the object used for heating(food?/food?)	Is the object a(blender?/juicer?)	Is the object a tea(maker?/maker?)	Is the object a water(dispenser?/dispenser?)	Is the object a wine(dispenser?/dispenser?)	Is the object a juice(dispenser?/dispenser?)	Is the object a milk(dispenser?/dispenser?)	Is the object a kombucha(dispenser?/dispenser?)	Is the object a tea(dispenser?/dispenser?)	Is the object a smoothie(dispenser?/dispenser?)	Is the object a lemonade(dispenser?/dispenser?)	Is the object a hot cider(dispenser?/dispenser?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+1	Is the object used in a(household setting?/industrial setting?)	
+0	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a(chair?/bench?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object used for dental(care?/care?)	Is the object used for(hair care?/skincare?)	Is the object used for(personal grooming?/hand hygiene?)	Is the object used for(hand hygiene?/foot care?)	Is the object used for(foot care?/personal protection?)	Is the object a rubber(glove?/mask?)	Is the object a rubber(mask?/band?)	Is the object a rubber(band?/condom?)	
+1	Is the object used in a(bedroom?/bathroom?)	
+33	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of(bamboo?/cotton?)	Is the object primarily made of a type of plant(fiber?/resin or sap?)	Is the object primarily made of a type of plant-based(wax?/oil?)	Is the object primarily made of a type of plant-based(rubber or latex?/composite material?)	Is the object primarily made of a type of plant-based(composite material?/glue or adhesive?)	Is the object primarily made of a type of plant-based(glue or adhesive?/foam?)	Is the object primarily made of a type of plant-based(foam?/dye or pigment?)	Is the object primarily made of a type of plant-based dye(or pigment?/or husk?)	Is the object primarily made of a type of plant-based shell(or husk?/or dust?)	Is the object primarily made of a type of plant-based(powder or dust?/liquid?)	Is the object primarily made of a type of plant-based(liquid?/solid?)	Is the object primarily made of a type of plant-based material used in construction(or building?/or art?)	Is the object primarily made of a type of plant-based material used in crafts(or art?/or agriculture?)	Is the object primarily made of a type of plant-based material used in gardening(or agriculture?/or industry?)	Is the object primarily made of a type of plant-based material used in(manufacturing or industry?/household items?)	Is the object primarily made of a type of plant-based material used in(household items?/personal care or hygiene products?)	Is the object primarily made of a type of plant-based material used in(personal care or hygiene products?/transportation or vehicles?)	Is the object primarily made of a type of plant-based material used in transportation(or vehicles?/or electronics?)	Is the object primarily made of a type of plant-based material used in(technology or electronics?/packaging?)	Is the object primarily made of a type of plant-based material used in(packaging?/clothing or fashion?)	Is the object primarily made of a type of plant-based material used in(clothing or fashion?/furniture?)	Is the object primarily made of a type of plant-based material used in(furniture?/musical instruments?)	Is the object primarily made of a type of plant-based material used in(musical instruments?/sports equipment?)	Is the object primarily made of a type of plant-based material used in(sports equipment?/toys or games?)	Is the object primarily made of a type of plant-based material used in toys(or games?/or health products?)	Is the object primarily made of a type of plant-based material used in(medical or health products?/art supplies?)	Is the object primarily made of a type of plant-based material used in(art supplies?/cleaning products?)	Is the object primarily made of a type of plant-based material used in(cleaning products?/office supplies?)	Is the object primarily made of a type of plant-based material used in(office supplies?/pet products?)	
+2	Is the object a(printer?/scanner?)	Is the object a(scanner?/photocopier?)	
+1	Is the object used for(storage?/cleaning?)	
+23	Is the object a type of(shorts?/overalls?)	Is the object a type of(outerwear?/footwear?)	Is the object a type of(footwear?/leg warmer?)	Is the object a type of(leg warmer?/undergarment?)	Is the object a type of(undergarment?/jumpsuit?)	Is the object a type of(jumpsuit?/legging?)	Is the object a type of(legging?/accessory?)	Is the object a type of(accessory?/dress?)	Is the object a type of(dress?/hat?)	Is the object a type of(hat?/onesie?)	Is the object a type of(onesie?/apron?)	Is the object a type of(apron?/costume?)	Is the object a type of(costume?/traditional clothing?)	Is the object a type of(traditional clothing?/suit?)	Is the object a type of(suit?/sportswear?)	Is the object a type of(sportswear?/sleepwear?)	Is the object a type of(sleepwear?/uniform?)	Is the object a type of(uniform?/bib?)	Is the object a type of(bib?/kilt?)	Is the object a type of(kilt?/chaps?)	Is the object a type of(chaps?/gaiters?)	Is the object a type of(gaiters?/culottes?)	Is the object a type of(culottes?/breeches?)	
+5	Is the object used for food(preparation?/storage?)	Is the object used for(cleaning purposes?/cooking?)	Is the object used for cutting(or slicing?/or stirring?)	Is the object a can(opener?/opener?)	Is the object a bottle(opener?/opener?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for comfort(or decoration?/or resting?)	Is the object a(pillow?/blanket?)	Is the object a(blanket?/mattress?)	Is the object a(mattress?/bedsheet?)	Is the object a bed(canopy?/skirt?)	
+0	
+0	
+0	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for cleaning or(hygiene purposes?/entertainment purposes?)	
+10	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object a wooden(bookshelf?/clock?)	Is the object a wooden(clock?/bed slat?)	Is the object a wooden(bed slat?/mirror frame?)	Is the object a wooden(mirror frame?/jewelry box?)	Is the object a wooden(bed post?/curtain rod?)	Is the object a wooden(curtain rod?/crib?)	
+0	
+17	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object used in a(bedroom?/living room?)	Is the object used in a(living room?/bathroom?)	Is the object used for measuring(or marking?/or shaping?)	Is the object a(clamp?/vise?)	Is the object a wooden(sawhorse?/workbench?)	Is the object a wooden(pegboard?/mallet?)	Is the object a wooden(ladder?/sawhorse bracket?)	Is the object a wooden(sawhorse bracket?/wedge?)	Is the object a wooden(wedge?/shelf bracket?)	Is the object a wooden(pallet?/clamp?)	Is the object a wooden(joist?/stud?)	Is the object a wooden(brace?/rafter?)	Is the object a wooden beam used(in construction?/for framing?)	
+0	
+0	
+3	Is the object used for(entertainment purposes?/storage?)	Is the object used for seating(or sleeping?/or productivity?)	Is the object used for(administering medication?/physical therapy?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of curtain(or drapery?/or carpet?)	
+0	
+9	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for(communication purposes?/transportation?)	Is the object used for(transportation?/household purposes?)	Is the object used in a specific(sport?/sport?)	Is the object used in a sport that involves(wheels?/aiming or shooting?)	
+1	Is the object primarily made of(metal?/plastic?)	
+3	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object a door(lock?/lock?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(t-shirt?/sweatshirt?)	Is the object a(sweatshirt?/hoodie?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object used for(oral hygiene?/skincare?)	Is the object a plastic(razor handle?/mirror?)	Is the object a plastic(hair roller?/makeup organizer?)	Is the object a plastic(makeup organizer?/shower caddy?)	Is the object a plastic(eyelash curler?/headband?)	Is the object a plastic(headband?/massager?)	Is the object a plastic(bath mat?/lotion applicator?)	Is the object a plastic(lotion applicator?/toothbrush?)	Is the object a plastic(toothbrush?/shower puff?)	Is the object a plastic(shower puff?/tongue scraper?)	Is the object a plastic makeup(brush holder?/applicator?)	
+2	Is the object primarily made of(metal?/wood?)	Is the object used for(sitting?/storage?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object used for(storage purposes?/cleaning?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a microfiber cleaning(cloth?/cloth?)	
+1	Is the object used for(measuring ingredients?/cleaning purposes?)	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+14	Is the object used for storage(or organization?/or comfort?)	Is the object used for relaxation(or comfort?/or maintenance?)	Is the object used for listening(or speaking?/or alerting?)	Is the object used in(emergencies?/transportation?)	Is the object a(whistle?/doorbell?)	Is the object a(doorbell?/horn?)	Is the object a(horn?/gong?)	Is the object a(buzzer?/flag?)	Is the object a(flag?/semaphore?)	Is the object a(siren?/megaphone?)	Is the object a(megaphone?/clapper?)	Is the object a(lighthouse?/pager?)	Is the object a(pager?/mirror?)	Is the object a hand(signal?/signal?)	
+6	Is the object used for(cleaning purposes?/lighting?)	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(bathroom?/living room?)	Is the object used in a dining(room?/room?)	Is the object a(doorknob?/doorstop?)	Is the object a(doorstop?/doorbell?)	
+0	
+2	Is the object used for(outdoor activities?/transportation?)	Is the object made of(metal?/wood?)	
+0	
+2	Is the object used for(sitting?/storage?)	Is the object used for sleeping(or resting?/or studying?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object a wooden(cabinet?/shelf?)	Is the object a wooden(wardrobe?/bookcase?)	Is the object a wooden(bookcase?/dresser?)	
+2	Is the object used in a board(game?/game?)	Is the object a musical(instrument?/instrument?)	
+2	Is the object used for(sitting?/storage?)	Is the object used for(storage?/cleaning?)	
+0	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for(decoration?/cleaning purposes?)	Is the object a(blanket?/pillow?)	Is the object a(pillow?/bedsheet?)	
+0	
+5	Is the object used for(sitting?/storage?)	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/decoration?)	Is the object made of(glass?/wood?)	Is the object made of(wood?/metal?)	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of(glass?/fabric?)	Is the object primarily made of(fabric?/paper?)	Is the object used for(reading?/decoration?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+0	
+0	
+0	
+2	Is the object used for(communication?/entertainment?)	Is the object used for lighting(or illumination?/or surveillance?)	
+0	
+4	Is the object used for(entertainment purposes?/cleaning?)	Is the object used for(cleaning?/storage?)	Is the object a(scarf?/hat?)	Is the object a(beret?/fedora?)	
+3	Is the object used for gardening(or landscaping?/or protection?)	Is the object a sack or bag used for transporting(fertilizer?/animal feed?)	Is the object a burlap(feed sack?/feed bag?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	
+1	Is the object used for(storage?/cleaning?)	
+0	
+0	
+1	Is the object used for(transportation?/recreational activities?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+1	Is the object a(cobblestone?/flagstone?)	
+0	
+0	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object used for relaxation(or comfort?/or wrapping?)	Is the object used for packaging(or wrapping?/or baking?)	Is the object used for cooking(or baking?/or organizing?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for writing(or drawing?/or storage?)	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+0	
+0	
+6	Is the object used for writing(or drawing?/or maintenance?)	Is the object used for(grooming?/medical purposes?)	Is the object used to cover(wounds?/wounds?)	Is the object used to(relieve pain?/stop bleeding?)	Is the object a(syringe?/stethoscope?)	Is the object a medical(splinter remover?/face shield?)	
+2	Is the object used for holding or(containing food?/cooking food?)	Is the object used for heating or(cooking food?/serving food?)	
+5	Is the object primarily made of(wood?/plastic?)	Is the object primarily made of(plastic?/metal?)	Is the object primarily made of(metal?/fabric?)	Is the object a(sofa?/chair?)	Is the object a(chair?/bed?)	
+3	Is the object used for(transportation?/recreational purposes?)	Is the object made of(metal?/wood?)	Is the object made of(wood?/concrete?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object a type of(skirt?/dress?)	Is the object a type(of undergarment?/of panties?)	
+0	
+9	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object a wooden(clock?/doorstop?)	Is the object a wooden(pencil holder?/mouse pad?)	Is the object a wooden(file cabinet?/calendar?)	Is the object a wooden(calendar?/paper tray?)	Is the object a wooden(paper tray?/stapler?)	Is the object a wooden(stapler?/gavel?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object a(cone?/flag?)	
+16	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a glass(bottle?/mug?)	Is the object a glass(mug?/tumbler?)	Is the object a glass(tumbler?/pitcher?)	Is the object a glass(pitcher?/vase?)	Is the object a glass(vase?/jar?)	Is the object a glass(jar?/decanter?)	Is the object a glass(decanter?/teapot?)	Is the object a glass(teapot?/carafe?)	Is the object a glass(carafe?/beaker?)	Is the object a glass(beaker?/flask?)	Is the object a glass(flask?/stein?)	Is the object a glass(stein?/chalice?)	Is the object a glass(chalice?/goblet?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+4	Is the object used for(sitting?/storage?)	Is the object used for(storage?/cleaning?)	Is the object used for entertainment(or leisure?/or productivity?)	Is the object used for(sleeping?/lighting?)	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object laminate(flooring?/flooring?)	
+0	
+0	
+19	Is the object used for(sterilization purposes?/providing anesthesia?)	Is the object a surgical(drill?/retractor?)	Is the object a surgical(retractor?/needle holder?)	Is the object a surgical(needle holder?/stapler?)	Is the object a surgical(probe?/scissors?)	Is the object a surgical(catheter?/gown?)	Is the object a surgical(gown?/glove?)	Is the object a surgical(glove?/drape?)	Is the object a surgical(drape?/suction device?)	Is the object a surgical(suction device?/implant?)	Is the object a surgical(implant?/suture kit?)	Is the object a surgical(suture kit?/stapling device?)	Is the object a surgical(stapling device?/laser?)	Is the object a surgical(laser?/microscope?)	Is the object a surgical(microscope?/tourniquet?)	Is the object a surgical(tourniquet?/clamp?)	Is the object a surgical(clamp?/endoscope?)	Is the object a surgical(endoscope?/retractor?)	Is the object a surgical(retractor?/aspirator?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(hat?/headband?)	Is the object a(headband?/scarf?)	Is the object a type of headwear used for(warmth?/protection?)	
+0	
+0	
+1	Is the object made of(wood?/plastic?)	
+0	
+7	Is the object part of the vehicle's(engine?/exterior?)	Is the object part of the vehicle's(exterior?/interior?)	Is the object part of the vehicle's(interior?/undercarriage?)	Is the object part of the vehicle's electrical(system?/system?)	Is the object part of the vehicle's braking(system?/system?)	Is the object part of the vehicle's fuel(system?/system?)	Is the object a steering(wheel?/column?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+21	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a musical(instrument?/instrument?)	Is the object a(guitar?/violin?)	Is the object a(violin?/cello?)	Is the object a(harp?/ukulele?)	Is the object a(ukulele?/banjo?)	Is the object a(banjo?/mandolin?)	Is the object a(mandolin?/lute?)	Is the object a(lute?/sitar?)	Is the object a(sitar?/dulcimer?)	Is the object a(dulcimer?/zither?)	Is the object a(zither?/balalaika?)	Is the object a(balalaika?/lyre?)	Is the object a(piano?/hurdy-gurdy?)	Is the object a(hurdy-gurdy?/koto?)	Is the object a(koto?/clavichord?)	Is the object a(clavichord?/shamisen?)	Is the object a(shamisen?/viola?)	Is the object a(bouzouki?/bassoon?)	Is the object a(bassoon?/harpischord?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for writing(or drawing?/or storage?)	Is the object a type(of box?/shipping box?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a plant-based(material?/material?)	Is the object primarily made of a(mineral-based material?/animal-based material?)	Is the object primarily made of an(animal-based material?/synthetic material?)	
+0	
+0	
+0	
+0	
+1	Is the object a(pen?/pencil?)	
+2	Is the object used for cleaning(or maintenance?/or leisure?)	Is the object used for entertainment(or leisure?/or productivity?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+10	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a(kilt?/sarong?)	Is the object a(sarong?/sari?)	Is the object a(sari?/kimono?)	Is the object a(kimono?/lehenga?)	Is the object a(kanga?/hanbok?)	Is the object a(hanbok?/sarafan?)	
+0	
+0	
+1	Is the object used for(transportation?/recreational purposes?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+7	Is the object part of the vehicle's(engine?/exterior?)	Is the object a(wheel?/door?)	Is the object a(door?/bumper?)	Is the object a(bumper?/mirror?)	Is the object a(mirror?/fender?)	Is the object a(fender?/hood?)	Is the object a(grille?/spoiler?)	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of(organic material?/foam?)	Is the object a(refrigerator?/pantry?)	Is the object a(pantry?/container?)	Is the object a(jar?/canister?)	Is the object a freezer storage(bin?/bin?)	
+6	Is the object used in(woodworking?/plumbing?)	Is the object used in(plumbing?/automotive repair?)	Is the object a(knife?/saw?)	Is the object a rotary(cutter?/cutter?)	Is the object a guillotine(cutter?/cutter?)	Is the object a pipe(cutter?/cutter?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of shirt(or blouse?/or coat?)	
+0	
+30	Is the gemstone primarily blue in(color?/color?)	Is the gemstone primarily red in(color?/color?)	Is the gemstone a(topaz?/zircon?)	Is the gemstone a white(opal?/spinel?)	Is the gemstone a white(spinel?/beryl?)	Is the gemstone a white(beryl?/tourmaline?)	Is the gemstone a white(tourmaline?/garnet?)	Is the gemstone a white(garnet?/jade?)	Is the gemstone a white(jade?/moonstone?)	Is the gemstone a white(moonstone?/agate?)	Is the gemstone a white(agate?/calcite?)	Is the gemstone a white(calcite?/zirconia?)	Is the gemstone a white(jadeite?/scapolite?)	Is the gemstone a white(danburite?/opalite?)	Is the gemstone a white(opalite?/petalite?)	Is the gemstone a white(petalite?/phenakite?)	Is the gemstone a white(phenakite?/sphene?)	Is the gemstone a white(sphene?/euclase?)	Is the gemstone a white(euclase?/corundum?)	Is the gemstone a white(corundum?/kunzite?)	Is the gemstone a white(kunzite?/lepidolite?)	Is the gemstone a white(lepidolite?/apatite?)	Is the gemstone a white(apatite?/sphalerite?)	Is the gemstone a white(sphalerite?/axinite?)	Is the gemstone a white(axinite?/diopside?)	Is the gemstone a white(diopside?/iolite?)	Is the gemstone a white(iolite?/spodumene?)	Is the gemstone a white(spodumene?/andalusite?)	Is the gemstone a white(andalusite?/kyanite?)	Is the gemstone a white(kyanite?/prehnite?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+2	Is the object a microwave(oven?/oven?)	Is the object a toaster(oven?/oven?)	
+1	Is the object a snare(drum?/drum?)	
+3	Is the object used for entertainment(or leisure?/or organization?)	Is the object used for storage(or organization?/or repair?)	Is the object a(lock?/safe?)	
+7	Is the object used for(communication?/lighting?)	Is the object a door(lock?/lock?)	Is the object a(safe?/key?)	Is the object a(key?/lockbox?)	Is the object a(lockbox?/deadbolt?)	Is the object a(latch?/hasp?)	Is the object a chain(lock?/lock?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a mini(skirt?/skirt?)	Is the object a pencil(skirt?/skirt?)	Is the object a pleated(skirt?/skirt?)	
+0	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a type of(skirt?/dress?)	Is the object(leggings?/jeans?)	Is the object a type of(shorts?/formal pants?)	
+0	
+5	Is the object a type of(fungus?/gas?)	Is the object larger than(a car?/a basketball?)	Is the object commonly found in a(forest?/desert?)	Is the object commonly found in(a desert?/urban areas?)	Is the object a type of(microorganism?/natural debris)	
+10	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	Is the object typically worn on the(head?/feet?)	Is the object typically worn on(the hands?/the waist?)	Is the object typically worn around(the waist?/the wrist?)	Is the object typically worn on the(ears?/fingers?)	Is the object typically worn on the(fingers?/legs?)	Is the object typically worn on the(legs?/torso?)	Is the object typically worn on the(torso?/ankles?)	Is the object typically worn on(the ankles?/special occasions?)	
+0	
+0	
+2	Is the object used for cleaning(or maintenance?/or leisure?)	Is the object used for entertainment(or leisure?/or organization?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object primarily made of(metal?/plastic?)	
+1	Is the object used for(strength training?/cardiovascular exercise?)	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(blanket?/pillow?)	Is the object a(pillow?/bedsheet?)	Is the object a(bedspread?/comforter?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	
+0	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object(shorts?/pants?)	
+0	
+0	
+8	Is the object used for storage(or organization?/or drawing?)	Is the object used for writing(or drawing?/or maintenance?)	Is the object used for cleaning(or maintenance?/or relaxation?)	Is the object something you sit(on?/on?)	Is the object something you(lie on?/wear?)	Is the object used for(drying?/bathing?)	Is the object used for(bathing?/oral hygiene?)	Is the object used for(oral hygiene?/skincare?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically found in a(bedroom?/living room?)	Is the object an(armchair?/ottoman?)	Is the object a(recliner?/loveseat?)	
+5	Is the object used for(transportation?/recreational purposes?)	Is the object primarily made of(metal?/wood?)	Is the object a wooden(beam?/post?)	Is the object a wooden(post?/truss?)	Is the object a wooden(truss?/plank?)	
+4	Is the object used for(sitting?/playing games?)	Is the object used for(playing games?/reading?)	Is the object a(bookshelf?/lamp?)	Is the object a(lamp?/magazine?)	
+0	
+0	
+4	Is the object related to the engine of a(vehicle?/vehicle?)	Is the object related to the exterior of a(vehicle?/vehicle?)	Is the object a(mirror?/seatbelt?)	Is the object a(tire?/seat?)	
+10	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(seating?/storage?)	Is the object used for(storage?/decoration?)	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(bathroom?/living room?)	Is the object used in a living(room?/room?)	Is the object used for(cutting?/measuring?)	Is the object a(hammer?/screwdriver?)	Is the object a(screwdriver?/clamp?)	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object a(guitar?/violin?)	Is the object a(violin?/cello?)	Is the object a(cello?/ukulele?)	Is the object a(ukulele?/harp?)	Is the object a(harp?/banjo?)	
+5	Is the object typically found in a garage(or workshop?/or wardrobe?)	Is the object used for prayer(or meditation?/or blessing?)	Is the object a religious statue(or figurine?/or flag?)	Is the object a religious scroll(or parchment?/or artifact?)	Is the object a religious relic(or artifact?/or robe?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+2	Is the object used for drawing(or painting?/or constructing?)	Is the object used for carving(or sculpting?/or calligraphy?)	
+2	Is the object used for entertainment(or leisure?/or productivity?)	Is the object typically made of(wood?/metal?)	
+2	Is the object used for(cleaning?/decoration?)	Is the object made of(glass?/metal?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object primarily made of(metal?/wood?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object used for(storage?/cleaning?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for writing(or drawing?/or storage?)	
+0	
+22	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for outdoor furniture(or seating?/or play?)	Is the object a wooden(swing set?/seesaw?)	Is the object a wooden(seesaw?/playhouse?)	Is the object a wooden(playhouse?/treehouse?)	Is the object a wooden(treehouse?/sandbox?)	Is the object a wooden(sandbox?/slide?)	Is the object a wooden(slide?/climbing structure?)	Is the object a wooden(climbing structure?/balance beam?)	Is the object a wooden(balance beam?/kite?)	Is the object a wooden(kite?/yo-yo?)	Is the object a wooden(yo-yo?/sled?)	Is the object a wooden(sled?/puzzle?)	Is the object a wooden(puzzle?/boomerang?)	Is the object a wooden(boomerang?/frisbee?)	Is the object a wooden(frisbee?/kite reel?)	Is the object a wooden(kite reel?/stilts?)	Is the object a wooden(stilts?/croquet set?)	Is the object a wooden(spinning top?/skateboard?)	Is the object a wooden(skateboard?/jigsaw puzzle?)	Is the object a wooden(jigsaw puzzle?/archery bow?)	
+0	
+6	Is the object used for(storage?/cleaning?)	Is the object used in a(living room?/bedroom?)	Is the object typically worn on the upper(body?/body?)	Is the object(shorts?/jeans?)	Is the object(jeans?/sweatpants?)	Is the object(sweatpants?/leggings?)	
+0	
+8	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object worn on the(lower body?/head?)	Is the object worn on the(head?/feet?)	Is the object a(ring?/cuff?)	Is the object a(cuff?/mitten?)	
+13	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of fabric(or textile?/or cardboard?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a composite(material?/material?)	Is the object primarily made of a(plant-based material?/animal-based material?)	Is the object primarily made of(silicone?/ice?)	Is the object primarily made of a type of(resin?/gel?)	Is the object primarily made of a type of(gel?/crystal?)	Is the object primarily made of a type of(crystal?/adhesive or glue?)	Is the object primarily made of a type of(adhesive or glue?/foam rubber?)	Is the object primarily made of a type of(foam rubber?/metal alloy?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object used in construction(or building?/or agriculture?)	Is the object used in technology(or electronics?/or fashion?)	Is the object a pair of leather(shoes?/dress shoes?)	Is the object a pair of leather(dress shoes?/boots?)	Is the object a pair of leather(boots?/sandals?)	Is the object a pair of leather(sandals?/loafers?)	Is the object a pair of leather(loafers?/sneakers?)	Is the object a pair of leather(sneakers?/moccasins?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for(household purposes?/cleaning?)	
+2	Is the object a type of(animal?/liquid?)	Is the object a type of(liquid?/gas?)	
+0	
+12	Is the object used in water(transportation?/transportation?)	Is the object used in air(transportation?/transportation?)	Is the object related to safety features of(a vehicle?/a vehicle?)	Is the object a(bumper?/mirror?)	Is the object a(mirror?/door?)	Is the object a(door?/windshield?)	Is the object a(spoiler?/hood?)	Is the object a(hood?/fender?)	Is the object a(fender?/headlight?)	Is the object a(headlight?/taillight?)	Is the object a(roof?/grille?)	Is the object a(grille?/trunk?)	
+0	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of ceramic(or clay?/or rock?)	Is the object used for storage(or organization?/or maintenance?)	Is the object a piece(of furniture?/of artwork)	
+4	Is the object used to protect the(hands?/feet?)	Is the object used to protect the(eyes?/ears?)	Is the object used to protect the(face?/head?)	Is the object used to protect the knees(or elbows?/or teeth?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+10	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on(the head?/the neck?)	Is the object a(scarf?/tie?)	Is the object a(tie?/necklace?)	Is the object a(collar?/cravat?)	Is the object a(cravat?/bandana?)	Is the object a(bandana?/lanyard?)	Is the object a(lanyard?/stole?)	
+0	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+5	Is the object used for(decoration?/communication?)	Is the object used in a(bathroom?/bedroom?)	Is the object a(pillow?/blanket?)	Is the object a(blanket?/mattress?)	Is the object a(mattress?/bedsheet?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+2	Is the object used to protect against(electrical hazards?/water damage?)	Is the object used to protect(valuable items?/against intruders?)	
+0	
+1	Is the object a(pen?/pencil?)	
+0	
+0	
+0	
+2	Is the object used for(transportation?/recreational activities?)	Is the object used in construction(or building?/or gardening?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+10	Is the object primarily made of(metal?/plastic?)	Is the object used in the construction(industry?/industry?)	Is the object used in the food(industry?/industry?)	Is the object used in the automotive(industry?/industry?)	Is the object used in the music(industry?/industry?)	Is the object a type of gaming(accessory?/console?)	Is the object a type of(gaming console?/game controller?)	Is the object a type of(gaming merchandise?/gaming-related toy?)	Is the object a plastic toy used in a gaming-related outdoor(activity?/activity?)	Is the object a plastic toy used in a gaming-related(water activity?/target or shooting activity?)	
+0	
+1	Is the object a(pencil?/paintbrush?)	
+1	Is the object used for(storage?/cleaning?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+10	Is the object primarily used for(cutting?/eating?)	Is the object primarily used for(eating?/serving food?)	Is the object primarily used for(serving food?/measuring ingredients?)	Is the object a metal(whisk?/skewer?)	Is the object a metal(skewer?/baking rack?)	Is the object a metal(baking rack?/trivet?)	Is the object a metal(trivet?/colander?)	Is the object a metal(colander?/cooling rack?)	Is the object a metal(cooling rack?/ladle?)	Is the object a metal(ladle?/pan?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	
+0	
+11	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object used for entertainment(or leisure?/or drawing?)	Is the object used for(hair care?/oral hygiene?)	Is the object used for(oral hygiene?/skincare?)	Is the object used for(skincare?/shaving?)	Is the object used for(shaving?/nail care?)	Is the object worn on the(head?/feet?)	Is the object a type of(sock?/shoe?)	Is the object a type of(shoe?/slipper?)	Is the object a type of(slipper?/sandal?)	
+13	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(novel?/magazine?)	Is the object a collection of(short stories?/poems?)	Is the object a type of book that contains a collection of quotes(or sayings?/or scripts?)	Is the object a type of book that contains a collection of(plays or scripts?/religious texts or hymns?)	Is the object a type of book that contains a collection of(religious texts or hymns?/recipes or cooking instructions?)	Is the object a type of book that contains a collection of recipes(or cooking instructions?/or games?)	Is the object a type of book that contains a collection of puzzles(or games?/or lectures?)	Is the object a type of book that contains a collection of(speeches or lectures?/music sheets or scores?)	Is the object a type of book that contains a collection of(music sheets or scores?/letters or correspondence?)	Is the object a type of book that contains a collection of letters(or correspondence?/or humor?)	
+2	Is the object used for comfort(or relaxation?/or maintenance?)	Is the object used for(communication?/educational purposes?)	
+1	Is the object used for sitting(or resting?/or organization?)	
+2	Is the sport related to water(activities?/activities?)	Is the sport related to winter(activities?/activities?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+2	Is the object used for(entertainment purposes?/storage?)	Is the object used for(communication?/educational purposes?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object a(cobblestone?/brick?)	
+2	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(bathroom?/living room?)	
+33	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object a(shelf?/drawer?)	Is the object a wooden(letter tray?/desk?)	Is the object a wooden(desk?/pencil holder?)	Is the object a wooden(pencil holder?/paper tray?)	Is the object a wooden(paper tray?/bulletin board?)	Is the object a wooden(bulletin board?/file sorter?)	Is the object a wooden(file sorter?/clipboard?)	Is the object a wooden(clipboard?/document holder?)	Is the object a wooden(document holder?/card catalog?)	Is the object a wooden(card catalog?/coat rack?)	Is the object a wooden(coat rack?/mail sorter?)	Is the object a wooden(mail sorter?/magazine rack?)	Is the object a wooden(magazine rack?/paperweight?)	Is the object a wooden(paperweight?/printer stand?)	Is the object a wooden(printer stand?/letter opener?)	Is the object a wooden(letter opener?/briefcase?)	Is the object a wooden(briefcase?/wastebasket?)	Is the object a wooden(wastebasket?/credenza?)	Is the object a wooden(credenza?/clock?)	Is the object a wooden(clock?/ruler?)	Is the object a wooden(ruler?/bookend?)	Is the object a wooden(easel?/stapler?)	Is the object a wooden(stapler?/paper cutter?)	Is the object a wooden(paper cutter?/conference table?)	Is the object a wooden(conference table?/nameplate?)	Is the object a wooden(nameplate?/letterpress drawer?)	Is the object a wooden(letterpress drawer?/card holder?)	Is the object a wooden card(holder?/holder?)	Is the object a wooden pen(holder?/holder?)	Is the object a wooden(stamp holder?/pencil sharpener?)	
+0	
+2	Is the object used for entertainment(or leisure?/or productivity?)	Is the object a(pen?/pencil?)	
+0	
+1	Is the object used for entertainment(or leisure?/or productivity?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	
+2	Is the object used for entertainment(or leisure?/or organization?)	Is the object used for storage(or organization?/or maintenance?)	
+2	Is the object used for(sitting?/storage?)	Is the object used for(storage?/cleaning?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+6	Is the object a paper(lantern?/mache sculpture?)	Is the object a paper garland(or streamer?/or silhouette?)	Is the object a paper(collage?/fan?)	Is the object a paper(fan?/quilling artwork?)	Is the object a paper(quilling artwork?/mask?)	Is the object a paper(mask?/kite?)	
+0	
+0	
+6	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object used for entertainment(or leisure?/or drawing?)	Is the object used for(communication?/lighting?)	Is the object used for measuring(or calculating?/or protection?)	Is the object used in a(kitchen?/bedroom?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	Is the object typically worn on the(head?/feet?)	Is the object typically worn on(the feet?/the neck?)	Is the object typically worn around(the neck?/the hands?)	Is the object a(sash?/veil?)	Is the object a(veil?/robe?)	Is the object a(robe?/cummerbund?)	Is the object a(cummerbund?/cape?)	
+2	Is the object a(tool?/shovel?)	Is the object used for(digging?/watering plants?)	
+0	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+5	Is the object used for(entertainment purposes?/cleaning?)	Is the object used for(cleaning?/storage?)	Is the object used in a(bedroom?/bathroom?)	Is the object used in a living(room?/room?)	Is the tool used for(measuring?/cutting?)	
+16	Is the object a(backpack?/suitcase?)	Is the object a fabric(basket?/storage ottoman?)	Is the object a fabric(shoe organizer?/hamper?)	Is the object a fabric(pencil case?/wallet?)	Is the object a fabric(laundry bag?/book cover?)	Is the object a fabric(book cover?/storage cube?)	Is the object a fabric(storage cube?/jewelry organizer?)	Is the object a fabric(jewelry organizer?/storage basket?)	Is the object a fabric(storage basket?/hanging organizer?)	Is the object a fabric hanging(organizer?/organizer?)	Is the object a fabric toy(organizer?/organizer?)	Is the object a fabric file(organizer?/organizer?)	Is the object a fabric closet(organizer?/organizer?)	Is the object a fabric(drawer organizer?/storage bag?)	Is the object a fabric storage(bag?/trunk?)	Is the object a fabric storage(trunk?/pouch?)	
+0	
+0	
+0	
+0	
+0	
+0	
+5	Is the object related to a craft or(DIY activity?/puzzle activity?)	Is the object a board(game?/game?)	Is the object used in a role-playing(game?/game?)	Is the object used in a video(game?/game?)	Is the object used in a(tabletop game?/outdoor game?)	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+2	Is the object used for(sitting?/storage?)	Is the object made of(wood?/plastic?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object used in a board(game?/game?)	Is the object used in a card(game?/game?)	
+0	
+7	Is the object used for(storage?/cleaning?)	Is the object used in a(bedroom?/bathroom?)	Is the object a wooden(beam?/stud?)	Is the object a wooden(stud?/joist?)	Is the object a wooden(joist?/truss?)	Is the object a wooden(truss?/plank?)	Is the object a wooden(plank?/post?)	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object used for(storage?/cleaning?)	
+3	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(bathroom?/living room?)	Is the object used for(measuring?/cutting?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object a type of(landscape feature?/natural resource?)	Is the object commonly found in(deserts?/mountainous regions?)	Is the object commonly found in(mountainous regions?/urban areas?)	
+0	
+2	Is the object used for storage(or organization?/or maintenance?)	Is the object used for cleaning(or maintenance?/or leisure?)	
+0	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+0	
+1	Is the object used in(water?/the air?)	
+0	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a composite(material?/material?)	
+1	Is the object used for air(travel?/travel?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+1	Is the object a spice(rack?/jar?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object(shorts?/pants?)	Is the object(socks?/shoes?)	Is the object(shoes?/sandals?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object(shorts?/jeans?)	Is the object(jeans?/sweatpants?)	Is the object(sweatpants?/leggings?)	Is the object(trousers?/pajamas?)	Is the object(pajamas?/underwear?)	Is the object a type of(athletic wear?/swimwear?)	Is the object a type of(swimwear?/workwear?)	Is the object a(kilt?/sarong?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+13	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	Is the object typically worn on the(head?/feet?)	Is the object typically worn on(the feet?/the neck?)	Is the object typically worn around(the neck?/the hands?)	Is the object a(nightgown?/robe?)	Is the object a(robe?/onesie?)	Is the object a sleep(romper?/tunic?)	Is the object a(nightshirt?/snuggie?)	Is the object a(snuggie?/babydoll?)	
+3	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object a waffle(maker?/maker?)	
+9	Is the object used in a(bedroom?/bathroom?)	Is the object made primarily of(plastic?/metal?)	Is the object made primarily of(metal?/wood?)	Is the object a(suitcase?/wallet?)	Is the object a leather(briefcase?/photo album?)	Is the object a leather(photo album?/ottoman?)	Is the object a leather(glove?/watch strap?)	Is the object a leather(book cover?/jewelry box?)	Is the object a leather(camera case?/magazine holder?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+0	
+3	Is the object used for storage(or organization?/or mobility?)	Is the object used in a bathroom(setting?/setting?)	Is the object used in a bedroom(setting?/setting?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object used for(irrigation purposes?/pest control?)	
+11	Is the object used for(entertainment purposes?/communication?)	Is the object a(flag?/banner?)	Is the object a(banner?/tent?)	Is the object a(tent?/tablecloth?)	Is the object a(tablecloth?/kite?)	Is the object a(kite?/parachute?)	Is the object a(parachute?/windsock?)	Is the object a(windsock?/pennant?)	Is the object a(balloon?/hammock?)	Is the object a(hammock?/windsock?)	Is the object a fabric(lantern?/banner?)	
+0	
+0	
+0	
+0	
+2	Is the object used for(painting?/drawing?)	Is the object used for(drawing?/sculpting?)	
+0	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+35	Is the object a type of(leather accessory?/footwear?)	Is the object a type of(footwear?/clothing?)	Is the object a(belt?/wallet?)	Is the object a(wallet?/glove?)	Is the object a(glove?/hat?)	Is the object a leather(bag?/keychain?)	Is the object a leather(keychain?/phone case?)	Is the object a leather(phone case?/wallet?)	Is the object a leather(wallet?/jacket?)	Is the object a leather(jacket?/bracelet?)	Is the object a leather(bracelet?/saddle?)	Is the object a leather(saddle?/mask?)	Is the object a leather(mask?/whip?)	Is the object a leather(whip?/book cover?)	Is the object a leather(belt buckle?/holster?)	Is the object a leather(holster?/strap?)	Is the object a leather(strap?/seat cover?)	Is the object a leather(seat cover?/case?)	Is the object a leather(case?/leash?)	Is the object a leather(leash?/patch?)	Is the object a leather(patch?/apron?)	Is the object a leather(apron?/ball?)	Is the object a leather(ball?/cushion?)	Is the object a leather(cushion?/bookmark?)	Is the object a leather(bookmark?/sheath?)	Is the object a leather(sheath?/quiver?)	Is the object a leather(quiver?/harness?)	Is the object a leather(harness?/chair?)	Is the object a leather(chair?/sofa?)	Is the object a leather(football?/journal?)	Is the object a leather(journal?/suitcase?)	Is the object a leather(suitcase?/wallet chain?)	Is the object a leather(wallet chain?/luggage tag?)	Is the object a leather(luggage tag?/key fob?)	Is the object a leather(key fob?/arm guard?)	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object a wooden(cabinet?/shelf?)	
+3	Is the object a type of(animal?/liquid?)	Is the object a type of(liquid?/gas?)	Is the object a type of(gas?/celestial body?)	
+0	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+21	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a type of(skirt?/footwear?)	Is the object a type of(footwear?/underwear?)	Is the object a type of(underwear?/shorts?)	Is the object a type of(shorts?/dress?)	Is the object a type of(dress?/belt?)	Is the object a type of leggings(or tights?/or stockings?)	Is the object a type of(apron?/kilt?)	Is the object a type of sarong(or wrap?/or dungarees?)	Is the object a type of(swimwear?/chaps?)	Is the object a type of(chaps?/loincloth?)	Is the object a type of(loincloth?/diaper?)	Is the object a type of(diaper?/gaiters?)	Is the object a type of(gaiters?/leg warmers?)	Is the object a type of(sash?/garter?)	Is the object a type of(harem pants?/kilted skirt?)	Is the object a type of(kilted skirt?/jockstrap?)	Is the object a type of(jockstrap?/half chaps?)	
+25	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a type of(skirt?/shorts?)	Is the object a type of(shorts?/footwear?)	Is the object a type of(footwear?/undergarment?)	Is the object a type of(undergarment?/belt?)	Is the object a type of(compression wear?/athletic tights?)	Is the object a type of athletic(tights?/uniform?)	Is the object a type of athletic(uniform?/socks?)	Is the object a type of(swimwear?/cycling shorts?)	Is the object a type of athletic(warm-up pants?/capris?)	Is the object a type of athletic(capris?/track pants?)	Is the object a type of athletic(track pants?/arts pants?)	Is the object a type of athletic(gaiters?/leg warmers?)	Is the object a type of athletic(chaps?/overalls?)	Is the object a type of athletic(overalls?/breeches?)	Is the object a type of athletic(kilt?/coveralls?)	Is the object a type of athletic(coveralls?/trousers?)	Is the object a type of athletic(trousers?/leggings?)	Is the object a type of athletic(leggings?/sweatpants?)	Is the object a type of athletic(sweatpants?/dance pants?)	Is the object a type of athletic dance(pants?/pants?)	Is the object a type of athletic rain(pants?/pants?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	
+17	Is the object used for(storage?/cleaning?)	Is the object used for cleaning(floors?/clothes?)	Is the object used for cleaning(clothes?/surfaces?)	Is the object used for cleaning(surfaces?/the body?)	Is the object a(loofah?/sponge?)	Is the object used for cleaning(teeth?/hair?)	Is the object a bottle of(shampoo?/conditioner?)	Is the object a hair(towel?/dryer?)	Is the object a hair(mask?/roller?)	Is the object a hair(roller?/clip?)	Is the object a hair(clip?/net?)	Is the object a hair(net?/straightener?)	Is the object a hair(straightener?/dye brush?)	Is the object a hair(bonnet?/pick?)	Is the object a hair(steamer?/extension?)	Is the object a hair(rinse cup?/washing basin?)	Is the object a hair(washing basin?/cutting cape?)	
+7	Is the object used for(transportation?/recreational purposes?)	Is the object a type of tool(or equipment?/or fixture?)	Is the object a type of clothing(or accessory?/or marker?)	Is the object related to timekeeping(or clocks?/or astronomy?)	Is the object a type of(explosive device?/firearm?)	Is the object a type of missile(or rocket?/or trap?)	Is the object a type of mine(or trap?/or cannon?)	
+1	Is the tool a(lopper?/saw?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+5	Is the object used for cutting(or slicing?/or stirring?)	Is the object used for(serving food?/measuring ingredients?)	Is the object a(whisk?/spatula?)	Is the object a(fork?/spoon?)	Is the object a(spoon?/ladle?)	
+0	
+0	
+3	Is the object used for storage(or organization?/or maintenance?)	Is the object used for cleaning(or maintenance?/or leisure?)	Is the object used for entertainment(or leisure?/or productivity?)	
+9	Is the object used for cutting(or chopping?/or stirring?)	Is the object a(whisk?/spoon?)	Is the object a(spoon?/spatula?)	Is the object a(spatula?/ladle?)	Is the object a(ladle?/fork?)	Is the object a(muddler?/baster?)	Is the object a(baster?/funnel?)	Is the object a(mortar?/chopstick?)	Is the object a(chopstick?/peeler?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object used for air(travel?/travel?)	Is the object used for space(travel?/travel?)	Is the object used for(land travel?/recreational purposes?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of shirt(or blouse?/or coat?)	Is the object a type of jacket(or coat?/or sweatshirt?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object(jeans?/shorts?)	
+17	Is the object used for storage(or organization?/or maintenance?)	Is the object used for cleaning(or maintenance?/or leisure?)	Is the object used for entertainment(or leisure?/or productivity?)	Is the object a(pen?/pencil?)	Is the object a(marker?/chalk?)	Is the object a type of(ink?/adhesive?)	Is the object a type of(adhesive?/stylus?)	Is the object a type of(stylus?/charcoal?)	Is the object a type of(charcoal?/stamp?)	Is the object a type of(clay?/canvas?)	Is the object a type of(canvas?/pastel?)	Is the object a type of(pastel?/glue gun?)	Is the object a type of(sculpting tool?/easel?)	Is the object a type of(easel?/stencil?)	Is the object a type of(stencil?/tape?)	Is the object a type of(embossing tool?/pottery wheel?)	Is the object a type of(pottery wheel?/modeling foam?)	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of jacket(or coat?/or sweatshirt?)	Is the object a type of(undergarment?/accessory)	
+0	
+1	Is the object made primarily of(metal?/plastic?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object a type of(skirt?/shorts?)	Is the object a type of(shorts?/underwear?)	Is the object a type of(underwear?/footwear?)	
+32	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(sweater?/blouse?)	Is the object a(blouse?/hoodie?)	Is the object a(hoodie?/jacket?)	Is the object a(tunic?/kimono?)	Is the object a(kimono?/cardigan?)	Is the object a(cardigan?/vest?)	Is the object a(vest?/sweatshirt?)	Is the object a(sweatshirt?/robe?)	Is the object a(robe?/coat?)	Is the object a(coat?/poncho?)	Is the object a halter(top?/top?)	Is the object a(uniform?/bodysuit?)	Is the object a(bodysuit?/jumpsuit?)	Is the object a(jumpsuit?/jersey?)	Is the object a(jersey?/corset?)	Is the object a(corset?/kimono?)	Is the object a(kimono?/leotard?)	Is the object a(leotard?/peacoat?)	Is the object a(raincoat?/cape?)	Is the object a(cape?/blazer?)	Is the object a(blazer?/windbreaker?)	Is the object a(windbreaker?/sari?)	Is the object a(sari?/turtleneck?)	Is the object a(turtleneck?/kimono?)	Is the object a(kimono?/bathrobe?)	Is the object a(bathrobe?/hoodie?)	Is the object a(hoodie?/tunic?)	Is the object a(tunic?/waistcoat?)	Is the object a(bolero?/smock?)	
+4	Is the object used for(transportation?/recreational purposes?)	Are you thinking of golf(shoes?/shoes?)	Are you thinking of cricket(shoes?/shoes?)	Are you thinking of cycling(shoes?/shoes?)	
+1	Is the object used for a water sport that involves(riding waves?/paddling?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a(plant-based material?/animal-based material?)	Is the object primarily made of an(animal-based material?/mineral-based material?)	Is the object primarily made of a mineral-based(material?/material?)	
+31	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of(parka?/windbreaker?)	Is the object a type of(windbreaker?/fleece jacket?)	Is the object a type of(fleece jacket?/trench coat?)	Is the object a type of(trench coat?/raincoat?)	Is the object a type of(raincoat?/bomber jacket?)	Is the object a type of bomber(jacket?/jacket?)	Is the object a type of(puffer jacket?/blazer?)	Is the object a type of(blazer?/vest?)	Is the object a type of(vest?/poncho?)	Is the object a type of(poncho?/anorak?)	Is the object a type of(anorak?/cardigan?)	Is the object a type of(cardigan?/cape?)	Is the object a type of(cape?/kimono?)	Is the object a type of(kimono?/robe?)	Is the object a type of(robe?/shawl?)	Is the object a type of(shawl?/peacoat?)	Is the object a type of(peacoat?/gilet?)	Is the object a type of(gilet?/duster coat?)	Is the object a type of(duster coat?/overcoat?)	Is the object a duffle(coat?/coat?)	Is the object a car(coat?/coat?)	Is the object a frock(coat?/coat?)	Is the object a guard's(coat?/coat?)	Is the object a paletot(coat?/coat?)	Is the object a covert(coat?/coat?)	Is the object a trench(coat?/coat?)	Is the object a loden(coat?/coat?)	Is the object a balmacaan(coat?/coat?)	
+0	
+2	Is the object used for sitting(or resting?/or organization?)	Is the object used in a(bathroom?/bedroom?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object used in a sport that(involves a ball?/on a field?)	Is the object used in(American football?/soccer?)	Is the object used in(soccer?/baseball?)	
+10	Is the book a(textbook?/cookbook?)	Is the book a dictionary or(reference book?/activity book?)	Is the book a piano sheet music(book?/book?)	Is the book a guitar sheet music(book?/book?)	Is the book a violin sheet music(book?/book?)	Is the book a vocal sheet music(book?/book?)	Is the book a solo vocal sheet(music book?/music book?)	Is the book an opera vocal sheet(music book?/music book?)	Is the book a pop vocal sheet music(book?/book?)	Is the book a collection of songs from(a specific musical?/multiple musicals?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of shirt(or blouse?/or coat?)	Is the object a type of jacket(or coat?/or sweatshirt?)	Is the object a type of(undergarment?/accessory)	
+20	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object(shorts?/jeans?)	Is the object(jeans?/sweatpants?)	Is the object(sweatpants?/leggings?)	Is the object(trousers?/pajamas?)	Is the object(pajamas?/underwear?)	Is the object a(kilt?/sarong?)	Is the object a(sarong?/jumpsuit?)	Is the object yoga(pants?/pants?)	Is the object compression(shorts?/shorts?)	Is the object a pair of(swim trunks?/football pants?)	Is the object a pair of football(pants?/pants?)	Is the object a pair of(capri pants?/jodhpurs?)	Is the object a pair of(jodhpurs?/breeches?)	Is the object a pair of(breeches?/hiking pants?)	Is the object a pair of(hiking pants?/chaps?)	Is the object a pair of(chaps?/bib shorts?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object used for bouncing(or jumping?/or gliding?)	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a wooden(rosary?/prayer bead?)	Is the object a wooden(prayer bead?/incense holder?)	Is the object a wooden(incense holder?/altar?)	Is the object a wooden(altar?/prayer wheel?)	
+1	Is the object used for entertainment(or leisure?/or productivity?)	
+3	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(bathroom?/living room?)	Is the object(electronic?/decorative?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object used for(cutting?/eating?)	Is the object a(fork?/spoon?)	
+3	Is the object used for sitting(or resting?/or organization?)	Is the object used for storage(or organization?/or maintenance?)	Is the object used for(personal hygiene?/cleaning surfaces?)	
+1	Is the object a(handcart?/wheelbarrow?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+1	Is the object a(paperclip?/stapler?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+0	
+4	Is the object used in a(living room?/bedroom?)	Is the object used in a(bedroom?/dining room?)	Is the object used for(communication?/transportation?)	Is the object used for(transportation?/educational purposes?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used in(rock climbing?/pole vaulting?)	Is the object used in(gymnastics?/playgrounds?)	
+14	Is the object used for air(travel?/travel?)	Is the object a(train?/motorcycle?)	Is the object a(motorcycle?/bus?)	Is the object a(bus?/scooter?)	Is the object a(scooter?/truck?)	Is the object a(truck?/skateboard?)	Is the object a(hoverboard?/unicycle?)	Is the object a(unicycle?/wheelchair?)	Is the object a(go-kart?/moped?)	Is the object a(rickshaw?/monowheel?)	Is the object a(monowheel?/sled?)	Is the object a(wheelbarrow?/tricycle?)	Is the object a(rollerblade?/hovercraft?)	Is the object a(hovercraft?/trolley?)	
+0	
+2	Is the object made of(glass?/metal?)	Is the object made of(metal?/plastic?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the book a(novel?/textbook?)	Is the book a(textbook?/magazine?)	Is the book a(magazine?/dictionary?)	Is the book a(dictionary?/cookbook?)	
+1	Is the object used for(communication?/entertainment?)	
+4	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	Is the object used for(lighting?/decoration?)	Is the object used for(decoration?/communication?)	
+0	
+24	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object used for safety or(security purposes?/apparel purposes?)	Is the object used for communication(purposes?/purposes?)	Is the object used for gardening or(outdoor purposes?/medical purposes?)	Is the object used for health or(medical purposes?/work-related purposes?)	Is the object a synthetic educational toy(or model?/or device?)	Is the object a synthetic educational tool(or device?/or supply?)	Is the object a synthetic educational material(or supply?/or accessory?)	Is the object a synthetic educational aid(or accessory?/or booklet?)	Is the object a synthetic educational book(or booklet?/or poster?)	Is the object a synthetic educational chart(or poster?/or puzzle?)	Is the object a synthetic educational game(or puzzle?/or set?)	Is the object a synthetic educational kit(or set?/or display?)	Is the object a synthetic educational binder(or folder?/or tape?)	Is the object a synthetic educational adhesive(or tape?/or surface?)	Is the object a synthetic educational mat(or surface?/or holder?)	Is the object a synthetic educational organizer(or holder?/or map?)	Is the object a synthetic educational globe(or map?/or abacus?)	Is the object a synthetic educational calculator(or abacus?/or chalkboard?)	Is the object a synthetic educational whiteboard(or chalkboard?/or replica?)	
+9	Is the object a(safe?/toolbox?)	Is the object a metal(storage bin?/tin?)	Is the object a metal(tin?/drawer?)	Is the object a metal(drawer?/locker?)	Is the object a metal(locker?/jewelry box?)	Is the object a metal(jewelry box?/briefcase?)	Is the object a metal(briefcase?/canister?)	Is the object a metal(canister?/basket?)	Is the object a metal(basket?/chest?)	
+17	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object used for(structural support?/decorative purposes?)	Is the object a concrete statue(or sculpture?/or pot?)	Is the object a concrete(garden ornament?/fountain?)	Is the object a concrete(fountain?/bench?)	Is the object a concrete(birdbath?/retaining wall?)	Is the object a concrete(retaining wall?/table?)	Is the object a concrete(table?/fire pit?)	Is the object a concrete fence(or barrier?/or sidewalk?)	Is the object a concrete(garden gnome?/birdhouse?)	Is the object a concrete(bollard?/bird feeder?)	Is the object a concrete bridge or arch(used decoratively?/used decoratively?)	Is the object a concrete plaque(or sign?/or hearth?)	Is the object a concrete(planter box?/garden statue?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of jacket(or coat?/or blouse?)	Is the object a type of shirt(or blouse?/or gown?)	Is the object a type of dress(or gown?/or tuxedo?)	
+2	Is the object primarily made of(metal?/wood?)	Is the object primarily made of(wood?/plastic?)	
+0	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of shirt(or blouse?/or coat?)	Is the object a type of jacket(or coat?/or sweatshirt?)	Is the object a type of(undergarment?/accessory)	
+26	Is the object used for(transportation?/recreational purposes?)	Is the object a(canopy?/gazebo?)	Is the object a(tent?/pergola?)	Is the object a(pergola?/windbreak?)	Is the object a plastic(tarp?/awning?)	Is the object a plastic(awning?/cabana?)	Is the object a plastic(cabana?/garden dome?)	Is the object a plastic(garden dome?/rain shelter?)	Is the object a plastic(rain shelter?/pavilion?)	Is the object a plastic(pavilion?/playhouse?)	Is the object a plastic(playhouse?/greenhouse?)	Is the object a plastic(greenhouse?/sun shelter?)	Is the object a plastic(sun shelter?/carport?)	Is the object a plastic(carport?/awning?)	Is the object a plastic(awning?/gazebo?)	Is the object a plastic(gazebo?/cabana?)	Is the object a plastic(cabana?/parasol?)	Is the object a plastic(parasol?/pergola?)	Is the object a plastic(pergola?/canopy?)	Is the object a plastic(canopy?/tent?)	Is the object a plastic(tent?/sunshade?)	Is the object a plastic(sunshade?/shelter?)	Is the object a plastic(shelter?/awning?)	Is the object a plastic(awning?/pavilion?)	Is the object a plastic(pavilion?/windbreak?)	Is the object a plastic(windbreak?/garden arch?)	
+1	Is the object used for(storage?/cleaning?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+15	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object related to cleaning(or maintenance?/or cooking?)	Is the object a disposable(razor?/face mask?)	Is the object a disposable(face mask?/toothbrush?)	Is the object a disposable(toothbrush?/diaper?)	Is the object a disposable(diaper?/glove?)	Is the object a disposable(glove?/wipe?)	Is the object a disposable(wipe?/shower cap?)	Is the object a disposable(shower cap?/razor blade?)	Is the object a disposable(razor blade?/cotton swab?)	Is the object a disposable(cotton swab?/contact lens?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+28	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a type of jacket(or coat?/or hoodie?)	Is the object a(bra?/camisole?)	Is the object a(bodysuit?/vest?)	Is the object a type of(bib?/thermal undershirt?)	Is the object a type of(thermal undershirt?/chest binder?)	Is the object a type of(apron?/bib?)	Is the object a type of(slip?/garter belt?)	Is the object a type of(garter belt?/nightwear?)	Is the object a type of(nightwear?/leotard?)	Is the object a type of(leotard?/crop top?)	Is the object a type of(crop top?/sports bra?)	Is the object a type of(sports bra?/turtleneck?)	Is the object a type of(turtleneck?/dickey?)	Is the object a type of(dickey?/poncho?)	Is the object a type of(poncho?/scarf?)	Is the object a type of(scarf?/vest?)	Is the object a type of(vest?/t-shirt?)	Is the object a type of(t-shirt?/tank top?)	Is the object a type of(tank top?/tunic?)	Is the object a type of(tunic?/wrap?)	Is the object a type of(wrap?/robe?)	Is the object a type of(robe?/costume?)	Is the object a type of(costume?/harness?)	Is the object a type of(harness?/bulletproof vest?)	Is the object a type of(bulletproof vest?/sash?)	
+0	
+0	
+0	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(sweater?/jacket?)	Is the object a(jacket?/coat?)	Is the object a(coat?/hoodie?)	Is the object a(hoodie?/sweatshirt?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+3	Is the object made of(metal?/glass?)	Is the object made of(glass?/ceramic?)	Is the object made of(ceramic?/plastic?)	
+19	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a(raincoat?/blazer?)	Is the object a(blazer?/sweater?)	Is the object a(sweater?/hoodie?)	Is the object a(windbreaker?/bathrobe?)	Is the object a(bathrobe?/parka?)	Is the object a(parka?/cardigan?)	Is the object a(cardigan?/kimono?)	Is the object a suit(jacket?/jacket?)	Is the object a(poncho?/vest?)	Is the object a bolero(jacket?/jacket?)	Is the object a denim(jacket?/jacket?)	Is the object a life(jacket?/jacket?)	Is the object a smoking(jacket?/jacket?)	Is the object a puffer(jacket?/jacket?)	Is the object a kimono(jacket?/jacket?)	Is the object a field(jacket?/jacket?)	Is the object a chef's(jacket?/jacket?)	
+33	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a type of plant-based(wax?/oil?)	Is the object primarily made of a type of plant-based(oil?/foam or sponge?)	Is the object primarily made of a type of plant-based foam(or sponge?/or latex?)	Is the object primarily made of a type of plant-based(rubber or latex?/starch?)	Is the object primarily made of a type of plant-based(starch?/sugar or sweetener?)	Is the object primarily made of a type of plant-based sugar(or sweetener?/or meal?)	Is the object primarily made of a type of plant-based flour(or meal?/or husk?)	Is the object primarily made of a type of plant-based shell(or husk?/or nut?)	Is the object primarily made of a type of plant-based seed(or nut?/or foliage?)	Is the object primarily made of a type of plant-based leaf(or foliage?/or vegetable?)	Is the object primarily made of a type of plant-based fruit(or vegetable?/or tuber?)	Is the object primarily made of a type of plant-based(root or tuber?/bark?)	Is the object primarily made of a type of plant-based(bark?/vine or stem?)	Is the object primarily made of a type of plant-based(vine or stem?/grain?)	Is the object primarily made of a type of plant-based(grain?/fiber?)	Is the object primarily made of a type of plant-based(fiber?/material not yet mentioned?)	Is the object primarily made of a type of plant-based(material not yet mentioned?/liquid?)	Is the object primarily made of a type of plant-based(liquid?/powder?)	Is the object primarily made of a type of plant-based material used in construction(or building?/or decoration?)	Is the object primarily made of a type of plant-based material used in art(or decoration?/or food preparation?)	Is the object primarily made of a type of plant-based material used in cooking(or food preparation?/or health products?)	Is the object primarily made of a type of plant-based material used in medicine(or health products?/or clothing?)	Is the object primarily made of a type of plant-based material used in textiles(or clothing?/or home goods?)	Is the object primarily made of(rattan?/wicker?)	Is the object primarily made of(wicker?/straw?)	Is the object primarily made of(straw?/cane?)	Is the object primarily made of a type of plant-based material used in flooring(or mats?/or containers?)	Is the object primarily made of a type of plant-based material used in baskets(or containers?/or outdoor furniture?)	Is the object primarily made of a type of plant-based material used in(garden or outdoor furniture?/decorative items or crafts?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object a(road?/bridge?)	Is the object a(hangar?/taxiway?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+1	Is the object a type of rug(or carpet?/or blanket?)	
+0	
+4	Is the object a(kettle?/steamer?)	Is the object a(skillet?/griddle?)	Is the object a(stockpot?/bain-marie?)	Is the object a(tagine?/bain-marie?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+20	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object typically worn on the upper(body?/body?)	Is the object typically worn on the(lower body?/head?)	Is the object typically worn on the(head?/feet?)	Is the object typically worn on(the feet?/the neck?)	Is the object typically worn around(the neck?/the hands?)	Is the object a(bathrobe?/nightgown?)	Is the object a sleep(shirt?/bra?)	Is the object a sleep(bra?/headband?)	Is the object a sleeping(eye mask?/hood?)	Is the object a sleep(turban?/wrap?)	Is the object a sleep(wrap?/bonnet?)	Is the object a sleep(bonnet?/shawl?)	Is the object a sleep(shawl?/mat?)	Is the object a sleep(sack?/pod?)	Is the object a sleep(suit?/cocoon?)	Is the object a sleeping(mat?/bag liner?)	Is the object a sleeping(bag liner?/pad?)	
+9	Is the object used for(seating?/communication?)	Is the object used for(communication?/lighting?)	Is the object used for comfort(or ergonomics?/or security?)	Is the object used for holding or(supporting items?/moving items?)	Is the object used for(printing?/sharpening?)	Is the object used for heating(or cooling?/or mailing?)	Is the object used for packaging(or mailing?/or monitoring?)	Is the object used for protection(or shielding?/or orientation?)	Is the object used for navigation(or orientation?/or sealing?)	
+0	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+3	Is the object a(tool?/screwdriver?)	Is the object a(hammer?/wrench?)	Is the object a caulking(gun?/gun?)	
+3	Is the object used for entertainment(or leisure?/or productivity?)	Is the object a(bracelet?/necklace?)	Is the object a(necklace?/ring?)	
+7	Is the object used for(transportation?/recreational purposes?)	Is the object used in a sport that involves(water?/a ball?)	Is the object used in a sport that involves(a ball?/racing?)	Is the object used in a sport that involves(racing?/aiming or targeting?)	Is the object a set of(parallel bars?/rings?)	Is the object a(trampoline?/unicycle?)	Is the object a(unicycle?/stilts?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+0	
+0	
+14	Is the object used for(seating?/playing games?)	Is the object used for(playing games?/reading?)	Is the object used for(reading?/decoration?)	Is the object made of(glass?/fabric?)	Is the object made of(fabric?/metal?)	Is the object a(lamp?/clock?)	Is the object a(clock?/mirror?)	Is the object a(mirror?/vase?)	Is the object a metal(art piece?/basket?)	Is the object a metal(bookend?/candle holder?)	Is the object a metal(picture frame?/magazine rack?)	Is the object a metal(wine rack?/incense holder?)	Is the object a metal(incense holder?/curtain tieback?)	Is the object a metal(curtain tieback?/book stand?)	
+38	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a(chair?/bench?)	Is the object a(bench?/stool?)	Is the object a wooden(recliner?/loveseat?)	Is the object a wooden(loveseat?/ottoman?)	Is the object a wooden(ottoman?/high chair?)	Is the object a wooden(high chair?/swing seat?)	Is the object a wooden(swing seat?/settee?)	Is the object a wooden(settee?/chaise lounge?)	Is the object a wooden(chaise lounge?/kneeling chair?)	Is the object a wooden(kneeling chair?/bar stool?)	Is the object a wooden(bar stool?/throne?)	Is the object a wooden(throne?/folding chair?)	Is the object a wooden(folding chair?/armchair?)	Is the object a wooden(armchair?/window seat?)	Is the object a wooden(window seat?/couch?)	Is the object a wooden(couch?/loveseat?)	Is the object a wooden(loveseat?/daybed?)	Is the object a wooden(daybed?/bench swing?)	Is the object a wooden(bench swing?/church pew?)	Is the object a wooden(church pew?/park bench?)	Is the object a wooden(park bench?/hammock stand?)	Is the object a wooden(meditation stool?/piano bench?)	Is the object a wooden(piano bench?/deck chair?)	Is the object a wooden(deck chair?/saddle stool?)	Is the object a wooden(saddle stool?/corner chair?)	Is the object a wooden(corner chair?/kneeler?)	Is the object a wooden(kneeler?/director's chair?)	Is the object a wooden director's(chair?/chair?)	Is the object a wooden(ladderback chair?/dining bench?)	Is the object a wooden(dining bench?/chaise?)	Is the object a wooden(chaise?/Adirondack chair?)	Is the object a wooden Adirondack(chair?/chair?)	Is the object a wooden(Windsor chair?/loveseat swing?)	Is the object a wooden(loveseat swing?/glider?)	Is the object a wooden(glider?/gaming chair?)	Is the object a wooden(gaming chair?/step stool?)	
+3	Is the object a type of(sweater?/shirt?)	Is the object a(coat?/cloak?)	Is the object a(cloak?/vest?)	
+16	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of(bamboo?/cotton?)	Is the object primarily made of a type of plant(fiber?/resin or sap?)	Is the object primarily made of a type of plant-based(liquid?/wax?)	Is the object primarily made of a type of plant-based(food product?/fuel or energy source?)	Is the object primarily made of a type of plant-based fuel(or energy source?/or compound?)	Is the object primarily made of(latex?/cellulose?)	Is the object primarily made of a type of plant-based(oil?/alcohol?)	Is the object primarily made of a type of plant-based(alcohol?/acid?)	Is the object primarily made of a type of plant-based(acid?/sugar?)	Is the object a type of composite(material?/material?)	Is the object a type of(packaging material?/cleaning product?)	Is the object a type of(household item?/industrial product?)	
+0	
+0	
+2	Is the object used for storage(or organization?/or maintenance?)	Is the object used for cleaning(or maintenance?/floors?)	
+4	Is the object used for(cleaning purposes?/washing dishes?)	Is the object used for cleaning(floors?/appliances?)	Is the object used for cleaning(appliances?/utensils?)	Is the object a(broom?/mop?)	
+23	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(raincoat?/blazer?)	Is the object a(blazer?/sweater?)	Is the object a(sweater?/hoodie?)	Is the object a(windbreaker?/parka?)	Is the object a(parka?/bathrobe?)	Is the object a(bathrobe?/cardigan?)	Is the object a(vest?/kimono?)	Is the object a(kimono?/poncho?)	Is the object a bomber(jacket?/jacket?)	Is the object a tuxedo(jacket?/jacket?)	Is the object a life(jacket?/jacket?)	Is the object a leather(jacket?/jacket?)	Is the object a down(jacket?/jacket?)	Is the object a bolero(jacket?/jacket?)	Is the object a smoking(jacket?/jacket?)	Is the object a varsity(jacket?/jacket?)	Is the object a quilted(jacket?/jacket?)	Is the object a kimono(jacket?/jacket?)	Is the object a military(jacket?/jacket?)	Is the object a(bathrobe?/anorak?)	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	
+6	Is the object used for(grooming?/hair care?)	Is the object a hair(straightener?/dryer?)	Is the object a(hairpin?/headband?)	Is the object a hair roller(or curler?/or garland?)	Is the object a banana(clip?/clip?)	Is the object a hair(band?/clasp?)	
+0	
+5	Is the object used for(storage?/cleaning?)	Is the object used for cleaning(floors?/dishes?)	Is the object used for cleaning(dishes?/clothes?)	Is the object used for cleaning(clothes?/surfaces?)	Is the object a(sponge?/duster?)	
+9	Is the object used for(personal transportation?/transporting goods?)	Is the object used for(transporting goods?/recreational purposes?)	Is the object a type of(warship?/amphibious vehicle?)	Is the object a type of floating barrier(or boom?/or platform?)	Is the object a type of(buoy?/torpedo?)	Is the object a type of floating fuel(or supply station?/or construction equipment?)	Is the object a floating(oil rig?/bridge?)	Is the object a floating hospital or(medical facility?/detention facility?)	Is the object a floating stage or(performance platform?/trade platform?)	
+0	
+2	Is the object used in a sport played on a(field?/court?)	Is the object used in a sport that involves combat(or martial arts?/or aerial activities?)	
+14	Is the object used in a sport that involves(hitting or striking?/throwing?)	Is the object used in a sport that involves(throwing?/climbing?)	Is the object used in a sport that involves(climbing?/riding?)	Is the object used in a sport that involves(riding?/aiming or precision?)	Is the object used in a sport that involves aiming(or precision?/or sliding?)	Is the object used in a sport that involves(rolling or sliding?/striking a ball?)	Is the object used in a sport that involves combat(or martial arts?/or walking?)	Is the object used in a sport that involves(running or walking?/balancing?)	Is the object a set of(parallel bars?/rings?)	Is the object a gymnastic(ribbon?/hoop?)	Is the object a gymnastic(hoop?/club?)	Is the object a gymnastic(club?/rope?)	Is the object a gymnastic(trampoline?/mushroom?)	Is the object a gymnastic(incline mat?/training bar?)	
+0	
+1	Does the object have two(wheels?/wheels?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+3	Is the object used for cleaning(or maintenance?/or organization?)	Is the object used for storage(or organization?/or leisure?)	Is the object used in a hobby related to building(or assembling?/or drawing?)	
+8	Is the object used for storage(or organization?/or leisure?)	Is the object typically found in a(living room?/bedroom?)	Is the object typically found in a(bedroom?/bathroom?)	Is the object typically found in a recreational(or game room?/or workshop?)	Is the object a musical(instrument?/instrument?)	Is the object a string(instrument?/instrument?)	Is the object a wind(instrument?/instrument?)	Is the object a(trumpet?/trombone?)	
+1	Is the object used for cleaning(or maintenance?/or drawing?)	
+6	Is the object a musical(instrument?/instrument?)	Is the object a percussion(instrument?/instrument?)	Is the object a string(instrument?/instrument?)	Is the object a(flute?/clarinet?)	Is the object a(clarinet?/saxophone?)	Is the object a(saxophone?/trumpet?)	
+1	Is the object a type of(animal?/natural phenomenon)	
+0	
+0	
+4	Is the object used in a(bedroom?/bathroom?)	Is the object used in a dining(room?/room?)	Is the object a(beanie?/fedora?)	Is the object a top(hat?/hat?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object a wool(dress shirt?/tuxedo jacket?)	
+2	Is the object used for(entertainment purposes?/storage?)	Is the object used in a dining(room?/room?)	
+0	
+9	Is the object used for(sitting?/storage?)	Is the object a(guitar?/piano?)	Is the object a(piano?/violin?)	Is the object a(violin?/drum?)	Is the object a(drum?/flute?)	Is the object a(flute?/clarinet?)	Is the object a(clarinet?/xylophone?)	Is the object a(xylophone?/cello?)	Is the object a(cello?/ukulele?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object worn on the upper(body?/body?)	Is the object(shorts?/jeans?)	Is the object(jeans?/sweatpants?)	Is the object(sweatpants?/leggings?)	
+12	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a(T-shirt?/sweatshirt?)	Is the object a(sweatshirt?/hoodie?)	Is the object a polo(shirt?/shirt?)	Is the object a(sweater?/tunic?)	Is the object a(kimono?/vest?)	Is the object a rugby(shirt?/shirt?)	Is the object a(dashiki?/smock?)	Is the object a(poncho?/bib?)	Is the object a(bib?/bodysuit?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/fabric?)	Is the object typically worn on the upper(body?/body?)	Is the object a type of(pants?/skirt?)	Is the object a type of(skirt?/shorts?)	Is the object a type of(shorts?/underwear?)	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+23	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object a ceramic figurine(or statue?/or pot?)	Is the object a ceramic(candle holder?/picture frame?)	Is the object a ceramic(picture frame?/lamp base?)	Is the object a ceramic(incense holder?/clock?)	Is the object a ceramic(clock?/bookend?)	Is the object a ceramic(mirror frame?/birdhouse?)	Is the object a ceramic(birdhouse?/soap dish?)	Is the object a ceramic(umbrella stand?/coaster set?)	Is the object a ceramic(coaster set?/oil diffuser?)	Is the object a ceramic(oil diffuser?/chess set?)	Is the object a ceramic(garden ornament?/music box?)	Is the object a ceramic(music box?/doorstop?)	Is the object a ceramic(doorstop?/napkin holder?)	Is the object a ceramic napkin(holder?/holder?)	Is the object a ceramic match(holder?/holder?)	Is the object a ceramic(wine holder?/planter stand?)	Is the object a ceramic(planter stand?/ashtray?)	Is the object a ceramic(ashtray?/butter dish?)	Is the object a ceramic(egg holder?/spoon rest?)	
+0	
+5	Is the object used for(sitting?/storage?)	Is the object made of(wood?/plastic?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/fabric?)	Is the object made of(fabric?/glass?)	
+0	
+8	Is the object used for writing(or drawing?/or maintenance?)	Is the object used for comfort(or relaxation?/or organization?)	Is the object a(shirt?/jacket?)	Is the object a(jacket?/sweater?)	Is the object a(sweater?/tie?)	Is the object a(tie?/scarf?)	Is the object a(scarf?/blouse?)	Is the object a(blouse?/vest?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+0	
+0	
+14	Is the object used for storage(or organization?/or drawing?)	Is the object used for writing(or drawing?/or maintenance?)	Is the object used for cleaning(or maintenance?/or resting?)	Is the object used in a(bathroom?/kitchen?)	Is the object a(curtain?/blanket?)	Is the object a rug(or carpet?/or cushion?)	Is the object a(scarf?/hat?)	Is the object a(hat?/sweater?)	Is the object a pair of(socks?/gloves?)	Is the object a(dress?/tie?)	Is the object a(tie?/shirt?)	Is the object a(cape?/belt?)	Is the object a(t-shirt?/poncho?)	Is the object a(poncho?/vest?)	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+6	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object a wooden(cabinet?/dresser?)	Is the object a wooden(dresser?/table?)	Is the object a wooden(table?/chest?)	Is the object a wooden(chest?/wardrobe?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object used in a(recreational activity?/household setting?)	Is the object a wooden(mop handle?/scrub brush?)	Is the object a wooden(scrub brush?/dustpan?)	
+1	Is the object made of(metal?/glass?)	
+9	Is the object used for(sitting?/storage?)	Is the object used for(entertainment?/cleaning?)	Is the object made of(plastic?/metal?)	Is the object made of(metal?/wood?)	Is the object made of(wood?/fabric?)	Is the object used for(dusting?/drying?)	Is the object used for(drying?/mopping?)	Is the object used for(mopping?/wiping surfaces?)	Is the object a cleaning(cloth?/cloth?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object a microfiber(cleaning cloth?/cleaning rag?)	
+13	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object a wooden(mop handle?/scrub brush?)	Is the object a wooden(washboard?/dish brush?)	Is the object a wooden dish(brush?/brush?)	Is the object a wooden(cleaning brush?/bucket?)	Is the object a wooden(bucket?/soap holder?)	Is the object a wooden(scrub board?/squeegee?)	Is the object a wooden(ironing board?/clothes hanger?)	Is the object a wooden(soap dish?/bathtub tray?)	Is the object a wooden(bathtub tray?/lint remover?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object used for communication(or signaling?/or surveying?)	Is the object used for measuring(or surveying?/or maintenance?)	
+0	
+0	
+0	
+3	Is the vehicle used for recreational(purposes?/purposes?)	Is the vehicle used for agricultural(purposes?/purposes?)	Is the vehicle used for(military purposes?/emergency services?)	
+7	Is the object used for(lighting?/waste disposal?)	Is the object a(tool?/wrench?)	Is the object a(wrench?/screwdriver?)	Is the object a(screwdriver?/plunger?)	Is the object a(plunger?/pliers?)	Is the object a(pliers?/hammer?)	Is the object a(clamp?/file?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+3	Is the object used for(drinking?/decoration?)	Is the object used for(decoration?/illumination?)	Is the object used for(illumination?/storage?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for illumination(or lighting?/or containment?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+1	Is the object used for video(communication?/communication?)	
+4	Is the object a(microwave?/toaster?)	Is the object a waffle(maker?/maker?)	Is the object a(saucepan?/stockpot?)	Is the object a(griddle?/colander?)	
+0	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+0	
+0	
+0	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used in(a sport?/gardening?)	
+2	Is the object used for(storage?/cleaning?)	Is the object used for(cleaning?/sitting?)	
+0	
+2	Is the aircraft a(helicopter?/drone?)	Is the aircraft a(drone?/jet?)	
+2	Is the object used for(transporting goods?/public transportation?)	Is the object used for(public transportation?/recreational purposes?)	
+0	
+3	Is the object a(computer?/tablet?)	Is the object a(smartwatch?/television?)	Is the object a telegraph(machine?/machine?)	
+5	Is the object a(computer?/tablet?)	Is the object a(tablet?/television?)	Is the object a(smartwatch?/walkie-talkie?)	Is the object a(webcam?/radio?)	Is the object a smart(thermostat?/lock?)	
+0	
+0	
+3	Is the object used for cleaning(or maintenance?/or organization?)	Is the object used in a crafting or(DIY activity?/fitness activity?)	Is the object used in the field of art(or design?/or research?)	
+0	
+9	Is the object used for any kind of(measurement?/communication?)	Is the object used for any kind of(communication?/storage?)	Is the object a(handgun?/rifle?)	Is the object a(rifle?/shotgun?)	Is the object a(cannon?/mortar?)	Is the object a(mortar?/howitzer?)	Is the object a surface-to-air missile(launcher?/launcher?)	Is the object a ballistic missile(launcher?/launcher?)	Is the object a cruise missile(launcher?/launcher?)	
+11	Is the object primarily made of(metal?/plastic?)	Is the object a(smartphone?/tablet?)	Is the object a(tablet?/laptop?)	Is the object used for audio(communication?/communication?)	Is the object used for visual(communication?/communication?)	Is the object a(keyboard?/webcam?)	Is the object a(webcam?/drone?)	Is the object a smart(plug?/refrigerator?)	Is the object a smart(lock?/TV?)	Is the object a smart(mirror?/doorbell?)	Is the object a smart(irrigation controller?/air purifier?)	
+0	
+0	
+0	
+0	
+0	
+5	Is the object used for safety(or protection?/or leisure?)	Is the object used for measurement(or calculation?/or fishing?)	Is the object used to(trap animals?/tracking animals?)	Is the object a hunting(decoy?/knife?)	Is the object a hunting(scope?/horn?)	
+19	Is the object used for cutting(or slicing?/or stirring?)	Is the object a metal(ladle?/egg poacher?)	Is the object a metal(egg poacher?/rice cooker?)	Is the object a metal(rice cooker?/tea infuser?)	Is the object a metal(tea infuser?/trivet?)	Is the object a metal(trivet?/fondue pot?)	Is the object a metal(fondue pot?/saucepan?)	Is the object a metal(saucepan?/steamer pot?)	Is the object a metal steamer(pot?/insert?)	Is the object a metal(steamer insert?/roasting rack?)	Is the object a metal(roasting rack?/bain-marie?)	Is the object a metal(bain-marie?/stockpot?)	Is the object a metal(stockpot?/sieve?)	Is the object a metal(sieve?/cooking ring?)	Is the object a metal(ring mold?/crumpet ring?)	Is the object a metal crumpet(ring?/ring?)	Is the object a metal pancake(ring?/ring?)	Is the object a metal pastry(ring?/ring?)	Is the object a metal(tart ring?/biscuit cutter?)	
+1	Is the object used for(personal transportation?/public transportation?)	
+1	Is the object used for(reading?/creative purposes)	
+0	
+0	
+0	
+2	Is the object used in the(energy sector?/medical field?)	Is the object used in the field of art(or design?/or resource extraction?)	
+7	Is the object related to communication(or technology?/or leisure?)	Is the object related to agriculture(or farming?/or cleaning?)	Is the object related to maintenance(or cleaning?/or climate?)	Is the object related to weather(or climate?/or infrastructure?)	Is the object related to entertainment or activities at an(outdoor event?/outdoor event?)	Is the object related to power or electricity at an(outdoor event?/outdoor event?)	Is the object a stage or platform used at(outdoor events?/outdoor events?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+1	Is the object used for(transportation?/recreational purposes?)	
+0	
+1	Is the object primarily used for audio(purposes?/purposes?)	
+0	
+5	Is the object used for storage(or organization?/or mobility?)	Is the object used in a kitchen(setting?/setting?)	Is the object used in a(bedroom setting?/office setting?)	Is the object a type of sensor(or detector?/or wire?)	Is the object a type of cable(or wire?/or button?)	
+1	Is the object used for(cleaning purposes?/washing dishes?)	
+3	Is the object used for visual(communication?/communication?)	Is the object a(siren?/bullhorn?)	Is the object used in an(industrial setting?/residential setting?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object a(webcam?/tablet?)	
+1	Is the object used for(measuring ingredients?/serving food?)	
+7	Is the object used for(communication?/entertainment?)	Is the object used for(timekeeping?/document shredding?)	Is the object a type of electronic pen(or stylus?/or vault?)	Is the object a type of electronic(label maker?/paper shredder?)	Is the object a type of electronic(paper shredder?/stapler?)	Is the object a type of electronic(stapler?/hole punch?)	Is the object a type of electronic(hole punch?/book reader?)	
+0	
+0	
+1	Is the object used for air(travel?/travel?)	
+9	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of a natural(material?/material?)	Is the object primarily made of a synthetic(material?/material?)	Is the object primarily made of any type of(mineral?/biological material?)	Is the object primarily made of any type of(biological material?/gas?)	Is the object a cassette(player?/player?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object used in construction(or building?/or gardening?)	
+23	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for(drinking?/decoration?)	Is the object used for(decoration?/storage?)	Is the object used for(storage?/illumination?)	Is the object a(lamp?/chandelier?)	Is the object a(chandelier?/lantern?)	Is the object a glass(candle holder?/lampshade?)	Is the object a glass(prism?/mirror?)	Is the object a glass(mirror?/solar panel?)	Is the object a glass(solar panel?/lens?)	Is the object a glass(lens?/neon sign?)	Is the object a glass(neon sign?/light tube?)	Is the object a glass light(tube?/bulb cover?)	Is the object a glass(sconce?/streetlight cover?)	Is the object a glass(streetlight cover?/magnifying glass?)	Is the object a glass(magnifying glass?/oil lamp?)	Is the object a glass(oil lamp?/beacon light?)	Is the object a glass(beacon light?/lighthouse lens?)	Is the object a glass(spotlight cover?/pendant light?)	Is the object a glass(skylight?/UV lamp?)	Is the object a glass(solar tube?/lantern chimney?)	
+1	Is the object used for(communication?/entertainment?)	
+4	Is the object used for(communication?/entertainment?)	Is the object a(flashlight?/chandelier?)	Is the object a recessed(light?/light?)	Is the object a pendant(light?/light?)	
+2	Is the object a hand(tool?/tool?)	Is the object used to secure or stabilize(something during repairs?/issues during repairs?)	
+7	Is the object used for(entertainment purposes?/cleaning?)	Is the object used for(lighting?/educational purposes?)	Is the object used in a(bathroom?/bedroom?)	Is the object used in a(bedroom?/living room?)	Is the object used in a living(room?/room?)	Is the object used in a dining(room?/room?)	Is the object a car(battery?/jack?)	
+0	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object used in construction(or building?/or gardening?)	
+11	Is the object used for transportation(or mobility?/or organization?)	Is the object used for storage(or organization?/or maintenance?)	Is the object a type of(lock?/alarm system?)	Is the object used in(electrical safety?/personal safety?)	Is the object a metal(safe?/doorstop?)	Is the object a metal(doorstop?/handrail?)	Is the object a metal(whistle?/flashlight?)	Is the object a metal(flashlight?/safe box?)	Is the object a metal(key?/door chain?)	Is the object a metal(door chain?/security screen?)	Is the object a metal(security screen?/window guard?)	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+7	Is the car a(truck?/convertible?)	Is the car a(convertible?/hatchback?)	Is the car a(hatchback?/van?)	Is the car a(van?/coupe?)	Is the car a(coupe?/limousine?)	Is the car a(taxi?/bus?)	Is the car a race(car?/car?)	
+0	
+1	Does the vehicle travel on(land?/water?)	
+1	Is the object a microwave(oven?/oven?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	
+0	
+24	Is the object used in the(transportation industry?/energy sector?)	Is the object used in the(energy sector?/medical industry?)	Is the object used in the medical(industry?/industry?)	Is the object used in the agricultural(industry?/industry?)	Is the object used in the telecommunications(industry?/industry?)	Is the object used in the mining(industry?/industry?)	Is the object used in the food(industry?/industry?)	Is the object used in the aerospace(industry?/industry?)	Is the object used in the entertainment(industry?/industry?)	Is the object used in the chemical(industry?/industry?)	Is the object used in the textile(industry?/industry?)	Is the object used in the jewelry(industry?/industry?)	Is the object used in the printing(industry?/industry?)	Is the object used in the cleaning(industry?/industry?)	Is the object used in the sports(industry?/industry?)	Is the object used in the automotive(industry?/industry?)	Is the object used in the paper(industry?/industry?)	Is the object used in the fashion(industry?/industry?)	Is the object used in the music(industry?/industry?)	Is the object used in the aviation(industry?/industry?)	Is the object used in the legal(industry?/industry?)	Is the object used in the art(industry?/industry?)	Is the object used in the education(industry?/industry?)	Is the object used in electrical(infrastructure?/infrastructure?)	
+0	
+0	
+0	
+1	Is the object used for(transportation?/recreational purposes?)	
+30	Is the object a(bicycle?/scooter?)	Is the object a(scooter?/skateboard?)	Is the object a(wheelbarrow?/wheelchair?)	Is the object a metal(tricycle?/pushcart?)	Is the object a metal(pushcart?/sled?)	Is the object a metal(sled?/rickshaw?)	Is the object a metal(rickshaw?/stroller?)	Is the object a metal(trolley?/hand truck?)	Is the object a metal(hand truck?/unicycle?)	Is the object a metal(unicycle?/luggage cart?)	Is the object a metal(luggage cart?/segway?)	Is the object a metal(segway?/wagon wheel?)	Is the object a metal(wagon wheel?/rollerblade?)	Is the object a metal(rollerblade?/monowheel?)	Is the object a metal(monowheel?/dolly?)	Is the object a metal(dolly?/hoverboard?)	Is the object a metal(hoverboard?/pedal car?)	Is the object a metal(pedal car?/kick scooter?)	Is the object a metal(kick scooter?/baby carriage?)	Is the object a metal baby(carriage?/carriage?)	Is the object a metal(horse-drawn carriage?/sleigh?)	Is the object a metal(sleigh?/shopping trolley?)	Is the object a metal(shopping trolley?/wheel chock?)	Is the object a metal(push scooter?/balance bike?)	Is the object a metal(balance bike?/rickshaw?)	Is the object a metal(rickshaw?/cart?)	Is the object a metal(cart?/stagecoach?)	Is the object a metal(stagecoach?/golf cart?)	Is the object a metal(golf cart?/baby pram?)	Is the object a metal(baby pram?/cable car?)	
+2	Is the object used for(transporting goods?/public transportation?)	Is the object a(bus?/train?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object used for(communication?/entertainment?)	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object a(smartphone?/tablet?)	Is the object used for video(communication?/communication?)	Is the object used for(audio communication?/internet connectivity?)	Is the object used for(data storage?/inputting information?)	
+7	Is the object primarily made of(metal?/plastic?)	Is the object used for(entertainment purposes?/cleaning?)	Is the object a(calculator?/printer?)	Is the object a computer(accessory?/mouse?)	Is the object a(monitor?/webcam?)	Is the object a(router?/stylus?)	Is the object a(microphone?/trackpad?)	
+0	
+3	Is the object used in construction(or building?/or technology?)	Is the object used in communication(or technology?/or farming?)	Is the object used in the field of(education or learning?/transportation infrastructure)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object used for video(communication?/communication?)	
+0	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object used for(decoration?/storing items?)	
+9	Is the object a(scooter?/motorcycle?)	Is the object a(hoverboard?/Segway?)	Is the object a metal(skateboard?/roller skate?)	Is the object a metal(roller skate?/wheelchair?)	Is the object a metal(wheelchair?/shopping cart?)	Is the object a metal(shopping cart?/sled?)	Is the object a metal(sled?/walker?)	Is the object a metal(walker?/tricycle?)	Is the object a metal(tricycle?/luggage cart?)	
+3	Is the object used for air(travel?/travel?)	Is the object a(bicycle?/motorcycle?)	Is the object a(tram?/locomotive?)	
+0	
+4	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	
+0	
+5	Is the object a(diode?/transistor?)	Is the object a voltage regulator(integrated circuit?/integrated circuit?)	Is the object a memory controller(integrated circuit?/integrated circuit?)	Is the object a photonic integrated(circuit?/circuit?)	Is the object a comparator integrated(circuit?/circuit?)	
+0	
+0	
+0	
+7	Is the object used in a(household setting?/industrial setting?)	Is the object used in a recreational or(sports setting?/office setting?)	Is the object used in a professional or(office setting?/healthcare setting?)	Is the object used for scientific or(research purposes?/protective purposes?)	Is the object a(weapon?/firearm?)	Is the object a(grenade?/landmine?)	Is the object a(landmine?/bomb?)	
+7	Is the object used for(communication?/entertainment purposes?)	Is the object a(printer?/calculator?)	Is the object a(keyboard?/mouse?)	Is the object a(mouse?/scanner?)	Is the object a(telephone?/photocopier?)	Is the object a(typewriter?/clock?)	Is the object a(clock?/thermostat?)	
+0	
+0	
+1	Is the vehicle used for(transporting goods?/public transportation?)	
+0	
+0	
+0	
+1	Is the object made of(glass?/metal?)	
+3	Is the object part of the vehicle's(engine?/exterior?)	Is the object part of the vehicle's(exterior?/interior?)	Is the object related to the vehicle's(seating?/control systems)	
+0	
+1	Is the object used for(communication?/entertainment?)	
+4	Is the object primarily made of(metal?/plastic?)	Is the object a(smartphone?/tablet?)	Is the object used for video(communication?/communication?)	Is the object used for audio(communication?/communication?)	
+3	Is the object used in a(living room?/bedroom?)	Is the object used in a(bedroom?/bathroom?)	Is the object used in a(laundry room?/home office?)	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+0	
+17	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object commonly used for packaging(or storage?/or drawing?)	Is the object a type of paper lantern(or lampshade?/or model?)	Is the object a type of paper flower(or floral arrangement?/or silhouette art?)	Is the object a type of paper fan(used for decoration?/or hanging decoration?)	Is the object a type of paper mobile(or hanging decoration?/or scene?)	Is the object a type of paper diorama(or scene?/or garland?)	Is the object a type of paper banner(or garland?/or assemblage?)	Is the object a type of paper collage(or assemblage?/or architectural model?)	Is the object a type of paper model(or architectural model?/or cut-out decoration?)	Is the object a type of paper snowflake(or cut-out decoration?/or figure?)	Is the object a type of paper model or cut-out(used for educational displays?/used for decoration?)	Is the object a type of paper tapestry(or wall hanging?/or link decoration?)	Is the object a type of paper chain(or link decoration?/or decorative banknote?)	Is the object a type of paper lantern used for decorative(purposes?/purposes?)	
+0	
+3	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	
+2	Is the object used in communication(or technology?/or building?)	Is the object a(firearm?/handgun?)	
+0	
+0	
+0	
+1	Is the object used in a(household setting?/industrial setting?)	
+0	
+1	Is the object used on(roads?/railways?)	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object a safety(helmet?/harness?)	
+2	Is the object used for(transportation?/recreational purposes?)	Is the object used for gardening(or landscaping?/or protection?)	
+0	
+5	Is the object used for(communication?/entertainment?)	Is the object a type of(audio equipment?/lighting device?)	Is the object a type of lighting(device?/device?)	Is the object a(smartphone?/smartwatch?)	Is the object a(smartwatch?/calculator?)	
+2	Is the vehicle used for recreational(purposes?/purposes?)	Is the vehicle a space(shuttle?/station?)	
+0	
+0	
+5	Is the object a(whistle?/flare?)	Is the object a(siren?/buoy?)	Is the object a(buoy?/beacon?)	Is the object a(bullhorn?/heliograph?)	Is the object a semaphore(flag?/flag?)	
+0	
+0	
+1	Is the object primarily made of(metal?/plastic?)	
+1	Is the object used in(aviation?/maritime navigation?)	
+0	
+0	
+3	Is the vehicle a(glider?/drone?)	Is the vehicle a(drone?/blimp?)	Is the vehicle a(blimp?/spacecraft?)	
+3	Is the object used for air(travel?/travel?)	Is the object used for water(travel?/travel?)	Is the object used for(space travel?/personal transportation?)	
+14	Is the object a(funnel?/wrench?)	Is the object a(wrench?/hammer?)	Is the object a(hammer?/screwdriver?)	Is the object a metal(ramp?/creeper?)	Is the object a metal(creeper?/toolbox?)	Is the object a metal(funnel?/chisel?)	Is the object a metal(chisel?/pry bar?)	Is the object a metal(pry bar?/socket set?)	Is the object a metal(socket set?/tire gauge?)	Is the object a metal(tire gauge?/wire brush?)	Is the object a metal(wire brush?/rivet gun?)	Is the object a metal(rivet gun?/torque wrench?)	Is the object a metal(torque wrench?/impact driver?)	Is the object a metal(alignment tool?/engine hoist?)	
+0	
+5	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object primarily made of organic(material?/material?)	
+18	Is the object used for storage(or organization?/or mobility?)	Is the object part of the vehicle's transmission(system?/system?)	Is the object part of the vehicle's exhaust(system?/system?)	Is the object part of the vehicle's braking(system?/system?)	Is the object part of the vehicle's cooling(system?/system?)	Is the object part of the vehicle's fuel(system?/system?)	Is the object a car's(wiring harness?/ignition coil?)	Is the object a car's(ignition coil?/alternator belt?)	Is the object a car's(alternator belt?/distributor cap?)	Is the object a car's(distributor cap?/headlight?)	Is the object a car's(headlight?/battery cable?)	Is the object a car's(battery cable?/relay?)	Is the object a car's(relay?/horn?)	Is the object a car's(horn?/voltage regulator?)	Is the object a car's(voltage regulator?/dashboard light?)	Is the object a car's electric(window motor?/fuel pump?)	Is the object a car's electric(fuel pump?/seat adjuster?)	Is the object a car's electric seat(adjuster?/adjuster?)	
+1	Is the tool used for(electrical purposes?/plumbing?)	
+0	
+1	Does the vehicle have two(wheels?/wheels?)	
+0	
+0	
+3	Is the vehicle used for(transporting goods?/public transportation?)	Is the vehicle a(bus?/train?)	Is the vehicle a(ferry?/tram?)	
+4	Is the object used in agriculture(or farming?/or technology?)	Is the object used in maritime(settings?/settings?)	Is the object used in aviation(settings?/settings?)	Is the object a(flagpole?/streetlight?)	
+0	
+1	Is the object used for air(travel?/travel?)	
+1	Is the object primarily made of(metal?/plastic?)	
+11	Is the object part of the vehicle's(engine?/exterior?)	Is the object a(door?/bumper?)	Is the object a(bumper?/mirror?)	Is the object a(mirror?/wheel?)	Is the object a(wheel?/hood?)	Is the object a(hood?/fender?)	Is the object a(fender?/roof?)	Is the object a(grille?/spoiler?)	Is the object a(headlight?/taillight?)	Is the object a(windshield?/window?)	Is the object a(window?/hubcap?)	
+1	Is the object a container(ship?/ship?)	
+8	Is the object a(bicycle?/car?)	Is the object a(sedan?/truck?)	Is the object a(van?/convertible?)	Is the object a(convertible?/limousine?)	Is the object a(limousine?/hatchback?)	Is the object a(hatchback?/coupe?)	Is the object a(coupe?/bus?)	Is the object a(bus?/taxi?)	
+0	
+2	Is the object primarily made of(metal?/plastic?)	Is the object a(modem?/tablet?)	
+3	Is the object primarily made of(metal?/plastic?)	Is the object a(webcam?/tablet?)	Is the object a video(conferencing camera?/security camera?)	
+0	
+1	Is the object a(fan?/thermostat?)	
+0	
+0	
+2	Does the vehicle have two(wheels?/wheels?)	Is the vehicle used for air(travel?/travel?)	
+1	Is the object a communication device used for(video calls?/sending written messages?)	
+0	
+5	Is the object a(truck?/train?)	Is the object a(forklift?/bus?)	Is the object a(bus?/van?)	Is the object a(helicopter?/crane?)	Is the object a(crane?/bulldozer?)	
+0	
+10	Is the object used for air(travel?/travel?)	Is the object a(motorboat?/submarine?)	Is the object a(submarine?/kayak?)	Is the object a(kayak?/rowboat?)	Is the object a(rowboat?/yacht?)	Is the object a(yacht?/canoe?)	Is the object a(canoe?/ferry?)	Is the object a(hovercraft?/paddleboat?)	Is the object a(lifeboat?/battleship?)	Is the object a(battleship?/tugboat?)	
+2	Is the object primarily made of(metal?/plastic?)	Is the object used for(communication?/entertainment?)	
+2	Is the object made primarily of(metal?/wood?)	Is the object made primarily of(wood?/plastic?)	
+1	Is the object primarily made of(metal?/plastic?)	
+2	Is the aircraft a(glider?/drone?)	Is the aircraft a military(jet?/jet?)	
+0	
+0	
+26	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object used for(sitting?/storage?)	Is the object used for(storage?/decoration?)	Is the object a(canoe?/kayak?)	Is the object a(kayak?/paddleboard?)	Is the object a wooden(raft?/surfboard?)	Is the object a wooden(surfboard?/yacht?)	Is the object a wooden(yacht?/dinghy?)	Is the object a wooden(dinghy?/fishing boat?)	Is the object a wooden(fishing boat?/sailboard?)	Is the object a wooden(sailboard?/catamaran?)	Is the object a wooden(catamaran?/skiff?)	Is the object a wooden(skiff?/gondola?)	Is the object a wooden(gondola?/pirogue?)	Is the object a wooden(pirogue?/dory?)	Is the object a wooden(dory?/coracle?)	Is the object a wooden(coracle?/outrigger canoe?)	Is the object a wooden(outrigger canoe?/lifeboat?)	Is the object a wooden(lifeboat?/punt?)	Is the object a wooden(punt?/longboat?)	Is the object a wooden(longboat?/drakkar?)	Is the object a wooden(drakkar?/tender?)	Is the object a wooden(tender?/pram?)	Is the object a wooden(pram?/wherry?)	Is the object a wooden(wherry?/scow?)	
+8	Is the object used for(transportation?/recreational purposes?)	Is the object used for(harvesting?/irrigation?)	Is the object used for(pest control?/storage?)	Is the object used for(storage?/livestock management?)	Is the object used for(livestock management?/fertilization?)	Is the object used for(fertilization?/crop protection?)	Is the object used for monitoring(or measuring?/or maintenance?)	Is the object used for processing(agricultural products?/grains?)	
+1	Is the object primarily made of(metal?/plastic?)	
+14	Is the object primarily made of(metal?/plastic?)	Is the object primarily made of(plastic?/wood?)	Is the object primarily made of(wood?/glass?)	Is the object primarily made of paper(or cardboard?/or clay?)	Is the object a(skateboard?/scooter?)	Is the object a(hoverboard?/wheelchair?)	Is the object a(wheelchair?/bicycle?)	Is the object a(bicycle?/segway?)	Is the object a(surfboard?/kiteboard?)	Is the object a(kiteboard?/parachute?)	Is the object a(parachute?/paddleboard?)	Is the object a(snowmobile?/paraglider?)	Is the object a(paraglider?/jetpack?)	Is the object a(jetpack?/tricycle?)	

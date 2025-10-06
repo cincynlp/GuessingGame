@@ -1,0 +1,501 @@
+object,mode,turn_idx,question,label
+rocket,type,8,Is the spacecraft you are thinking of the International Space Station?,Direct
+penlight,type,3,Is the object electric?,Category
+timer,type,7,Is the object a clock?,Direct
+spool,type,33,What is the object you are thinking of?,Direct
+grenade,type,13,Is the object a type of weapon?,Category
+bazooka,type,18,What is the object's material composition besides metal?,Attribute
+blowtorch,type,7,Does the object have a button or trigger that must be pressed in order to release the gas?,Attribute
+carafe,type,3,Does the object have buttons or controls?,Attribute
+faceplate,type,6,I'm going to guess that the object is a hammer.?,Direct
+tank,type,3,Is the object a vehicle?,Category
+chalkboard,type,50,Is the object you are thinking of made of a synthetic material?,Attribute
+cement,type,6,Is the object made of a material that can be molded or shaped when it is soft?,Attribute
+shawl,type,15,What is the shape of the object?,Attribute
+slipper,type,4,Is the object a sock?,Direct
+earphone,type,14,Is the object used with another device,Attribute
+chalkboard,type,23,Is the object you are thinking of a graphite stick?,Direct
+paperweight,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+feedbag,type,28,I am going to take a guess that the object you are thinking of is a plastic horse feeder.?,Direct
+pen,type,8,I'm going to take a guess that the object you are thinking of is a pen.?,Direct
+chute,type,29,Is the object a steel warehouse ramp?,Direct
+undershirt,type,13,Is the object a t-shirt?,Direct
+bracelet,type,34,Is the object you are thinking of a gold coin?,Direct
+nightdress,type,2,How is the object you are thinking of used?,Function
+stirrup,type,6,What is the texture of the object?,Attribute
+longboat,type,19,What is the object's smell?,Attribute
+chute,type,42,Is the object a type of ramp that is used to load and unload heavy objects?,Category
+bedding,type,29,Is the object you are thinking of a king sized sheet blanket?,Direct
+gondola,type,13,Is the object commonly found in the ocean?,Location
+carpetbag,type,33,How is the object you are thinking of used in a daily routine?,Function
+binoculars,type,5,Is the object a pair of binoculars?,Direct
+lotion,type,5,Is the object a lotion?,Category
+oilcan,type,16,What is the object you are thinking of?,Direct
+squeegee,type,2,What is the object used for?,Function
+stencil,type,18,Is the object you are thinking of made of any other material besides metal and plastic?,Attribute
+motorboat,type,22,Is the object you are thinking of a Chaparral?,Direct
+cauldron,type,14,What is the color of the object?,Attribute
+deadbolt,type,5,What is the shape of the object?,Attribute
+urinal,type,2,How is the object you are thinking of used?,Function
+necktie,type,4,What is the purpose of the object being worn around the neck for decorative purposes?,Function
+strap,type,7,What is the texture of the object you are thinking of?,Attribute
+statuette,type,19,What is the object's texture?,Attribute
+inhaler,type,6,How does the object interact with a person?,Function
+cardigan,type,8,I'm going to take a guess that the object you are thinking of is a sweater.?,Direct
+booklet,type,32,Is the pamphlet made of glossy paper?,Attribute
+pocketknife,type,32,What is the texture of the object you are thinking of?,Attribute
+pole,type,17,What is the shape of the object?,Attribute
+skirt,type,9,Is the object you are thinking of man-made?,Category
+spool,type,34,Does the object have a hole or opening in the center?,Attribute
+nightdress,type,16,What is the texture of the object you are thinking of?,Attribute
+commode,type,23,Is the object a necessary part of a bathroom?,Location
+bassinet,type,37,Is the object a crib?,Direct
+uniform,type,11,Is the object a patch?,Direct
+cushion,type,1,What is the size of the object?,Attribute
+doorpost,type,25,What is the primary function of the wood in the object you are thinking of?,Function
+stopwatch,type,10,What is the context in which the watch is used?,Function
+handbag,type,7,Is the object you are thinking of now something that can be held in your hand?,Attribute
+antenna,type,5,Does the object have buttons or controls that you press to operate it?,Attribute
+nozzle,type,10,Is the object a spray bottle?,Direct
+bandage,type,9,Is the object used primarily on humans?,Function
+seesaw,type,13,What is the material the object is primarily made of?,Attribute
+shirt,type,4,Is the object a type of clothing?,Category
+breastplate,type,3,Is the object man-made?,Category
+kettledrum,type,34,Is the object you are thinking of a type of percussion instrument?,Category
+pontoon,type,8,Is the object you are thinking of a log?,Direct
+stethoscope,type,6,How is the object used in a medical setting?,Function
+hanky,type,8,What is the object made of besides paper?,Attribute
+cufflink,type,4,Is the object a button?,Direct
+casket,type,39,Is the object heavy?,Attribute
+bobsleigh,type,15,What is the object?,Direct
+telescope,type,5,Is the object made primarily of glass?,Attribute
+moneybag,type,5,What is the object's color?,Attribute
+bedding,type,17,Is the object you are thinking of a throw blanket?,Direct
+holster,type,22,Is the object a pouch?,Direct
+submarine,type,5,Is the object man made?,Category
+bucket,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+eyepiece,type,15,Is the object an eyepiece?,Direct
+hovercraft,type,3,Can the object be found in most cities?,Location
+pottery,type,7,Is the object used for holding hot things?,Function
+ferryboat,type,27,What is the typical depth of water the ship you are thinking of operates in?,Function
+sprinkler,type,2,How is the object used?,Function
+knuckles,type,15,How does the object you are thinking of relate to other objects in the same category?,Category
+recliner,type,7,Is the object you are thinking of a chair?,Direct
+cartwheel,type,6,Is the object made of metal?,Attribute
+tray,type,5,Is the object disposable?,Attribute
+washbowl,type,27,I'm going to guess that the object is a shampoo bowl.?,Direct
+harpoon,type,49,What is the object you are thinking of?,Direct
+tassel,type,3,What is the material of the object?,Attribute
+platter,type,7,How is the object you are thinking of typically stored?,Location
+warship,type,39,Is the object a battleship from World War 1?,Direct
+gauze,type,10,What is the purpose of using the object to dress wounds?,Function
+sack,type,24,How is the object typically used in everyday life?,Function
+stocking,type,45,Is the object a type of hosiery?,Category
+harpsichord,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+syringe,type,8,Is the object a syringe?,Direct
+racquetball,type,7,What material is the racquet made of?,Attribute
+clock,type,7,What is the object's cultural significance?,Function
+thermostat,type,7,Is the object a thermostat?,Direct
+bowtie,type,28,What is the object's relationship to the person's attire?,Function
+sneaker,type,7,What is the object used for?,Function
+yoke,type,8,Does the object have moving parts?,Attribute
+crossbeam,type,45,What is the object?,Direct
+pantsuit,type,4,Is the object you are thinking of related to furniture?,Category
+videotape,type,27,What is the object's smell?,Attribute
+canoe,type,10,What is the object's size?,Attribute
+telephone,type,4,I'm going to guess that the object is a cell phone.?,Direct
+mirror,type,2,How is the object typically used?,Function
+toga,type,3,Is the object you are thinking of made of fabric?,Attribute
+hairpiece,type,5,Is the object made of a man-made material?,Attribute
+tailcoat,type,33,Is the object made of wool?,Attribute
+streetcar,type,12,What is the object you are thinking of?,Direct
+schoolbag,type,8,Does the object you are thinking of have multiple compartments?,Attribute
+tuba,type,15,Is the object you are thinking of a tuba?,Direct
+carpetbag,type,45,How is the object you are thinking of used in a daily routine?,Function
+shredder,type,15,What is the object?,Direct
+bodice,type,21,Is the object a dress shirt?,Direct
+snowmobile,type,8,I previously asked if the object had wheels and you said yes. Now you are saying the object has no wheels. I am confused. ?,Attribute
+refrigerator,type,5,Is the object commonly found in a kitchen?,Location
+sifter,type,15,What is the object?,Direct
+bandanna,type,4,How is the object typically used?,Function
+shelf,type,12,What is the shape of the object?,Attribute
+seismograph,type,6,Is the object used in the field of geology?,Function
+stopwatch,type,17,Does the watch have a backlight?,Attribute
+trolley,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+swatch,type,5,Is the object a color swatch?,Direct
+nightshirt,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+hairpiece,type,14,How is the object put on or taken off?,Attribute
+storybook,type,12,Is the book a classic?,Attribute
+goblet,type,23,What is the object's composition?,Attribute
+sill,type,23,Is the object a baseboard?,Direct
+puppet,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+quilt,type,1,What is the size of the object you are thinking of?,Attribute
+matchbook,type,4,Does the object use friction to create fire?,Function
+tape,type,7,How is the object made?,Attribute
+jug,type,3,Is the object made of glass?,Attribute
+kettledrum,type,25,What is the object you are thinking of?,Direct
+tarmac,type,18,Is the object you are thinking of an asphalt pavement?,Direct
+hairpin,type,9,What is the color of the object?,Attribute
+sack,type,9,Does the object have a zipper or other closing mechanism?,Attribute
+pan,type,2,How is the object used?,Function
+armoire,type,35,What is the object?,Direct
+ship,type,7,What is the object you are thinking of?,Direct
+ukulele,type,8,How does the object you are thinking of relate to other objects in a music performance?,Function
+railcar,type,4,How many wheels does the object have?,Attribute
+searchlight,type,49,Is the object used for signaling?,Function
+underpants,type,15,Is the object you are thinking of a brief?,Direct
+washbasin,type,47,What is the object you are thinking of?,Direct
+moat,type,33,What is the object made of?,Attribute
+sunglasses,type,14,What is the object?,Direct
+odometer,type,8,Is the object used in vehicles?,Function
+dishtowel,type,14,How does the object make the user feel?,Function
+shotgun,type,10,Is the object used primarily for hunting?,Function
+hubcap,type,3,Does the object you are thinking of have a logo or other markings on it?,Attribute
+rocket,type,18,Is the spacecraft you are thinking of the Dragon spacecraft?,Direct
+stereo,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+cabinet,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+pegboard,type,6,Is the object you are thinking of something that can be used for personal grooming or hygiene?,Function
+chute,type,48,Is the object a type of equipment that is used to facilitate the movement of goods?,Category
+spool,type,40,What is the object you are thinking of?,Direct
+nightgown,type,12,Is the object a pair of pajamas?,Direct
+steamboat,type,34,Is the object the SS Great Britain?,Direct
+easel,type,11,Is the object you are thinking of a desk?,Direct
+corduroy,type,10,Does the object you are thinking of have buttons?,Attribute
+sickle,type,5,Is the object you are thinking of a scythe?,Direct
+chute,type,28,What is the object's typical use in a warehouse?,Function
+bedpost,type,9,Is the object a lamp?,Direct
+xylophone,type,6,Is the object a xylophone?,Direct
+longboat,type,24,Is the object you were thinking of a cedar barge?,Direct
+schoolbook,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+canopy,type,4,Is the object a tent?,Direct
+copier,type,39,What is the object?,Direct
+miniskirt,type,12,What is the shape of the object?,Attribute
+engine,type,9,Is the object you are thinking of an engine?,Direct
+cushion,type,7,How is the object typically stored when not in use?,Location
+pillbox,type,2,How is the object you are thinking of used?,Function
+cobblestone,type,9,What is the purpose of the object in paving and construction?,Function
+string,type,2,Is the object you are thinking of man-made?,Category
+wristwatch,type,34,Is the object collectible?,Function
+television,type,5,How does the object make people feel?,Function
+cart,type,21,What is the object made of,Attribute
+toothbrush,type,6,What is the texture of the object?,Attribute
+carpetbag,type,24,Is the object you are thinking of something that is commonly used for school?,Function
+pantyhose,type,50,What is the typical occasion where the object is worn?,Function
+doorjamb,type,35,Is the object you are thinking of a solid oak wood door frame?,Direct
+laser,type,4,How is the object used?,Function
+jumpsuit,type,7,What is the object made of?,Attribute
+kettledrum,type,38,What is the object you are thinking of?,Direct
+wheelbarrow,type,2,How is the object you are thinking of used by people?,Function
+shredder,type,20,What is the object's color?,Attribute
+stopwatch,type,12,How is the watch used in sports?,Function
+pamphlet,type,3,Is the object made of paper?,Attribute
+mattress,type,3,Is the object used for transportation?,Function
+ratchet,type,4,Is the object a wrench?,Direct
+skirt,type,12,Is the object you are thinking of related to clothing or textiles in any way?,Function
+stove,type,34,What is the object's composition?,Attribute
+spool,type,13,What is the object you are thinking of?,Direct
+pencil,type,44,Is the object's color consistent throughout its entire length?,Attribute
+hairnet,type,18,Is the object you are thinking of a hairnet?,Direct
+floodlight,type,9,Does the object you are thinking of have a screen?,Attribute
+commode,type,17,What is the object's shape?,Attribute
+sundress,type,2,How is the object you are thinking of typically used?,Function
+workbook,type,49,What is the object?,Direct
+computer,type,8,Is the laptop you are thinking of a dell laptop?,Direct
+moccasin,type,30,How is the object used in everyday life?,Function
+undercoat,type,18,Is the object a piece of cloth used for blotting?,Direct
+microchip,type,6,Is the object you are thinking of a microchip?,Direct
+basin,type,3,Is the object made of plastic?,Attribute
+underpants,type,9,Is the object you are thinking of a glove?,Direct
+shrapnel,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+sill,type,35,Is the object made of maple?,Attribute
+breadboard,type,14,Does the object have any other typical colors?,Attribute
+handlebar,type,4,Can the object be found in a store?,Location
+beaker,type,12,How is the object typically used?,Function
+tightrope,type,3,Is the object man-made?,Category
+loincloth,type,5,Is the object a type of underwear?,Category
+corduroy,type,24,Is the object you are thinking of a denim jacket?,Direct
+wagon,type,5,What is the typical size of the object you are thinking of?,Attribute
+stopwatch,type,4,How is the watch used?,Function
+motorboat,type,27,Is the object you are thinking of a Formula?,Direct
+crossbow,type,4,I think the object is a sword.?,Direct
+whaleboat,type,21,What is the color of the object?,Attribute
+knuckles,type,47,Is the object you are thinking of made of a hard material?,Attribute
+figurine,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+bedpost,type,1,What is the size of the object you are thinking of?,Attribute
+button,type,10,What is the object you are thinking of?,Direct
+blouse,type,19,What is the approximate weight of the object?,Attribute
+gargoyle,type,6,Is the object a cross?,Direct
+stopwatch,type,35,"Is the watch made by a company that starts with the letter ""A""?",Category
+inkwell,type,16,Is the object a glass inkwell?,Direct
+scabbard,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+nozzle,type,24,Is the object a water gun?,Direct
+breadboard,type,45,Does the object have any electronic components?,Attribute
+stagecoach,type,7,How does the object you are thinking of relate to the environment?,Function
+mop,type,9,I think the object is a cotton ball?,Direct
+shelf,type,11,Is the object a cabinet?,Direct
+hotplate,type,8,Is the object you are thinking of a pan?,Direct
+cannon,type,12,What is the object's purpose?,Function
+wheel,type,11,What is the material that the object is primarily made of?,Attribute
+earphone,type,9,I'm going to take a guess that the object is a radio.?,Direct
+storybook,type,41,What is the age range of the intended reader of the book?,Function
+handgun,type,25,Does the object you are thinking of have a laser sight?,Attribute
+cot,type,44,Is the object commonly used in emergency situations?,Function
+purse,type,5,Is the object you are thinking of something that can be worn?,Function
+carriage,type,15,Is the object a horse-drawn carriage?,Direct
+stirrup,type,9,I'm going to take a guess that the object is a stirrup. ?,Direct
+workbook,type,36,What is the object?,Direct
+flag,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+bedding,type,21,How is the object typically cleaned?,Attribute
+scalpel,type,2,What is the purpose of the object?,Function
+sack,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+spear,type,3,Is the object made of wood?,Attribute
+eggbeater,type,21,Is the object a milk frother?,Direct
+horn,type,18,What is the object you are thinking of?,Direct
+footlocker,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+warship,type,31,How is the object powered?,Attribute
+detonator,type,11,No more questions. ?,Direct
+woofer,type,14,Is the object a subwoofer?,Direct
+tugboat,type,10,Is the object a tugboat?,Direct
+bead,type,3,What is the purpose of the object?,Function
+television,type,12,Is the object a 4k TV?,Direct
+wand,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+schoolbook,type,4,I'm going to take a guess that the object you are thinking of is a book.?,Direct
+bayonet,type,24,What is the size of the handle of the object?,Attribute
+wristwatch,type,4,What is the object?,Direct
+picture,type,5,Is the object you are thinking of used for entertainment?,Function
+stair,type,2,What is the object used for?,Function
+beret,type,4,Is the object a hat?,Direct
+sunlamp,type,2,What is the object used for?,Function
+strongbox,type,30,What is the object?,Direct
+snowsuit,type,17,Is the object made of animal products?,Attribute
+seesaw,type,8,Is the object you are thinking of made primarily of fabric?,Attribute
+duvet,type,22,What is the texture of the object's fabric?,Attribute
+shoestring,type,31,Is the object a shoelace?,Direct
+wallet,type,4,Is the object a bag?,Direct
+hanky,type,5,How does the object relate to other objects in its environment?,Category
+pin,type,25,Is the object you are thinking of something that can be used to fasten fabric together temporarily?,Function
+flytrap,type,17,Does the object have any distinctive features such as patterns or markings?,Attribute
+sketchbook,type,11,Is the object a notebook?,Direct
+futon,type,12,What is the object you are thinking of?,Direct
+timber,type,8,Is the object used for holding or supporting something?,Function
+feedbag,type,37,What is the texture of the object you are thinking of?,Attribute
+sleigh,type,42,What type of animal is used to pull the object?,Category
+bucket,type,16,Is the object you are thinking of a bucket?,Direct
+skullcap,type,4,I'm going to take a guess,Direct
+flytrap,type,11,Does the object you are thinking of have a distinctive shape?,Attribute
+streetcar,type,5,Is the object you are thinking of a vehicle?,Category
+sketchbook,type,8,Is the object made of recycled materials?,Attribute
+spatula,type,10,Is the object used for flipping food?,Function
+blindfold,type,6,How is the object used to block a person's view?,Function
+holster,type,45,Is the object used for holding small office supplies?,Function
+defibrillator,type,38,What is the object you are thinking of?,Direct
+cogwheel,type,6,What is the material of the object?,Attribute
+projector,type,3,How is the object used?,Function
+truck,type,6,What is the typical size of the object you are thinking of?,Attribute
+dryer,type,4,Where is the object typically located?,Location
+jukebox,type,7,Is the object electronic?,Category
+steamboat,type,18,What is the object's material composition besides steel?,Attribute
+forceps,type,6,Is the object you are thinking of something that can be found in a toolbox?,Location
+tarmac,type,15,What is the shape of the object you are thinking of?,Attribute
+flagpole,type,4,Is the object man made?,Category
+ship,type,17,What is the object you are thinking of?,Direct
+urinal,type,6,Is the object you are thinking of typically found indoors?,Location
+satellite,type,6,Does the object have a screen?,Attribute
+bodice,type,45,Is the object a velvet corset?,Direct
+button,type,11,Is the object commonly found in a household?,Location
+mask,type,4,Is the object you are thinking of a mask?,Direct
+nightstick,type,4,Can you tell me a situation in which the object you are thinking of would be used?,Function
+suit,type,6,Is the object a type of clothing?,Category
+wastebasket,type,39,Is the object used in an office?,Function
+kettledrum,type,17,What material is the object you are thinking of made of?,Attribute
+longboat,type,29,Is the object you were thinking of a cedar punt?,Direct
+warplane,type,40,Is the object you are thinking of an SR-71?,Direct
+textbook,type,18,Is the object a textbook?,Direct
+incubator,type,7,How is the object you are thinking of used in conjunction with other objects in a laboratory?,Function
+topcoat,type,12,Is the object a clear top coat nail polish?,Direct
+maypole,type,13,Is the object a tree?,Direct
+purse,type,4,I'm going to take a guess that the object you are thinking of is a wallet.?,Direct
+telegraph,type,4,Is the object electronic?,Category
+chalice,type,2,What is the object used for?,Function
+cup,type,3,Is the object you are thinking of made of plastic?,Attribute
+shredder,type,13,What is the object?,Direct
+banner,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+blouse,type,13,Is the shirt long sleeved?,Attribute
+pencil,type,32,What is the object?,Direct
+motorboat,type,40,What is the object's material composition?,Attribute
+motorbus,type,44,What is the object's purpose in everyday life?,Function
+pinstripe,type,19,What is the object you are thinking of?,Direct
+crutch,type,4,I think the object you are thinking of is a cane.?,Direct
+floodlight,type,11,What is the material that the object's outer casing is made of?,Attribute
+matchbook,type,10,Is the object a matchbook?,Direct
+skirt,type,44,Is the object you are thinking of commonly used in everyday life?,Function
+telescope,type,8,Is the object a telescope?,Direct
+spool,type,9,What is the primary material the object is made of?,Attribute
+moat,type,48,What is the object?,Direct
+weeds,type,21,Is the object a type of water lily?,Category
+doll,type,2,How is the object used?,Function
+pot,type,9,Is the object made of paper?,Attribute
+moat,type,15,What is the object?,Direct
+ski,type,16,What is the color of the object?,Attribute
+pail,type,2,What is the object used for?,Function
+cello,type,9,Does the object have a round back?,Attribute
+webcam,type,8,Is the object a type of camera?,Category
+dagger,type,10,What is the object typically used for in a kitchen?,Function
+inkwell,type,4,Is the object a pen?,Direct
+holster,type,26,Is the object used for holding personal items?,Function
+sundress,type,8,Is the object you are thinking of related to a specific type of clothing,Category
+landline,type,3,Can the object be found in a home?,Location
+slingshot,type,6,I'm going to take a guess that the object is a baseball bat.?,Direct
+woofer,type,3,Is the object man-made?,Category
+cheesecloth,type,6,What is the object made of?,Attribute
+washrag,type,7,Is the object a dish towel?,Direct
+washbasin,type,5,Is the sink used in a bathroom?,Function
+earphone,type,3,What is the approximate size of the object?,Attribute
+maypole,type,10,Is the object a fence?,Direct
+faceplate,type,2,How is the object typically used?,Function
+smock,type,39,Is the object you are thinking of something that can be held in your hand?,Attribute
+sack,type,29,I'm going to guess that the object is a burlap tote bag?,Direct
+wristwatch,type,21,Is the object a luxury item?,Category
+washbasin,type,31,Is the object you are thinking of a sink that is typically cleaned with soap and water?,Direct
+bullet,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+braces,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+kerchief,type,46,What is the object?,Direct
+sketchbook,type,4,Does the object have a tip that is made of a material that leaves a mark on a surface?,Attribute
+motorcar,type,46,How does the vehicle make people feel?,Function
+phonograph,type,2,What is the object used for?,Function
+knuckles,type,14,What is the object you are thinking of?,Direct
+bifocals,type,15,What is the shape of the glasses?,Attribute
+catalog,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+softball,type,3,Is the object made of a hard material?,Attribute
+slipper,type,5,What is the shape of the object?,Attribute
+kettledrum,type,45,What is the object you are thinking of made of besides copper?,Attribute
+pot,type,22,Is the object a container for food or drink that is typically used to serve or store a single serving?,Function
+sedan,type,2,Is the object you are thinking of man-made?,Category
+dagger,type,2,How is the object typically used?,Function
+album,type,3,Is the object made of plastic?,Attribute
+squeegee,type,10,Is the object a squeegee?,Direct
+tux,type,5,Is the object you are thinking of something that is worn on the head?,Function
+bowtie,type,40,How is the object used in a social setting?,Function
+briefcase,type,8,Is the object a purse?,Direct
+ship,type,15,What is the object you are thinking of?,Direct
+stopwatch,type,7,Does the watch have a strap?,Attribute
+urn,type,4,What happens to the object after it is used in a funeral?,Function
+locket,type,29,Is the object a container for something that a person would carry with them?,Function
+pliers,type,4,I'm going to guess that the object is a pair of pliers.?,Direct
+bookmarker,type,3,Is the object made of paper?,Attribute
+breadbox,type,4,What happens to the object when it is used to store bread?,Function
+tanker,type,4,Is the object you are thinking of a pipe?,Direct
+oilcan,type,28,Is the object you are thinking of commonly found in most households?,Location
+parcel,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+oar,type,4,Is the object a paddle?,Direct
+searchlight,type,42,What is the object's color besides silver?,Attribute
+refrigerator,type,8,I am going to take a guess that the object is a refrigerator. ?,Direct
+barbell,type,4,Is the object you are thinking of a dumbbell?,Direct
+tinsel,type,10,Is the object you are thinking of made of a metal?,Attribute
+waistband,type,38,Is the object typically stored in a closet?,Location
+waistband,type,31,What is the object?,Direct
+tricycle,type,4,Does the object have wheels?,Attribute
+washbasin,type,20,Is the object you are thinking of a standard bathroom sink?,Direct
+moccasin,type,48,Is the object a type of moccasin loafers made of suede?,Direct
+handlebar,type,7,What is the object?,Direct
+collage,type,7,Does the object have a frame?,Attribute
+casket,type,38,What is the object?,Direct
+sprinkler,type,8,Is the object a garden hose nozzle?,Direct
+recliner,type,9,What is the purpose of the chair in the living room?,Function
+nozzle,type,8,Is the object a faucet?,Direct
+eyepiece,type,12,What is the object's weight?,Attribute
+patch,type,9,Is the object related to a vehicle?,Category
+barbwire,type,18,Is the object you are thinking of barbed wire?,Direct
+urn,type,15,Is the object made of ceramic?,Attribute
+goblet,type,25,Is the object a soda glass?,Direct
+sledgehammer,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+stiletto,type,42,What is the object?,Direct
+screen,type,5,Is the object a phone?,Direct
+footstool,type,7,Is the object you are thinking of a footstool?,Direct
+armor,type,15,Is the object made of steel?,Attribute
+booklet,type,20,Does the book have any advertisements in it?,Attribute
+nightdress,type,32,What is the relationship of the object you are thinking of to a bed?,Category
+warship,type,17,Is the object a destroyer?,Direct
+textbook,type,3,Does the object have pages?,Attribute
+bootlace,type,14,What is the shape of the object you are thinking of?,Attribute
+snuffbox,type,1,Is the object you are thinking of something that can be held in one's hand?,Attribute
+burner,type,14,Is the object used for a specific task?,Function
+trumpet,type,8,Is the object a clarinet?,Direct
+dustbin,type,5,Is the object a type of container?,Category
+tambourine,type,2,How is the object used?,Function
+treadmill,type,6,Is the object you are thinking of a bicycle?,Direct
+urn,type,13,Is the object made of wood?,Attribute
+pantyhose,type,44,What is the feature of the object that makes it suitable for formal occasions?,Attribute
+hydrant,type,8,Is the object used for entertainment?,Function
+bazooka,type,10,Is the object you are thinking of a rifle?,Direct
+dress,type,13,How does the object stay in place on the body?,Attribute
+ukulele,type,7,Does the object you are thinking of have strings?,Attribute
+gearshift,type,4,What is the purpose of the object you are thinking of?,Function
+photo,type,7,What is the shape of the object?,Attribute
+stool,type,2,How is the object used?,Function
+bassinet,type,8,Is the object made of plastic?,Attribute
+nozzle,type,3,Is the object made of metal?,Attribute
+tinsel,type,14,Is the object you are thinking of a Christmas tree ornament?,Direct
+cabinet,type,4,Is the object commonly found in a household?,Location
+parka,type,17,What is the object you are thinking of used for in a specific situation?,Function
+pantsuit,type,46,How does the object you are thinking of relate to the sleeves it has?,Function
+satin,type,16,Is the object satin?,Attribute
+paintbox,type,11,Is the object made of only one type of plastic?,Attribute
+hovercraft,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+casket,type,25,What is the object?,Direct
+nightshirt,type,6,Is the object you are thinking of pajamas?,Direct
+spool,type,39,Is the object you are thinking of typically made by machine?,Category
+knuckles,type,20,What is the object you are thinking of?,Direct
+mitten,type,2,How is the object used?,Function
+hairnet,type,12,Is the object you are thinking of used to hold hair in place by gripping or pinching the hair?,Function
+pontoon,type,11,Is the object you are thinking of a flotation device?,Category
+strongbox,type,28,What is the object's purpose in relation to the user's needs?,Function
+tape,type,9,Is the object a type of tape?,Category
+sharkskin,type,16,Is the object you are thinking of made from natural fibers?,Attribute
+streetcar,type,2,Is the object you are thinking of man-made?,Category
+stocking,type,26,Is the object made of synthetic fibers?,Attribute
+painting,type,8,How does the object make the person viewing it feel?,Function
+computer,type,16,What is the color of the laptop you are thinking of?,Attribute
+quilt,type,6,Is the object a wool blanket?,Direct
+pamphlet,type,9,Is the object used for entertainment?,Function
+casket,type,30,Is that correct?,Direct
+cot,type,28,What is the object?,Direct
+transponder,type,7,What is the size of the object?,Attribute
+canteen,type,7,What is the shape of the object you are thinking of?,Attribute
+snowsuit,type,36,Is the object filled with synthetic insulation?,Attribute
+dishrag,type,11,What is the color of the object?,Attribute
+searchlight,type,2,What is the object used for?,Function
+anklet,type,23,Is the object typically stored in a box or case when not being used?,Location
+railcar,type,2,What is the purpose of the object?,Function
+cart,type,8,What is the object's primary function?,Function
+turban,type,6,Is the object a Santa hat?,Direct
+kettledrum,type,44,Is the object you are thinking of often used in pairs or groups?,Attribute
+stocking,type,40,What is the object used for?,Function
+periscope,type,3,What is the material composition of the object?,Attribute
+shingle,type,4,Is the object you are thinking of made of plastic?,Attribute
+jumpsuit,type,3,Is the object man-made?,Category
+wineglass,type,3,What is the object made of?,Attribute
+moat,type,37,What is the object?,Direct
+parka,type,1,What is the general size of the object you are thinking of?,Attribute
+awning,type,13,Is the object made of a synthetic material?,Attribute
+disc,type,9,How big is the object?,Attribute
+apron,type,3,Is the object made of fabric?,Attribute
+tourniquet,type,8,Is the object used to apply pressure to stop the flow of blood?,Function
+microcomputer,type,18,Does the object you are thinking of run on batteries?,Attribute
+telephone,type,2,What is the object used for?,Function
+knuckles,type,30,What is the object you are thinking of?,Direct
+photo,type,9,What is the weight of the object?,Attribute
+revolver,type,2,Is the object man-made?,Category
+pin,type,1,Is the object you are thinking of something that can be held in your hand?,Attribute
+shoestring,type,43,Is the object a shoelace?,Direct
+anvil,type,8,What is the approximate size of the object you are thinking of?,Attribute
+motorboat,type,1,What is the size of the object you are thinking of?,Attribute
+stove,type,18,What is the object?,Direct
+bootie,type,12,What is the size of the object?,Attribute
+nightdress,type,24,What is the purpose of the object you are thinking of?,Function
+corduroy,type,4,What is the purpose of the object you are thinking of?,Function
+carpetbag,type,25,What is the color of the object you are thinking of?,Attribute
+bobsleigh,type,2,How is the object used?,Function
+pill,type,3,Is the object made of plastic?,Attribute
+audiotape,type,13,Is the object you are thinking of a cassette tape?,Direct
+sifter,type,10,What is the object?,Direct

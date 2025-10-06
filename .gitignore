@@ -1,0 +1,18 @@
+# directories
+__pycache__
+Checker_Validation/RobertaAspect
+Checker_Validation/RobertaType
+Augmented_Results
+BayesInfoGain/results
+BayesInfoGain/Embedding/Results
+Eval_all*
+per_question*
+
+# scripts
+env.py
+test.py
+__pycache__/query_gpt.cpython-311.pyc
+ConceptInfoGain/conceptnet_english_edges.csv
+ConceptInfoGain/conceptnet_label_embeddings.pkl
+keys.py
+

@@ -1,0 +1,858 @@
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	No.(/)	No.(/)	Is the object used to hold or grip the roots of(plants?/plants?)	No.(/)	
+2	What is the shape of the(object?/object?)	What is the shape of the(object?/object?)	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	My guess is that the object is a(bathtub.?/bucket.?)	My guess is that the object is a(bowl.?/ceramic plate.?)	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/purpose?)	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+2	What is the object's(size?/color?)	What is the object's(color?/material?)	
+0	
+0	
+4	What is the object's(size?/weight?)	What is the object's(weight?/material?)	What is the object's(material?/color?)	What is the object's(color?/function?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the pattern on(the fabric?/the fabric?)	What is the texture of the(fabric?/fabric?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	Is the notebook a composition(notebook?/notebook?)	Is the notebook a(journal?/binder?)	Is the notebook a(catalog?/manual?)	Is the notebook a(manual?/brochure?)	Is the notebook a(pamphlet?/booklet?)	
+0	
+0	
+0	
+0	
+1	What kind of shoe is the(object?/object?)	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the shape of the(object?/object?)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+32	Is the object a small plastic container of(cough syrup?/acetaminophen?)	Is the object a small plastic container of(acetaminophen?/ibuprofen?)	Is the object a small plastic container of(ibuprofen?/eye drops?)	Is the object a small plastic container of eye(drops?/drops?)	Is the object a small plastic container of(ear drops?/nasal spray?)	Is the object a small plastic container of(nasal spray?/cough drops?)	Is the object a small plastic container of(cough drops?/throat lozenges?)	Is the object a small plastic container of(throat lozenges?/lip balm?)	Is the object a small plastic container of(lip balm?/antiseptic wipes?)	Is the object a small plastic container of(antiseptic wipes?/antibacterial ointment?)	Is the object a small plastic container of(antibacterial ointment?/hydrocortisone cream?)	Is the object a small plastic container of(hydrocortisone cream?/calamine lotion?)	Is the object a small plastic container of(calamine lotion?/aloe vera gel?)	Is the object a small plastic container of(aloe vera gel?/sunscreen?)	Is the object a small plastic container of(sunscreen?/insect repellent?)	Is the object a small plastic container of(insect repellent?/hand sanitizer?)	Is the object a small plastic container of(hand sanitizer?/eye ointment?)	Is the object a small plastic container of(eye ointment?/baby oil?)	Is the object a small plastic container of baby(oil?/lotion?)	Is the object a small plastic container of baby(lotion?/powder?)	Is the object a small plastic container of(baby powder?/petroleum jelly?)	Is the object a small plastic container of(petroleum jelly?/antibiotic ointment?)	Is the object a small plastic container of(antibiotic ointment?/burn cream?)	Is the object a small plastic container of(burn cream?/first aid cream?)	Is the object a small plastic container of first(aid cream?/relieving cream?)	Is the object a small plastic container of pain(relieving cream?/stopping cream?)	Is the object a small plastic container of(itch stopping cream?/cold sore medication?)	Is the object a small plastic container of(cold sore medication?/foot cream?)	Is the object a small plastic container of foot(cream?/powder?)	Is the object a small plastic container of foot(powder?/spray?)	Is the object a small plastic container of(foot spray?/deodorant?)	Is the object a small plastic container of(deodorant?/perfume?)	
+0	
+0	
+0	
+23	Is the object a tote(bag?/bag?)	Is the object a gym(bag?/bag?)	Is the object a(purse?/handbag?)	Is the object a(handbag?/satchel?)	Is the object a shoulder(bag?/bag?)	Is the object a hobo(bag?/bag?)	Is the object a baguette(bag?/bag?)	Is the object a bucket(bag?/bag?)	Is the object a saddle(bag?/bag?)	Is the object a bowling(bag?/bag?)	Is the object a diaper(bag?/bag?)	Is the object a beach(bag?/bag?)	Is the object a travel(bag?/bag?)	Is the object a weekender(bag?/bag?)	Is the object a carry on(bag?/luggage?)	Is the object a carry on(luggage?/duffel bag?)	Is the object a carry on(duffel bag?/tote?)	Is the object a carry on(tote?/satchel?)	Is the object a carry on(satchel?/backpack?)	Is the object a carry on(backpack?/roller bag?)	Is the object a small carry on(bag?/luggage?)	Is the object a small carry on(luggage?/suitcase?)	Is the object a small carry on(suitcase?/satchel?)	
+0	
+0	
+1	Is the object a(ring?/springboard?)	
+2	What is the object's(texture?/color?)	What is the object's(color?/smell?)	
+0	
+1	What is the length of the(object?/object?)	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+1	at is the object's maneuverability(like?/like?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+43	What is the object typically used to cut?(/)	What is the object typically used to cut?(/)	What is the object typically used to cut?(/)	What is the object typically used to cut?(/)	What is the object typically used to(cut?/chop?)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	
+0	
+0	
+0	
+0	
+0	
+0	
+13	What is the object's(shape?/color?)	What is the object's(color?/texture?)	Goodbye.?(/)	Goodbye.?(/)	No.?(/)	No.?(/)	No.?(/)	No.?(/)	No.?(/)	o.?(/)	o.?(/)	o.?(/)	o.?(/)	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	Is the object a(waterbed?/headboard?)	Is the object a(headboard?/mattress?)	No.(/)	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+9	My guess is that the object is a(corner bracket.?/angle bracket.?)	My guess is that the object is a metal(bracket.?/clamp.?)	My guess is that the object is a metal(clamp.?/fastener.?)	My guess is that the object is a metal(beam.?/rod.?)	My guess is that the object is a metal(frame.?/lattice.?)	My guess is that the object is a metal(fence.?/railing.?)	My guess is that the object is a metal(railing.?/gate.?)	My guess is that the object is a metal(rod.?/tube.?)	My guess is that the object is a metal(tube.?/beam.?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+2	What are the dimensions of(the object?/the object?)	What is the width of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+2	What is the object's(size?/color?)	What is the object's(color?/weight?)	
+0	
+0	
+0	
+1	What size is the(object?/object?)	
+0	
+0	
+1	What is the object's head(used for?/pounded with?)	
+2	What is the general shape of(the object?/the object?)	I'm going to guess that the object is a(post.?/fence post.?)	
+6	What is the size of the(object?/object?)	I'm going to guess that the object is a(welcome mat.?/concrete stoop.?)	I'm going to guess that the object is a concrete(landing.?/step again.?)	I'm going to guess that the object is a(concrete sill.?/concrete threshold again.?)	'm going to guess that the object is a concrete(threshold again.?/step again.?)	going to guess that the object is a(concrete door sill.?/concrete threshold again.?)	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(shape?/color?)	What is the object's(color?/purpose?)	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/function?)	
+0	
+2	What is the size of the(object?/object?)	What is the material the object is(made of?/made of?)	
+0	
+0	
+2	What is the general shape of(the object?/the object?)	What is the typical size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What are the dimensions of(the object?/the object?)	What is the width of the(object?/object?)	
+32	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	What is the object used to grip or hold?(/)	
+0	
+1	What is the general size of(the object?/the object?)	
+1	What is the general shape of(the object?/the object?)	
+0	
+1	What is the object's(size?/shape?)	
+0	
+0	
+0	
+0	
+2	What is the general shape of(the object?/the object?)	What is the object typically used for besides protecting the(eyes?/eyes)	
+0	
+1	What is the typical use of the(object?/object?)	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+3	What is the object's(size?/weight?)	What is the object's(weight?/material?)	What is the object's(material?/purpose?)	
+0	
+14	What is the object's handle made(of?/of?)	Is the object's name a(noun?/common noun?)	Is the object's name(""Blowbrush""?"/""Bristlebrush""?")	Is the object's name(""Bristlebrush""?"/""Hairbrush""?")	Is the rotating part a(wheel?/dial?)	Is the rotating part a(roller?/cylinder?)	Is the rotating part a(cylinder?/gear?)	Is the rotating part a(gear?/ball?)	Is the rotating part on the end of(the object?/the object?)	Is the rotating part in the middle of(the object?/the object?)	Is the rotating part near the base of(the object?/the object?)	Is the rotating part at the top of(the object?/the object?)	Is the rotating part on the side of the(object?/object?)	Is the rotating part on the back of the(object?/object?)	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+1	How big are the boxes that the object is used for(carrying?/carrying?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+25	Is the object a blue(sapphire?/topaz?)	Is the object an(opal?/aquamarine?)	Is the object a piece of(azurite?/blue calcite?)	Is the object a piece of(blue calcite?/sodalite?)	Is the object a piece of(sodalite?/kyanite?)	Is the object a piece of(kyanite?/charoite?)	Is the object a piece of(charoite?/benitoite?)	Is the object a piece of(benitoite?/tanzanite?)	Is the object a piece of blue(amber?/jade?)	Is the object a piece of blue(onyx?/ammolite?)	Is the object a piece of blue(ammolite?/sunstone?)	Is the object a piece of blue(sunstone?/moonstone?)	Is the object a piece of blue(moonstone?/rhodochrosite?)	Is the object a piece of blue(rhodochrosite?/fluorite?)	Is the object a piece of blue(fluorite?/apatite?)	Is the object a piece of blue(apatite?/scapolite?)	Is the object a piece of blue(scapolite?/danburite?)	Is the object a piece of blue(danburite?/celestite?)	Is the object a piece of blue(celestite?/barite?)	Is the object a piece of blue(barite?/stilbite?)	Is the object a piece of blue(stilbite?/heulandite?)	Is the object a piece of blue(heulandite?/natrolite?)	Is the object a piece of blue(natrolite?/mesolite?)	Is the object a piece of blue(mesolite?/thomsonite?)	Is the object a piece of blue(thomsonite?/scolecite?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+1	What is the size of the object?(/)	
+0	
+1	type of clothing that is worn for a specific type of athletic activity that involves(a racket?/running?)	
+2	What is the object's(length?/width?)	What is the object's(width?/material?)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+1	What is the object's(size?/shape?)	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+1	What is the object's(shape?/color?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+1	Is the object a leather pouch used to hold(coins?/coins)	
+0	
+1	What is the object's(purpose?/size?)	
+0	
+0	
+0	
+1	What is the subject of the(painting?/painting?)	
+1	How long is the(object?/object?)	
+1	What is the general shape of(the object?/the object?)	
+1	Does the object have a(hood?/fleece lining?)	
+0	
+5	What is the general shape of(the object?/the object?)	What is the material of the beads?(/)	What is the material of the beads?(/)	What is the material of the(beads?/beads?)	What is the color of(the beads?/the object?)	
+0	
+0	
+0	
+0	
+0	
+1	The object is worn on the(body./user's body.)	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	My guess is that the object is a(ball.?/plastic ball.?)	
+0	
+0	
+0	
+0	
+1	No.(/)	
+0	
+0	
+13	What is the style of the(suit?/suit?)	What is the typical industry that the object is used(in?/in?)	No.(/)	No.(/)	No.(/)	No.(/)	The object is made of wool.(/)	The object is made of wool.(/)	The object is made of wool.(/)	The object is made of wool.(/)	The object is made of wool.(/)	The object is made of wool.(/)	The object is made of wool.(/)	
+0	
+5	What is the genre of the novel?(/)	What is the genre of the(novel?/novel?)	What is the size of the(novel?/novel?)	What is the color of the(novel?/novel?)	What is the object's size compared to a standard sheet of(paper?/paper?)	
+1	What is the size of the(object?/object?)	
+0	
+0	
+1	My guess is that the object is a(box. ?/envelope. ?)	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(texture?/color?)	What is the object's(color?/size?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+44	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	What is the object used to hold or contain?(/)	
+0	
+0	
+1	Is the object a(purse?/pouch?)	
+2	What is the general size of(the object?/the object?)	I made a statement that I guessed that the object is a boat(and you said yes/and you said yes)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	What is the size of the(object?/object?)	My guess is that the object is a(bag. ?/handbag.?)	My guess is that the object is a(handbag.?/backpack.?)	My guess is that the object is a duffel(bag.?/bag.?)	What is the object's length in(inches?/inches?)	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the shape of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+2	What is the general size of(the object?/the object?)	Is the object a door(header?/header?)	
+0	
+0	
+0	
+0	
+0	
+0	
+5	What type of hat is the object?(/)	Is the object a garrison(cap?/cap?)	Is the object a(petasos?/kippah?)	Is the object a(kippah?/yarmulke?)	Is the object a(yarmulke?/kippah?)	
+0	
+0	
+1	What is the object typically used for(breaking?/breaking)	
+0	
+0	
+0	
+45	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	What is the object used to cover or protect?(/)	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+1	What is the object's size compared to the human(body?/body?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/color?)	
+0	
+0	
+0	
+0	
+0	
+1	What are the lines(for?/for?)	
+0	
+0	
+0	
+1	at is the object's most(common name?/distinctive part?)	
+0	
+1	What is the smell of the(object?/object?)	
+0	
+0	
+0	
+0	
+1	What is the general size of the object you are(thinking of?/thinking of?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/purpose?)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object typically used to chop?(/)	What is the object typically used to chop?(/)	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+1	What is the object used to(paint?/paint)	
+0	
+1	What is the object's(shape?/function?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+1	What is the object's(color?/smell?)	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+1	Is the object a steak knife with a spoon on the(end?/end?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+26	Is the object a piece of(plywood?/drywall?)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	Is the object drywall?(/)	
+0	
+1	What is the object's(color?/size?)	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+1	What is the texture of(the surface?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+0	
+2	What is the texture of the(surface?/surface?)	What is the color of the(surface?/surface?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+2	What is the size of the(object?/object?)	What is the material of the(object?/object?)	
+0	
+0	
+0	
+3	I'm going to guess the object is a red Toyota Camry with a 6 cylinder(engine.?/engine.?)	I'm going to guess the object is a red 2015 Toyota Avalon with a 6 cylinder engine and a front wheel drive(drivetrain.?/drivetrain.?)	What is the car's torque?(/)	
+0	
+0	
+0	
+0	
+1	What is the texture of the(object?/object?)	
+0	
+1	What is the object's(size?/function?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(weight?/color?)	
+0	
+1	What is the size of the object you are thinking(of?/of?)	
+1	What is its(shape?/color?)	
+0	
+0	
+0	
+0	
+0	
+1	What shape is the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the texture of the(object?/object?)	
+1	What is the size of the(object?/object?)	
+0	
+0	
+1	What is the general size of(the object?/the object?)	
+0	
+1	I am going to take a guess that the object is a(ship.?/submarine.?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+33	What is the material of the(seats?/exterior?)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	What is the vehicle?(/)	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+1	What is the object's(shape?/purpose?)	
+0	
+6	What color is the(car?/car?)	Does the car have leather(seats?/seats?)	Does the car have a(navigation system?/DVD player?)	Does the car have a(DVD player?/sliding door?)	Does the car have a(sliding door?/moonroof?)	What is the year of the(car?/car?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the general shape of(the object?/the object?)	What is the approximate length of the(object?/object?)	
+0	
+0	
+0	
+2	What is the general shape of(the object?/the object?)	What is the typical size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(limousine?/car?)	Is the object a Toyota(car?/bus?)	
+2	Does the drum have a cable attached to(it?/it?)	Does the drum have a spring attached to(it?/it?)	
+0	
+0	
+0	
+0	
+1	What type of object is commonly swung from side to(side to move things?/side?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(object?/object?)	
+0	
+0	
+1	What is the object's(size?/color?)	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+32	Is the object a model(2500?/500?)	Is the object a model(500?/2554?)	Is the object a model(2554?/554?)	Is the object a model(554?/2500 DMG?)	Is the object a model 2500 with a lighted(dial?/dial?)	Is the object a model 500 with a lighted(dial?/dial?)	Is the object a model 554 with a(lighted dial?/rotary dial?)	Is the object a model 2500 with a rotary(dial?/dial?)	Is the object a model 2500 with a touch tone(dial?/dial?)	Is the object a model 2500 with a touch tone dial and a(cord?/cord?)	Is the object a model 500 with a touch tone dial and a(cord?/cord?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western(Electric?/Electric?)	Is the object a model 500 with a touch tone dial and a cord and made by Western(Electric?/Electric?)	Is the object a model 554 with a touch tone dial and a cord and made by(Western Electric?/Western Electric and a desk phone?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk(phone?/phone?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk(phone?/phone?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a(desk phone?/desk phone and made of plastic?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of(plastic?/plastic?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of(plastic?/plastic?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a desk phone and made(of plastic?/of plastic and used for verbal communication?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal(communication?/communication?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal(communication?/communication?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for(verbal communication?/verbal communication and has buttons?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has(buttons?/buttons?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has(buttons?/buttons?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and(has buttons?/has buttons and a screen?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and a(screen?/screen?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and a(screen?/screen?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and(a screen?/a screen and is a standard touch tone desk phone?)	Is the object a model 2500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and a screen and is a standard touch tone desk(phone?/phone?)	Is the object a model 500 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and a screen and is a standard touch tone desk(phone?/phone?)	Is the object a model 554 with a touch tone dial and a cord and made by Western Electric and a desk phone and made of plastic and used for verbal communication and has buttons and a screen and is a standard touch tone(desk phone?/desk phone and has a rectangular or square shape?)	
+2	What is the object's model year?(/)	What is the object's smart TV platform?(/)	
+1	What is the texture of the(object?/object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the general shape of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the size of the(battleship?/battleship?)	
+0	
+0	
+0	
+0	
+0	

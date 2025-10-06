@@ -1,0 +1,785 @@
+spacesuit,14,Oracle said: What is your first question?	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+
+ Guesser said: With the object being man-made, having a function, varying in size, being found indoors, not requiring power, and not being related to recreation, food, furniture, or construction, my next question is: Is the object you are thinking of used for storage or organization in any way?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+
+ Guesser said: With the object being man-made, having a function, varying in size, being found indoors, not requiring power, and not being related to recreation, food, furniture, or construction, my next question is: Is the object you are thinking of used for storage or organization in any way?
+
+ Oracle said: No.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+
+ Guesser said: With the object being man-made, having a function, varying in size, being found indoors, not requiring power, and not being related to recreation, food, furniture, or construction, my next question is: Is the object you are thinking of used for storage or organization in any way?
+
+ Oracle said: No.
+
+ Guesser said: Given all the previous information and the fact that the object is not used for storage or organization, my next question is: Is the object you are thinking of made primarily of fabric or textile materials?
+	You are named Guesser. You are trying to guess what physical object or physical material Oracle is thinking of. You will open ended questions to get more information about the object. When you believe you have enough information about the object you will guess what it is. Your guessing will be informed by your prior guesses. You will start each message with Guesser said: . If you guess wrong you will ask more questions about the object until you have enough information to guess again. 
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+
+ Guesser said: With the object being man-made, having a function, varying in size, being found indoors, not requiring power, and not being related to recreation, food, furniture, or construction, my next question is: Is the object you are thinking of used for storage or organization in any way?
+
+ Oracle said: No.
+
+ Guesser said: Given all the previous information and the fact that the object is not used for storage or organization, my next question is: Is the object you are thinking of made primarily of fabric or textile materials?
+
+Oracle said: Yes.
+	You are named Oracle. Guesser is trying to guess what physical object you are thinking of. Guesser will ask questions about object that you will answer. When Guesser correctly guesses the object, you will only return Correct. If Guesser asks: is it a type of object, and the object is the same as your object then this is also a correct guess. You can not give the Guesser any information that they did not ask for. You can not give the Guesser any additional information beyound what they asked. You start each response with Oracle said: . The object you are thinking of is a spacesuit.
+Oracle said: What is your first question?
+ Guesser said: What is the size of the object you are thinking of?
+
+Oracle said: The size of the object I am thinking of varies.
+
+Guesser said: Does the object you are thinking of have a function or purpose that people use it for?
+
+ Oracle said: Yes.
+
+ Guesser said: Is the object you are thinking of something that can be held in your hand?
+
+ Oracle said: No.
+
+Guesser said: Is the object you are thinking of man-made?
+
+ Oracle said: Yes.
+
+ Guesser said: Based on your previous answers, my first guess is that the object you are thinking of is a car. Is that correct?
+
+Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function or purpose, and varies in size, my next question is: Is the object you are thinking of related to construction or building in any way?
+
+ Oracle said: No.
+
+Guesser said: Given that the object is man-made, has a function, varies in size, and is not related to construction, my next question is: Is the object you are thinking of something that can be found indoors?
+
+Oracle said: It can be found indoors.
+
+ Guesser said: With the additional information that the object can be found indoors, varies in size, is man-made, and has a function, my next question is: Is the object you are thinking of related to furniture?
+
+ Oracle said: No.
+
+ Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, and is not related to furniture, my next question is: Does the object you are thinking of require any kind of power or electricity to function?
+
+Oracle said: No.
+
+ Guesser said: Given that the object does not require power or electricity and considering all the previous information, my next question is: Is the object you are thinking of related to food or drink in any way?
+
+Oracle said: No.
+
+Guesser said: Since the object is man-made, has a function, varies in size, can be found indoors, does not require power, and is not related to food, furniture, or construction, my next question is: Is the object you are thinking of used for recreational or entertainment purposes?
+
+Oracle said: No.
+
+ Guesser said: With the object being man-made, having a function, varying in size, being found indoors, not requiring power, and not being related to recreation, food, furniture, or construction, my next question is: Is the object you are thinking of used for storage or organization in any way?
+
+ Oracle said: No.
+
+ Guesser said: Given all the previous information and the fact that the object is not used for storage or organization, my next question is: Is the object you are thinking of made primarily of fabric or textile materials?
+
+Oracle said: Yes.
+
+ Guesser said: Since the object is made primarily of fabric or textile materials, is man-made, has a function, varies in size, and can be found indoors, my next guess is that the object you are thinking of is a piece of clothing. Is that correct?
+

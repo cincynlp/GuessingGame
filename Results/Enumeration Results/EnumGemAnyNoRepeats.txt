@@ -1,0 +1,858 @@
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+3	What is the object's(function?/category?)	Is the object worn on the(wrist?/ear?)	Is the object worn on the(ear?/ankle?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(cornerstone?/chalice?)	
+4	What is the color of the trash(can?/can?)	What is the object's(shape?/function?)	What is the object's(shape?/category?)	What is the object's(shape?/category?)	
+0	
+2	Is the object a(bridge?/path?)	Is the path a dirt(road?/road?)	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a cattle(fence?/fence?)	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+1	Is the object typically worn on the(feet?/head?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the primary function of(this object?/this object?)	
+1	Is the jacket a(coat?/vest?)	
+0	
+4	Is the shirt a formal(shirt?/shirt?)	Is the shirt a(t-shirt?/sweatshirt?)	Is the shirt a polo(shirt?/shirt?)	Is the shirt a henley(shirt?/shirt?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the book a(pamphlet?/magazine?)	
+0	
+0	
+0	
+1	Is the object a(toy?/boomerang?)	
+0	
+0	
+0	
+0	
+0	
+1	Is this object a(container?/cup?)	
+0	
+0	
+0	
+1	What is the object's(shape?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+1	What is the primary function of(the object?/the object?)	
+0	
+0	
+1	What is the object's(material?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(bus?/streetcar?)	
+1	Is the object a logging(trailer?/trailer?)	
+1	Is the object a(boat?/ride?)	
+1	Is the object a(fabric?/wrap?)	
+0	
+0	
+0	
+0	
+0	
+6	Is the food wrapper for(sandwiches?/produce?)	Is the food wrapper for(produce?/pre-packaged meals?)	Is the food wrapper for(pre-packaged meals?/candy?)	Is the food wrapper for(candy?/meat?)	Is the object a wrapper for a(frozen pizza?/sandwich?)	Is the object a wrapper for a(sandwich?/chocolate bar?)	
+2	What is the object's(shape?/location?)	What is the object's(location?/category?)	
+0	
+1	Is the object a(train?/car?)	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(container?/cup?)	Is the dish a dessert(plate?/plate?)	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(location?/function?)	Is the object a disposable cleaning(object?/object?)	
+0	
+0	
+0	
+1	Does the object have a(water reservoir?/heating element?)	
+0	
+0	
+1	Is the object a(tapestry?/print?)	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(pamphlet?/periodical?)	Is the object a(periodical?/report?)	
+1	Is the object typically worn around the(neck?/waist?)	
+0	
+3	Is the object typically worn on the(legs?/upper body?)	Is the object a(bodysuit?/bolero?)	Is the object a(bolero?/cape?)	
+0	
+0	
+0	
+2	Is the object a(table?/container?)	Is the object a(container?/cup?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(material?/function?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(javelin?/toy?)	
+0	
+0	
+1	Is the object a(sign?/mosaic?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+2	Is the object a(container?/bowl?)	Is the object a(pot?/utensil?)	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the stone step part of a(building?/staircase?)	
+0	
+1	Is the object a(blind?/shade?)	
+0	
+2	Is the object typically worn on the(feet?/hands?)	Is the object typically worn on the(hands?/torso?)	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+1	What is the object's(size?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(function?/location?)	What is the object's(function?/location?)	
+1	What is the object's(function?/category?)	
+0	
+1	What is the object's(color?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the primary function of(the object?/the object?)	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+1	What is the object's(function?/location?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+1	Is the object a(bolero?/wrap?)	
+1	What is the primary function of(the object?/the object?)	
+0	
+0	
+1	What is the typical size of the(sack?/sack?)	
+1	Is the object a(bed?/machine?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+2	Is the object a(garment?/towel?)	Is the object a sanitary(item?/pad?)	
+0	
+0	
+0	
+0	
+1	Is the box a keepsake(box?/box?)	
+0	
+0	
+1	Is the object typically worn(outdoors?/by women?)	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+2	What is the object's(function?/category?)	Is the object a(boot?/case?)	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+1	Is the object a(shirt-dress?/uniform?)	
+1	Is the object a(deck?/sunshade?)	
+0	
+0	
+0	
+1	What is the size of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+4	Is the object a pair of(bikini bottoms?/boy shorts?)	Is the object a pair of(boy shorts?/high-cut underwear?)	Is the object a pair of(boxer briefs?/athletic underwear?)	Is the object a pair of(shapewear?/thermal underwear?)	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(tool?/hammer?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(slingshot?/weapon?)	
+0	
+0	
+2	Is the object a(house?/tool?)	Is the object a(tool?/fence?)	
+1	What is the physical shape of(the object?/the object?)	
+0	
+0	
+1	What is the object's(function?/location?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+1	What is the object's(size?/category?)	
+0	
+0	
+1	Is the object a(structure?/gazebo?)	
+0	
+0	
+1	What is the object's(function?/shape?)	
+0	
+1	Is the object a(wall?/weapon?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+4	Is the object typically worn on the(head?/feet?)	Is the object typically worn on the(feet?/hands?)	Is the object typically worn on the(hands?/torso?)	Is the shirt a(t-shirt?/sweatshirt?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object typically worn on the(upper body?/legs?)	
+1	What is the object's(size?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(shape?/function?)	What is the object's(shape?/function?)	
+0	
+1	Is the object a(shirt?/pattern?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+1	What is the object's(category?/shape?)	
+0	
+0	
+0	
+0	
+2	Is the object a(lining?/binding?)	Is the object a(hem?/facing?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the house a(shack?/bungalow?)	Is the house a(ranch?/playhouse?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+1	Is the object a(cup?/container?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+2	Is the boat a(toy?/canoe?)	Is the boat a(sailboat?/rowboat?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the primary function of(the object?/the object?)	
+0	
+0	
+2	What is the object's(shape?/purpose?)	Is the object a(canopy?/lean-to?)	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+1	What is the object's(color?/location?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object typically worn on the(head?/feet?)	
+0	
+1	Is the object a pair(of pants?/of accessory?)	
+0	
+1	Is the object a(box?/case?)	
+1	What is the object's(function?/category?)	
+0	
+1	Is the object used in(the kitchen?/construction?)	
+0	
+0	
+2	What is the weight of the(bag?/bag?)	Is the bag a(mailbag?/schoolbag?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(sponge?/plant?)	Is the object a(plant?/clam?)	
+0	
+0	
+0	
+0	
+1	Is the object a(weapon?/sword?)	
+1	Is the object a wooden(siding?/window shutter?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+1	What is the object's(function?/category?)	
+3	What is the object's(function?/category?)	Is the wall part of a(fence?/room?)	Is the wall part of a(garage?/house?)	
+0	
+0	
+0	
+1	Is the object a cripple(stud?/stud?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+1	Does it have a specific(shape?/function?)	
+0	
+0	
+0	
+2	What is the object's(shape?/category?)	Is the object a(toy?/slingshot?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(container?/box?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the statue a(relief?/torso?)	
+0	
+0	
+0	
+0	
+3	What is the object's(function?/category?)	Is the object a(vehicle?/tower?)	Is the object a(sculpture?/tool?)	
+0	
+0	
+1	What is the book's(genre?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/location?)	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+2	Is the object a(maraca?/triangle?)	Is the object a(triangle?/cymbal?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+1	Is the book a(dictionary?/novel?)	
+0	
+0	
+0	
+0	
+0	
+4	Is the object a(track?/sidewalk?)	Is the object a(sidewalk?/trail?)	Is the object a(lane?/walkway?)	Is the object a(walkway?/path?)	
+0	
+0	
+0	
+0	
+1	Is the object a wall-mounted(plastic flower?/plastic sign?)	
+2	Is the object a(vehicle?/sled?)	Is the object a(vehicle?/sled?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	Is the object typically worn on the(head?/feet?)	Is the object typically worn on the(feet?/hands?)	Does the object typically cover the(legs?/arms?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(blazer?/uniform?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(facing?/lining?)	
+1	Is the object typically worn on the(torso?/arms?)	
+1	Is the object a(schedule?/map?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a glass(block?/observation deck?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+3	What is the object's(function?/category?)	Is the binding along the short(side?/side?)	What is the object's(function?/category?)	
+2	What is the object's(category?/purpose?)	What is the object's(shape?/use?)	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+1	Is the object related to(naval combat?/defense?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a hearing(aid?/enhancement device?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(game?/statue?)	
+0	
+0	
+1	What is the object's(shape?/category?)	
+0	
+1	What is the object's(purpose?/shape?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(function?/category?)	
+3	What is the object's(purpose?/shape?)	What is the object's(shape?/function?)	What is the object's(shape?/purpose?)	
+0	
+0	
+0	
+0	
+0	
+1	Is the object a(car?/truck?)	
+1	Is it a(sedan?/bus?)	
+1	Is the object a(weapon?/bomb?)	
+0	
+0	
+3	What is the object's(shape?/purpose?)	What is the size of the(object?/object?)	What is the object's(color?/function?)	
+1	What is the object's(shape?/category?)	
+2	What is the object's(shape?/category?)	Is the object a(sedan?/van?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the primary use of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the primary purpose of(the object?/the object?)	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(shape?/location?)	
+0	
+0	
+0	
+0	
+0	
+0	
+2	What is the object's(shape?/purpose?)	What is the object's(category?/size?)	
+0	
+1	Is the boat a(ferry?/warship?)	
+1	Is the object a cargo(ship?/ship?)	
+0	
+1	What is the object's(function?/category?)	
+0	
+1	What is the object's(shape?/category?)	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	Does the object have a(hitch?/bed?)	Is the object a commercial(cart?/cart?)	
+0	
+0	
+0	
+0	
+0	
+0	
+1	What is the object's(size?/location?)	
+0	
+1	Is the object used on(a lake?/the ocean?)	
+0	
+0	
+0	
